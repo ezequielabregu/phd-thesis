@@ -1,0 +1,881 @@
+# Evaluación del método de respuesta de localización directa para medir la percepción auditiva de distancia
+
+## Resumen
+
+El reporte verbal es el método de respuesta más usado en experimentos
+psicofísicos de Percepción Auditiva de Distancia (PAD). En general, los
+resultados obtenidos con este método muestran un sesgo sustancial y una
+alta variabilidad. El propósito de este capítulo es evaluar la idoneidad
+de una metodología de acción directa para medir la percepción auditiva
+de distancia de fuentes sonoras ubicadas en el campo lejano. Para esto
+diseñamos un setup experimental que les permite a los participantes
+indicar la distancia a la cual perciben la fuente sonora mediante una
+marca visual móvil. Denominamos a este método Cross Modal Direct
+Location, porque involucra un sistema de respuesta que utiliza la
+modalidad visual, mientras que el estímulo presentado es auditivo. Para
+estudiar la idoneidad del método comparamos las respuestas obtenidas
+entre el método de Cross Modal Direct Location y el de Reporte Verbal.
+
+## Introducción
+
+La Percepción Auditiva de Distancia (PAD) ha sido estudiada por más de
+un siglo usando diferentes metodologías, entornos acústicos (tanto
+reales como virtuales) y estímulos. Como hemos mencionado, sabemos que
+la PAD depende de la integración de diferentes indicios: intensidad del
+sonido, relación de energía directo/reverberante, contenido espectral,
+diferencias binaurales y conocimiento previo de la fuente, entre otras
+(ver Zahorik, 2005 ; Calcagno et al., 2014; para una revisión completa
+de estos tópicos).
+
+En la mayoría de los estudios de PAD, el reporte de los participantes
+muestra un gran sesgo y alta variabilidad. Típicamente, los reportes de
+distancia son sobrestimados respecto a las fuentes cercanas menores a 3
+metros, mientras que las respuestas son subestimadas sustancial y
+progresivamente para distancias mayores a 3 metros (Loomis et al., 1998;
+Bronkhorst y Houtgast, 1999; Zahorik, 2002; Fontana y Rocchesso, 2008;
+Kearney et al., 2012; Parseihian et al., 2014). La relación no lineal
+compresiva entre la localización de la fuente y la respuesta es
+reflejada en un exponente menor a uno cuando los resultados son
+ajustados a una función de potencia (media = 0.54, reportado por Zahorik
+et al., 2005).
+
+En general, existe consenso en que las respuestas compresivas observadas
+en los experimentos de PAD tienen un origen perceptual (Zahorik, 2005)
+en vez de ser inducidas por el método de respuesta. Una de las hipótesis
+postulada por la literatura es que, en entornos reverberantes, la
+relación D/R tiende a ser constante para distancia más grandes que
+cierto umbral conocido como "*horizonte auditivo*" (Zahorik et al.,
+2005; Bronkhorst y Houtgast, 1999). Si se tiene en cuenta que la
+relación D/R es considerada como una pista de distancia relevante, la
+disminución de su variación haría que los cambios en la distancia de la
+fuente en ese rango fueran indistinguibles.
+
+Apoyando esta idea, Loomis et al. (1998) mostró que la naturaleza
+compresiva de la respuesta se mantuvo al realizar los experimentos
+utilizando dos métodos de respuesta diferentes: el Reporte Verbal (RV),
+en el cual el sujeto debe expresar verbalmente la respuesta usando
+escalas de distancia explícitas, como metros o pies; y métodos de acción
+directa, en los que se utiliza una acción para indicar la distancia
+percibida, (como por ejemplo caminar a ciegas, apuntar, lanzar un
+objeto, etc.). Por último, los experimentos de Percepción Visual a
+Distancia (PVD) han demostrado que las respuestas obtenidas utilizando
+métodos similares mostraron un sesgo y una variabilidad más baja que los
+observados en los experimentos de PAD, apoyando la idea de que el origen
+de este efecto se debe a factores perceptivos específicos de la
+modalidad auditiva (Loomis et al., 2002; Loomis et al., 1998).
+
+Sin embargo, varios estudios recientes sugieren que los métodos
+experimentales influyen en la respuesta obtenida tanto en la PAD como en
+la PVD. Por ejemplo, Andre y Rogers (2006) compararon el RV y el método
+de caminar a ciegas para medir la respuesta de PVD, y mostraron que
+estos últimos son consistentemente más precisos que los RVs. Además,
+Ashmead et al. (1995) utilizaron el método de caminar a ciegas para
+medir las curvas de PAD y obtuvieron respuestas más precisas que las
+típicamente reportadas usando RV. Finalmente, Brungart et al. (2000)
+realizaron experimentos de PVD y PAD en el campo cercano (distancia \<1
+m) comparando el RV con otros tres métodos de Localización Directa (LD)
+e indirecta. El método LD consistió en reportar la distancia percibida
+colocando un sensor de seguimiento electromagnético montado en la punta
+de una vara. Los autores encontraron que el método LD fue superior
+(mostrando un sesgo y variabilidad más pequeños) que los RVs en ambas
+modalidades. Los autores concluyeron que el método LD parece ser una
+respuesta más natural que el RV, ya que no se requiere ninguna
+transformación mental, además de que los sujetos pueden usar sus propios
+puntos de referencia anatómicos para determinar la ubicación del
+objetivo.
+
+A diferencia del campo cercano, donde se utilizó una variedad de métodos
+de acción directa, el método más utilizado en experimentos de PAD en
+campo lejano es el RV (Bronkhorst y Houtgast, 1999; Zahorik, 2001 y
+2002; Calcagno et al., 2012) que, como se mencionó anteriormente, parece
+ser menos preciso que las estimaciones de acción directa. La falta de
+uso de métodos de acción directa en el campo lejano podría estar
+motivada por el hecho de que las distancias estimadas están fuera del
+alcance del oyente, requiriendo dispositivos más complicados, y con
+frecuencia cediendo a tareas experimentales más lentas y complicadas.
+Los RV se han utilizado no sólo en los estudios auditivos sino también
+en los de percepción visual a distancia (Andre y Rogers, 2006; Da Silva,
+1985; Loomis et al., 1998). Su ventaja radica en que reduce el consumo
+de recursos ya que la tarea es muy simple y, bajo ciertas condiciones,
+es un método preciso para estimar las distancias. Sin embargo, la
+principal desventaja de las RV es que el método se ve afectado por la
+información del contexto ambiental (Andre y Rogers, 2006; Iosa et al.,
+2012).
+
+En este trabajo, hemos probado un método de LD que elude las desventajas
+típicas de su tipo. Mediante éste método, para reportar la distancia
+percibida los participantes usan un control remoto manual para mover un
+marcador visual (conformado por dos LEDs) que se desplaza paralelamente
+a la línea que une al oyente y la fuente de sonido. Denominamos este
+método *Cross Modal Direct Location* (CMDL) ya que el procedimiento de
+respuesta involucra la modalidad visual, mientras el estímulo se
+presenta a través de la modalidad auditiva. CMDL es muy similar al usado
+en un estudio de PAD realizado por Fontana y Rocchesso (2008). Sin
+embargo, en nuestro caso introdujimos varios cambios que facilitan la
+tarea tanto para el participante como para el experimentador. Además,
+Fontana y Rocchesso (2008) estudiaron el efecto de exagerar la señal
+acústica de reverberación manteniendo la señal de intensidad
+prácticamente constante con la distancia de la fuente.
+Desafortunadamente, los autores no utilizaron este método para medir la
+PAD en condiciones más naturales, haciendo difícil comparar sus
+resultados con estudios previos que utilizaron otros métodos.
+
+Con el objetivo de estudiar la respuesta de PAD obtenida mediante el RV
+en comparación al método de CMDL, se realizaron una serie de
+experimentos de PAD en un entorno semi-reverberante real, utilizando
+estímulos de banda ancha (ruido blanco) presentados en el campo lejano
+desde diferentes distancias.
+
+## Métodos generales
+
+*Entorno experimental*
+
+Todos los experimentos se realizaron en una sala semi-reverberante
+(longitud: 12.1 m, ancho: 6.9 m, altura: 3 m). El tiempo medio de
+reverberación de la habitación (T 30, Ponderación A medida con el método
+MLS) es 0.45 s respecto a la posición del participante. El ruido de
+fondo de la habitación en esa posición fue de 19 dBA (RION NL-117 32).
+
+*Participantes*
+
+Participaron 32 voluntarios (26 hombres, con edades comprendidas entre
+18 y 35 años). La mayoría de los voluntarios (\~ 75%) eran estudiantes
+de la Escuela de Artes de la Universidad Nacional de Quilmes. Todos los
+participantes informaron una visión normal (o corregida) y una audición
+normal. Ninguno de los participantes tenía conocimiento previo de la
+sala de pruebas ni de sus dimensiones.
+
+*Dispositivo experimental y estímulos auditivos y visuales*
+
+El montaje experimental consistió en un altavoz (Genelec 8020B,
+bi-amplificado 50W) situado delante del participante, a 1.2 m por encima
+del nivel del piso. La fuente sonora estuvo libre de moverse suspendida
+a lo largo de un riel metálico de 6 m de longitud (Fig. 8.1A). La fuente
+de sonido se movió manualmente permitiendo que el estímulo se presentara
+a diferentes distancias del participante (D). El parlante fue controlado
+por una interfaz de audio estéreo (PreSonus AudioBox 2x2 USB). El
+estímulo auditivo consistió en ráfagas de ruido blanco de 500 ms (ancho
+de banda medido de 0.05 a 20 kHz). El nivel sonoro del estímulo se fijó
+a un nivel confortable, de aproximadamente 70 dBA, medido en la posición
+del participante con la fuente localizada a D=1 m. Entre los ensayos, se
+presentó un sonido de enmascaramiento a través de dos altavoces situados
+a ambos lados del participante (Fig. 8.1B) a un nivel similar al del
+estímulo, con el fin de enmascarar cualquier ruido posible relacionado
+con el procedimiento de movimiento del altavoz. Dos segundos después del
+final del sonido de enmascaramiento, el estímulo auditivo fue presentado
+a través del parlante de prueba.
+
+El método de respuesta CMDL consistió en un sistema mediante el cual el
+participante podía mover (usando un control remoto manual) un marcador
+visual que se mueve paralelo a las posiciones posibles del altavoz (20
+cm a la derecha), a la altura de la cabeza del oyente (Fig 8.1 C). El
+valor máximo posible de la respuesta fue de 8,5 m medido desde la
+posición del oyente. El marcador visual consistió en un par de LEDs
+verdes (estándar, 3mm) situados verticalmente y separados 4 cm entre sí.
+La distancia comprendida entre el participante y el marcador visual se
+midió con un codificador óptico conectado directamente a una interfaz de
+un microcontrolador Arduino Duemilanove. El sistema permitió una
+resolución espacial de aproximadamente 5 mm. Todos los experimentos se
+realizaron en completa oscuridad y los participantes no pudieron ver
+ningún objeto en la sala durante el procedimiento.
+
+La intensidad de los LEDs fue ajustada para evitar iluminar las
+superficies de la habitación. Además, para evitar reflejos en el
+parlante, el mismo fue cubierto con un material opaco no reflectante, y
+los LEDs estuvieron cubiertos con una funda para asegurar la iluminación
+direccionada y focalizada hacia la posición del participante.
+
+![Metodologico_Setup_3B.tif](/media/image17.png){width="6.014593175853018in"
+height="2.654472878390201in"}
+
+**Figura 8.1.** *Modelo tridimensional del montaje experimental. (A)
+parlante móvil, (B) sistema de enmascaramiento; (C) marcador visual
+móvil formado por un par de LEDs verdes (estándar, 3 mm) situados
+verticalmente a 4 cm entre sí.*
+
+## Experimento 1
+
+### Procedimiento
+
+El propósito de este experimento fue comparar RV y CMDL como métodos de
+respuesta para medir la PAD en el campo lejano. Los participantes se
+dividieron en dos grupos. La mitad de los participantes (Grupo A, n = 8)
+emplearon RV como método de respuesta, utilizando una escala de metros
+con una precisión de un decimal. La otra mitad (Grupo B, n = 8) empleó
+el método CMDL descrito anteriormente. Antes de entrar en la sala de
+pruebas, cada participante fue instruido sobre la tarea que debían
+realizar. A continuación, el participante fue cegado (mediante un
+antifaz) y conducido a la sala de pruebas, en donde estuvo sentado en
+una silla situada en el punto cero. El procedimiento consistió en
+presentar el estímulo auditivo ( ruido blanco de 500 ms de duración,) en
+una de las seis distancias posibles (D = 1, 2, 3, 4, 5 y 6 m), para
+luego pedirle al participante que indicara la distancia aparente
+egocéntrica a la fuente sonora. En el caso del Grupo B (CMDL), los
+sujetos fueron instruidos para mover un marcador visual usando un
+control manual desde el punto cero hasta la distancia en la que
+percibían la fuente de sonido. Antes de realizar la prueba, se le pidió
+al sujeto que explorara el rango completo de posiciones (8.5 m) para el
+marcador visual. Cada distancia de ensayo se repitió tres veces en orden
+aleatorio, dando como resultado un total de 18 ensayos por bloque. Luego
+de cada ensayo, los participantes fueron instruidos para mover el
+marcador visual de nuevo al punto cero. Sólo se recogió una respuesta
+por ensayo, y los participantes no recibieron ninguna información sobre
+sus respuestas.
+
+### Resultados
+
+La Figura 8.2 a muestra los juicios de distancia subjetiva media (+/-
+SEM) obtenidos con ambos métodos de respuesta, en función de la
+distancia física (la media y los intervalos de confianza se muestran en
+la Tabla 8.1, Exp. 1 CMDL y RV). Los datos de un participante del Grupo
+B fueron excluidos del análisis debido a un fallo en la recolección de
+las respuestas durante el experimento. La distancia percibida bajo ambas
+condiciones de respuesta muestra diferencias menores para D ≤ 3 m.
+Además, la respuesta con RV muestra una compresión para distancias
+situadas a D\> 3 m mientras que para CMDL la respuesta es lineal para el
+rango completo de distancias testeadas.
+
+Se analizaron las diferencias entre ambas curvas mediante un ANOVA
+split-plot aplicado a la respuesta, con \"distancia objetivo\" (6
+niveles, intra sujetos) y \"método de respuesta\" (2 niveles, entre
+sujetos) como factores fijos. Consistentemente con la inspección visual
+de los resultados, la prueba produjo un efecto significativo de ambos
+factores \[distancia: F (2,86, 37,2) = 70,6, p = 3,48 x 10-15, \\ Eta \_
+{2} p =0,845; Método de respuesta: \[F (1, 13) = 10,0, p = 7,4 x 10 -3,
+Η 2 p = 0,436\] y su interacción \[F (2,86, 37,2) = 10,6, p = 4,49 x 10
+-5, η 2 p = 0,449\]. Debido a la presencia de una fuerte interacción
+entre de factores, también probamos la diferencia para cada distancia
+por separado. Se encontraron diferencias significativas entre los
+métodos para los dos objetivos más alejados (two tailed, t-test de dos
+muestras con corrección secuencial Holm-Bonferroni para seis
+comparaciones, 5 m: t (13) = 3,60, p = 0,0032 \<0,01, Cohen\'s d s=
+1,86; 6 m: t (13) = 3,89, p = 0,0018 \<0,0083, d de Cohen = 2,02).
+
+Para explorar en profundidad estas diferencias, se calculó el rango de
+respuesta porcentual, definido como la diferencia entre reportes de las
+distancias máximas y mínimas, normalizado por el rango de distancia
+física. Se analizaron tres rangos físicos de distancia: 1-6 m, 1-3 m y
+3-6 m. Estos rangos fueron elegidos sobre la base del cambio aparente
+con la distancia de la pendiente en la curva de respuesta promedio, y
+están en línea con estudios previos sobre PAD que mostraron
+subestimación de la fuente después de 3 m (Calcagno, et al., 2012). Se
+encontraron diferencias significativas (t-test de dos muestras,
+corregido con Holm-Bonferroni para tres comparaciones) para el rango de
+respuestas completo (1-6 m) \[t (13) = 3,96, p = 1,6 x 10 -3 \<0.025,
+Cohen\'s d s = 2.2\], con rangos de respuesta más amplios para CMDL que
+para RV (M = 95,1% frente a M = 52,0%). En cuanto a los dos rangos más
+cortos (1-3 m y 3-6 m), encontramos diferencias significativas para el
+rango de 3-6 m \[t (13) = 5.85, p = 5.7 x 10 -3\<0,017, d de Cohen=
+3.25\], con un rango de respuesta más amplio para CMDL que para RV (M =
+84.6% vs. M = 37.2%), pero no para 1-3 m \[t (13) = 1.09, p = 0.89, d de
+Cohen= 0,6\]. De estos resultados observamos que las diferencias de
+precisión para ambos métodos se observan después de 3 m, lo cual
+evidencia diferencias en la compresión de respuesta.
+
+Finalmente, se analizó la variabilidad en la respuesta entre los
+ensayos. La Figura 8.2b muestra la desviación estándar (DS) promediada
+entre los sujetos (+/- SEM) como una función de la distancia de la
+fuente. Aunque el número de ensayos por condición fue bajo (3 ensayos),
+el número de sujetos (n = 8) y las condiciones experimentales (6
+distancias x 2 métodos de respuesta) pueden compensar los bajos grados
+de libertad en la medición del SD para cada objetivo. Los datos muestran
+un patrón claro, que se confirma mediante la aplicación de un ANOVA (la
+misma prueba que con la respuesta media): la variabilidad intra-sujeto
+aumenta con la distancia \[F (5, 65) = 5,37, p = 3,43 x 10 -4, \\ Eta \_
+{2} P = 0,292\] y no es estadísticamente diferente entre métodos de
+respuesta \[F (1, 13) = 0,081, p = 0,78, \\ eta 2 P = 6,18 x 10 -3\].
+Las variabilidades no muestran interacción aparente \[F (5, 65) = 0.307,
+p = 0.91, η 2 p = 0.23\]. En conclusión, la respuesta con ambos métodos
+dio como resultado la misma variabilidad intra-sujeto.
+
+![Screen Shot 2017-05-07 at 5.21.16
+PM.png](/media/image18.png){width="3.0940223097112862in"
+height="4.485416666666667in"}
+
+**Figura 8.2**. *Resultados del Experimento 1. (a) respuestas subjetivas
+promedio de percepción auditiva de distancia (+/- SEM) obtenidas con el
+método CMDL (rojo) y RV (cian), como una función de distancia a la
+fuente. Las líneas negras punteadas indican una performance perfecta
+(respuesta = distancia correcta). b) Promedio intra-sujetos (+/- SEM) de
+la DS individual para cada distancia de método de respuesta.*
+
+### Discusión
+
+Los resultados obtenidos en Experimento 1 muestran que las respuestas
+obtenidas con CMDL fueron más verídicas (menos sesgadas y menos
+comprimidas) con respecto a las obtenidas con RV (Figura 8.2a). Las RVs
+fueron consistentes con los resultados previos obtenidos en nuestro
+laboratorio bajo las mismas condiciones experimentales (Calcagno et al.,
+2012), con respuestas que muestran un incremento lineal para distancias
+cortas y luego se presentan casi constantes cuando la distancia de la
+fuente D se incrementa más allá de 3 m. La principal diferencia entre
+ambos métodos es que, para D\> 3 m, las RV mostraron un fuerte sesgo
+negativo, mientras que con CMDL no lo hicieron. Esto se refleja en la
+interacción significativa en la respuesta y, más específicamente, en las
+diferencias en las respuestas para D\> 3 m. Una posible causa de este
+efecto se puede encontrar en la disminución de los valores tanto del
+rango de respuesta de 3 a 6 m como del exponente de la función de
+potencia de RV en comparación con el obtenido con CMDL (ver Tabla 1). La
+compresión de la respuesta observada con RV fue similar a la informada
+por Zahorik et al. (2005) en un meta análisis de 21 estudios previos de
+PAD (M = 0,65 vs M = 0,54, respectivamente), y también a la obtenida por
+Calcagno, et al. (2012) (M = 0,55, IC del 95% \[0,54, 0,56\]). Por el
+contrario, CMDL mostró una respuesta media con un mínimo sesgo y
+compresión. Los resultados obtenidos son compatibles con muchos estudios
+de PAD (Ashmead et al., 1995; Brungart et al., 2000) y VDP (Brungart et
+al., 2000; Andre y Rogers, 2006) en los que los métodos de acción
+directa produjeron respuestas más verídicas que las obtenidas con RV.
+
+Varios estudios previos (Zahorik, 2001; Calcagno et al., 2012) han
+mostrado que la información ambiental visual reduce tanto el sesgo como
+la compresión de las respuestas verbales en experimentos de PAD. En este
+contexto, no sabemos cuánto de la mejora en la precisión de la respuesta
+observada con el método CMDL se debe al método de respuesta en sí, o a
+la información espacial visual adicional disponible cuando se utiliza el
+dispositivo CMDL. Además, no sabemos con certeza cuán precisos son los
+participantes en la estimación de la distancia al marcador visual móvil.
+Es decir, ¿saben los participantes la distancia real a la que se
+encuentra el marcador visual cuando responden con el método de CMDL?
+Para comprobar esto, realizamos un segundo experimento para responder a
+ambas preguntas.
+
+## Experimento 2
+
+Con el objetivo de responder a cada una de las preguntas planteadas en
+la sección anterior, el experimento 2 se dividió en dos partes. En
+primer lugar, se estudió la PVD al objetivo móvil utilizado durante
+CMDL. Para ello, los participantes (n = 8) fueron instruidos para
+desplazar el marcador visual desde el punto cero (D = 0) a una distancia
+indicada verbalmente por el experimentador (que estaba sentado a la
+derecha del participante, a una distancia de 1 m). De esta forma,
+pudimos medir la relación entre la distancia física indicada por el
+experimentador y la distancia estimada por el participante utilizando el
+marcador visual móvil. Inmediatamente después de completar la primera
+tarea, y sin abandonar el asiento, los participantes realizaron una
+tarea de PAD usando el RV como método de respuesta. Esta segunda tarea
+apunta a saber si la información espacial visual, proporcionada por el
+marcador visual durante la primera tarea, pudo influir en las
+estimaciones mediante RV durante el experimento de ADP.
+
+### Procedimientos
+
+Previamente a entrar a la sala de pruebas cada participante fue
+instruido sobre la tarea a realizar. Luego, se le vendaron los ojos y se
+lo llevó a la sala de pruebas, donde fue sentado en una silla situada en
+el punto cero. El experimento se llevó a cabo en completa oscuridad y el
+participante mantuvo los ojos descubiertos para que sólo pudiera ver el
+marcador visual móvil (durante la primera tarea). Antes de la primera
+prueba, se pidió al participante que empleara el control manual para
+mover el marcador visual a lo largo de su rango completo (8,5 m). Para
+ambas tareas, las distancias objetivo fueron D = 1, 2, 3, 4, 5 y 6 m.
+Cada distancia objetivo se repitió tres veces en orden aleatorio, dando
+un total de 18 ensayos por bloque. Tanto el montaje experimental como la
+localización de los objetivos fueron los mismos que en el experimento
+anterior.
+
+### Resultados
+
+En la Figura 8.3a se muestran las posiciones finales de las claves
+visuales en función de la distancia indicada por el experimentador. Cada
+punto de datos corresponde a la media entre los sujetos (+/- SEM). La
+respuesta media muestra un sesgo mínimo, como puede confirmarse
+ajustando una función de potencia de la forma Y = aX^b^ a los datos. Los
+parámetros resultantes se corresponden a la relación: Y = X (R^2^ =
+0.986; a = 1.242 y b = 0.909). Esta respuesta estuvo menos sesgada que
+las obtenidos en estudios previos de PVD en la oscuridad (Philbeck y
+Loomis, 1997; Calcagno et al., 2012). Una posible causa para tal
+diferencia es que los sujetos utilizaron algunas de las señales
+dinámicas adicionales disponibles cuando el marcador visual se está
+moviendo directamente lejos o hacia el observador. Además, es posible
+que el uso del control manual haya aportado información temporal extra.
+El hecho de que la velocidad del marcador móvil fuera relativamente
+constante implica que la duración de la respuesta fue proporcional al
+desplazamiento del marcador. Esta información temporal puede haber
+ayudado a los sujetos a mejorar su rendimiento estimando el tiempo
+necesario para llevar el marcador visual a distancias más cortas (donde
+la respuesta es más precisa), y luego extrapolando a distancias mayores.
+De ser cierto este caso, los sujetos pueden haber necesitado un cierto
+número de ensayos para adquirir la información de la velocidad del
+marcador y, al mismo tiempo, pueden haber mejorado la respuesta cuando
+se familiarizaron con las características móviles del dispositivo. A su
+vez, esto también habría producido un cambio (recalibración) de la
+respuesta entre los ensayos. Con el fin de probar esta hipótesis, se
+aplicó un ANOVA bidireccional, con factores fijos \"distancia objetivo\"
+(6 Niveles) y \"número de prueba\" (3 niveles). La prueba mostró un
+efecto no significativo ni para el \"número de ensayo\" \[F (2, 14) =
+1,20, p = 0,33, η 2 P = 0,146\] ni la interacción entre el \"número de
+ensayo\" y \"Distancia objetivo\" \[F (3.84, 26.9) = 0.995, p = 0.42, η
+2 P = 0,124\], sugiriendo que no hubo recalibración de la respuesta
+durante el experimento. Además, la mayoría de los sujetos respondieron
+realizando diversas aproximaciones (entre 3 y 4) del marcador visual
+antes de llegar a su posición final, lo que está en contradicción con
+una respuesta gobernada puramente por información temporal. Aunque no se
+midió la estructura detallada de la respuesta, esta observación
+cualitativa sugiere que las señales visuales (en lugar de temporales)
+representó la principal fuente de información empleada por los sujetos
+durante la tarea.
+
+La Figura 8.3b muestra el promedio de las estimaciones de distancia
+auditiva subjetiva (+/- SEM) obtenidos con RV (durante la segunda tarea)
+en función de la distancia a la fuente (la media y los intervalos de
+confianza se muestran en la Tabla 8.1, Exp. 2 RV). La respuesta sigue de
+cerca la obtenida con RV en Experimento 1. Para probar si la información
+visual disponible en la primera parte del experimento influyó en los de
+RV, comparamos los resultados obtenidos con el RV en los experimentos 1
+y 2 (ANOVA split-plot con \"distancia objetivo\" y \"experimento\" como
+factores fijos dentro y entre sujetos, respectivamente). No se
+encontraron diferencias significativas entre los experimentos
+\[experimento: F (1, 14) = 0,002, p = 0,96, η 2 P = 1,31 x 10 \^ {- 4};
+Experimento x distancia objetivo: F (2,1, 29,3) = 1,40, p = 0,26, η 2 p=
+0.091\], lo cual indica que la información proporcionada por la tarea de
+calibración anterior (tanto las señales visuales como la propia
+calibración) no modificaron la respuesta de PAD obtenida inmediatamente
+después con RV. También analizamos la compresión de la respuesta de PAD
+ajustando funciones de ley de potencia Y = aX^b^ a las respuestas
+individuales. Los parámetros fueron similares a las obtenidas para la
+respuesta de Exp. 1 (R \^ {2}= 0,857; A = 1,114 yb = 0,654). El
+exponente no mostró diferencias significativas cuando se comparó con el
+obtenido en Exp. 1 RV \[t (14) = 0,157; P = 0,88, d de Cohen= 0,078\].
+La única diferencia encontrada (T-test de dos muestras, Holm-Bonferroni
+corregido por tres comparaciones) entre estas dos condiciones fue para
+el intervalo de respuesta porcentual para distancias más altas (3-6 m),
+donde hubo un aumento en el Exp. 2 en comparación con Exp. 1 \[M = 59,7%
+vs M = 37,2%; T (14) = 3,23, p = 0,006 \<0,017, d de Cohen=1.11\].
+
+Finalmente, se analizó la variabilidad intra-sujeto de los RVs (por
+medio del SD individual). El patrón es muy similar al obtenido en el
+experimento anterior, con el SD aumentando con la distancia de una
+manera aparentemente lineal. Comparamos los resultados con la RV de Exp.
+1 (ANOVA con las mismas características que para la respuesta media). Se
+encontró un efecto significativo de la distancia objetivo \[F (2,97,
+41,6) = 4,66, p = 6,9 x 10 -3, Η 2 p = 0,25\], pero no hubo diferencias
+significativas en el experimento \[experimento: F (1,14) = 0,87, p =
+0,37, η 2 p = 0,058\]; Experimento x distancia objetivo: F (2,97, 41,6)
+= 0,117, p = 0,95, \\ eta 2 p = 8,3 x 10 -3\] por lo tanto, concluimos
+que la información proporcionada por el método CMDL durante la primera
+tarea no modificó la variabilidad intra-sujeto de los RVs en la
+siguiente tarea de PAD.
+
+![Screen Shot 2017-05-07 at 5.40.30
+PM.png](/media/image19.png){width="6.267716535433071in"
+height="3.6666666666666665in"}
+
+**Figura 8.3**. *Resultados del Experimento 2. a) Resultados de la tarea
+de PVD para cada distancia indicada por el experimentador. b) respuestas
+de PAD obtenidas en el experimento 2 con RV (cian) comparadas con la
+CMDL (gris) y RV (negro) y las respuestas obtenidas en el experimento 1.
+Ambas figuras muestras la respuesta subjetiva +/- SEM. La línea negra
+punteada indica una performance perfecta (respuesta = distancia
+correcta).*
+
+### Discusión
+
+Los resultados de la primera tarea demuestran que el método CMDL
+proporciona a los participantes la información necesaria para saber la
+distancia dónde se encuentra el marcador visual. Varios estudios previos
+han indicado que la información espacial visual puede almacenarse en la
+memoria y luego utilizarse en experimentos realizados en la oscuridad
+(Loomis et al., 1998, Andre y Rogers, 2006; Calcagno et al., 2012). Si
+la respuesta observada con CMDL en el Experimento 1 fue inducida por la
+información espacial visual proporcionada por el marcador móvil, se
+esperaría que la información obtenida en la primera parte del
+Experimento 2 afecte la respuesta del RV medida en la siguiente tarea de
+PAD. Sin embargo, este no fue el caso.
+
+Este resultado no coincide con lo que se informó en trabajos anteriores
+donde la información visual ambiental indujo respuestas de RV más
+precisas (Calcagno et al., 2012). La principal diferencia entre las
+condiciones visuales utilizadas aquí y en este estudio anterior reside
+en el número y la complejidad de las señales visuales presentadas en
+cada caso. Tal vez la mayor cantidad de referencias visuales en Calcagno
+et al. (2012) facilitó la memorización del contexto visual, logrando una
+memoria más robusta de la sala donde ocurrieron los hechos. Sin embargo,
+no sabemos exactamente cuál es el efecto de tal memoria espacial en la
+información visual proporcionada por el dispositivo CMDL. La escasez de
+referencias visuales durante la manipulación del marcador visual móvil
+podría haber dificultado mantener la información visual espacial en la
+memoria durante todo el experimento.
+
+Con el fin de minimizar la influencia de la memoria en la respuesta RV,
+se realizó un tercer experimento donde, para cada ensayo, los
+participantes realizaron un informe mediante CMDL, seguida
+inmediatamente por un RV.
+
+## Experimento 3
+
+El objetivo de este experimento fue comprobar si las señales visuales
+proporcionadas por el método CMDL influyen en las respuestas de RV
+cuando cada método se emplea en ensayos sucesivos. Con este fin, se
+realizó un experimento de PAD en el que los métodos de respuesta fueron
+intercalados.
+
+### Procedimientos
+
+Un grupo de sujetos (n = 8) realizó un experimento de PAD empleando
+sucesivamente los métodos CMDL y RV, es decir, en un ensayo, el sujeto
+respondió con CMDL, y en el siguiente ensayo con RV. Este diseño nos
+permitió minimizar los efectos de la memoria de un método de respuesta a
+la otra. Bajo esta restricción, cada combinación de posición y método de
+respuesta fue presentado al azar tres veces, dando un total de 36
+ensayos (6 x 2 métodos de respuesta x 3 ensayos = 36 ensayos). Tanto la
+configuración experimental como la ubicación de los objetivos fueron las
+mismas que en los experimentos previos.
+
+La Figura 8.4 muestra la respuesta media (+/- SEM) obtenida en el
+Experimento 3 con ambos métodos (la media y los intervalos de confianza
+se muestran en la Tabla 8.1, Exp. 3 CMDL y RV). Al igual que el
+Experimento 1, el rango de la respuesta fue mayor con CMDL que con el RV
+(RV: M = 3,10 m frente a CMDL: M = 4,77 m). Aunque los participantes
+usaron CMDL y RV secuencialmente, las respuestas con ambos métodos
+mostraron un patrón similar al observado en Exp. 1. Sin embargo, en
+comparación con los resultados del Exp. 1 (líneas gris y negro en la
+Fig. 8.4), las respuestas de CMDL se presentan más sobrestimadas, y los
+RVs parecen menos compresivos.
+
+Se analizó la diferencia entre los métodos de respuesta mediante un
+ANOVA con \"distancia objetivo\" y \"método de respuesta\" como factores
+fijos. El análisis mostró un efecto significativo de ambos factores
+principales \[distancia objetivo: F(1.37, 9.6) = 26.95, p = 2.45 x
+10\^-4, η^2^~p~ = 0.794; Método de respuesta: F(1, 7) = 8.59, p = 0.022,
+η^2^~p~ = 0.551\] y la interacción F(5, 35) = 7.19, p = 1.2 x 10\^-4,
+η^2^~p~ = 0.507\]. Debido a la presencia de una fuerte interacción, se
+comparó la respuesta a través de los métodos de cada distancia por
+separado. Se obtuvieron diferencias significativas para todas las
+distancias, excepto para el objetivo localizado a 2 m \[ t-test de pares
+de muestras con corrección de Holm-Bonferroni para seis comparaciones; 1
+m: t (7) = 3,39, p = 0,0060; 3 m: t (7) = 3,05, p = 0,018; 4 m: t (7) =
+3,46, p = 0,011; 5 m: t (7) = 3,56, p = 0,0092; 6 m: t (7) = 3,95, p =
+0,0056\].
+
+A continuación, analizamos la compresión de la respuesta. En este
+experimento ninguno de los intervalos de respuesta porcentual fue
+diferente de forma significativa entre los métodos sugiriendo un efecto
+menor en la compresión de la respuesta. Además, ambos métodos fueron
+bien ajustados por funciones de ley de potencia de la forma Y = aX^b^
+(CMDL: R^2^ = 0.968; a: 1.916; b: 0.737; VR: R\^2 = 0.917; a: 1.263; b:
+0.728), con exponentes similares \[t (7) = 0,120, p = 0,91, d_z de Cohen
+= 0,045\].
+
+Finalmente, se analizó el error de la respuesta. La SPE indicó que la
+respuesta CMDL fue sistemáticamente sobrestimada, mientras que los RV
+fueron ligeramente subestimadas \[CMDL: M = 38,6%, IC del 95% \[6,64,
+70,5\]; RV: M = -9,04%, IC del 95% \[-43,4, 25,3\]; Muestra de dos
+pares, t-test de dos colas, t (7) = 2,83, p = 0,025, d de Cohen =
+0,99\]. El UPE, por otra parte, era muy similar para ambos métodos
+\[CMDL: M = 48.2, 95% CI \[23.3, 73.1\]; RV: M = 49,1, IC del 95%
+\[41,6, 56,7\]; prueba t de muestras pareadas, t (7) = 0,084, p = 0,93,
+d = 0,030\].
+
++----------+---------+---------+---------+---------+---------+---------+
+| D        |         |         |         |         |         |         |
+| istancia |         |         |         |         |         |         |
+| Física   |         |         |         |         |         |         |
+| (m)      |         |         |         |         |         |         |
++==========+=========+=========+=========+=========+=========+=========+
+|          | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
++----------+---------+---------+---------+---------+---------+---------+
+| Ex       | ***     | ***     | ***     | ***     | ***     | ***     |
+| periment | M*(m)** | M*(m)** | M*(m)** | M*(m)** | M*(m)** | M*(m)** |
+|          |         |         |         |         |         |         |
+|          | *       | *       | *       | *       | *       | *       |
+|          | **\[CI\ | **\[CI\ | **\[CI\ | **\[CI\ | **\[CI\ | **\[CI\ |
+|          | ]*(m)** | ]*(m)** | ]*(m)** | ]*(m)** | ]*(m)** | ]*(m)** |
++----------+---------+---------+---------+---------+---------+---------+
+| Exp. 1   | 0.98    | 1.97    | 2.84    | 2.70    | 2.99    | 3.37    |
+| VR       |         |         |         |         |         |         |
+|          | \[0.75, | \[1.62, | \[2.10, | \[1.92, | \[2.33, | \[2.32, |
+|          | 1.21\]  | 2.32\]  | 3.58\]  | 3.47\]  | 3.65\]  | 4.41\]  |
++----------+---------+---------+---------+---------+---------+---------+
+| Exp. 1   | 1.30    | 2.31    | 3.58    | 4.46    | 5.26    | 6.01    |
+| CMDL     |         |         |         |         |         |         |
+|          | \[0.97, | \[1.99, | \[3.11, | \[3.48, | \[4.18, | \[5.24, |
+|          | 1.63\]  | 2.64\]  | 4.05\]  | 5.43\]  | 6.35\]  | 6.79\]  |
++----------+---------+---------+---------+---------+---------+---------+
+| Exp. 2   | 1.10    | 1.77    | 2.58    | 2.30    | 3.42    | 3.80    |
+| VR       |         |         |         |         |         |         |
+|          | \[0.82, | \[1.33, | \[1.70, | \[1.72, | \[2.46, | \[2.78, |
+|          | 1.37\]  | 2.20\]  | 3.45\]  | 2.89\]  | 4.39\]  | 4.81\]  |
++----------+---------+---------+---------+---------+---------+---------+
+| Exp. 3   | 1.77    | 2.30    | 2.58    | 3.33    | 3.73    | 4.16    |
+| VR       |         |         |         |         |         |         |
+|          | \[0.64, | \[1.33, | \[1.56, | \[1.97, | \[2.24, | \[2.38, |
+|          | 1.71\]  | 3.28\]  | 3.59\]  | 4.70\]  | 5.23\]  | 5.95\]  |
++----------+---------+---------+---------+---------+---------+---------+
+| Exp. 3   | 1.88    | 3.23    | 3.89    | 4.97    | 5.94    | 6.54    |
+| CMDL     |         |         |         |         |         |         |
+|          | \[1.16, | \[2.38, | \[2.85, | \[3.85, | \[4.95, | \[5.26, |
+|          | 2.60\]  | 4.09\]  | 4.93\]  | 6.09\]  | 6.92\]  | 7.82\]  |
++----------+---------+---------+---------+---------+---------+---------+
+
+**Tabla 8.1:** *Promedio de los reportes verbales de distancia
+entre-subjetos y el intervalo de confianza. (CI es el 95% de intervalo
+de confianza)*
+
+### Discusión
+
+De manera similar al Experimento 1, los resultados del Experimento 3
+muestran diferencias entre ambos métodos de respuesta, reflejados como
+efectos significativos en la respuesta global tanto del método de
+respuesta como de su interacción con la distancia al objetivo. Estos
+resultados sugieren que las diferencias observadas en el Experimento 1
+se debieron al método de la respuesta en lugar de los cambios en la
+calibración dependientes de la información visual proporcionada por el
+dispositivo CMDL. Sin embargo, una diferencia del Experimento 1, ni la
+compresión ni el intervalo de respuesta mostraron diferencias
+significativas entre los métodos, siendo una posible causa que ambos
+métodos se hayan influenciado entre sí. Por ejemplo, en el Experimento
+3, RVs mostraron menos compresión que en el Experimento 1 (M = 0,728
+frente a M = 0,654, respectivamente) mientras que la respuesta CMDL fue
+más compresiva que en el Experimento 1 (M = 0,737 frente a M = 0,875,
+respectivamente). El hecho de haber entrelazado ambos métodos de
+respuesta en ensayos sucesivos pudo haber causado una asociación entre
+las señales acústicas relacionadas con la distancia de de la fuente
+(idénticas para ambas condiciones de respuesta) y la representación
+perceptiva inherente a cada metodología, influyendo así en la
+calibración de la respuesta en cada caso (CMDL induciendo respuestas
+menos compresivas en RV, y RV induciendo más respuestas de mayor
+compresión en CMDL). Sin embargo, debido a la alta variabilidad de las
+respuestas, no podemos ser concluyentes sobre la solidez de este efecto.
+Quizás la alternancia entre los métodos de respuesta forzó a los
+participantes a recalibrar constantemente su percepción, siendo ésta la
+causa del aumento de la variabilidad.
+
+Si las diferencias entre RV y CMDL observadas en el Experimento 1 se
+debieron a la presencia de información espacial visual durante la tarea
+CMDL, el uso sucesivo de ambos métodos debería haber mejorado
+notablemente las RVs. Sin embargo, esto no se observó. Teniendo en
+cuenta este resultado y el obtenido en Experimento 2, se concluye que
+las diferencias observadas en las respuestas obtenidas con CMDL y RV se
+debieron principalmente a factores inherentes a los propios métodos de
+respuesta y no a factores externos relacionados con la información
+visual espacial proporcionada por el marcador visual móvil durante CMDL.
+
+## Discusión general
+
+El objetivo principal de este estudio consistió en evaluar la eficacia
+del método CMDL propuesto para medir las estimaciones de PAD de fuentes
+localizadas en el campo lejano. El experimento 1 mostró que en el caso
+de CMDL las respuestas fueron significativamente menos sesgada y menos
+compresiva que los RVs. Este resultado está en línea con numerosos
+estudios previos de PAD y PVD, donde los métodos de acción directa
+mostraron respuestas menos sesgadas que las obtenidas con informes
+verbales (Brungart et al., 2000; Andre y Rogers, 2006).
+
+Los resultados del Experimento 2 mostraron que los participantes fueron
+precisos en la localización del marcador visual a una distancia
+expresada verbalmente por el experimentador. Este resultado muestra que,
+al responder mediante el método de CMDL, los participantes parecían
+saber con exactitud la distancia real al marcador visual. Esto significa
+que al usar el dispositivo CMDL los participantes tuvieron acceso a
+información visual espacial (por ejemplo, que la habitación tiene al
+menos 8,5 m de longitud) que no estaba disponible para los participantes
+que respondieron verbalmente. Sin embargo, los resultados de los
+experimentos 2 y 3 mostraron que esta información tiene poca influencia
+sobre la respuesta obtenida con RVs. En esta línea, los RVs de los
+experimentos 2 y 3 no mostraron diferencias significativas para ninguna
+de las variables (respuesta, compresión y rango de respuesta) obtenidas
+con el mismo método en el Experimento 1. Si la información visual
+proporcionada por el dispositivo CMDL (y no el método en sí) fue
+responsable de la respuesta robusta y más precisa observada en Exp. 1,
+se habría esperado que esta información influenciara fuertemente los RVs
+en ambos Experimentos 2 y 3, situación que no se observó. Los resultados
+combinados de los Experimentos 2 y 3 sugieren que las diferencias
+observadas entre los métodos del Experimento 1 no fueron inducidos por
+la información espacial adicional obtenida durante el uso del
+dispositivo CMDL.
+
+Las diferencias observadas entre las respuestas de RV y CMDL podrían
+deberse a cambios en la distancia percibida inducida por el método o a
+cambios en la calibración de la distancia reportada. Los resultados
+obtenidos aquí no nos permiten ser concluyentes ya que los resultados
+sugieren una mezcla de ambos factores. Por ejemplo, el hecho de que las
+respuestas obtenidas con CMDL y RV muestran una interacción
+significativa (Experimentos 1 y 3) sugiere que ambos métodos de
+respuesta usan las señales disponibles de manera diferente y construyen
+representaciones subyacentes funcionalmente distintas. Las diferencias
+en la compresión y el rango de respuesta que se observaron en
+Experimento 1 también sugieren que ambos métodos están controlados por
+representaciones funcionalmente distintas.
+
+Por otra parte, la presencia de varios factores sugieren que las
+diferencias entre el RV y CMDL se deben a diferencias en la calibración
+de la respuesta. En primer lugar, la variabilidad observada con ambos
+métodos fue muy similar, lo que indica que la tarea fue igualmente
+difícil en ambos casos. En segundo lugar, los estudios previos de PVD
+han reportado que la precisión de respuesta es más afectada por los
+factores ambientales para el método de RVs que para métodos de
+localización directa (Andre y Rogers, 2006; Woods et al., 2009), lo cual
+sugiere que los RVs necesitan más referencias espaciales para calibrar
+correctamente la percepción de distancia. De hecho, estudios previos de
+PAD mostraron respuestas precisas de RVs en presencia de múltiples
+fuentes de información del contexto visual (Zahorik, 2001; Calcagno et
+al., 2012). Estos resultados sugieren que los participantes son capaces
+de percibir la distancia a la fuente con precisión, pero necesitan
+referencias espaciales para percibirlas correctamente. Una de las
+principales diferencias entre los dos métodos es que los informes CMDL
+no requieren ninguna transformación mental de la ubicación de destino:
+es decir, el participante sólo necesita localizar el marcador móvil en
+la ubicación percibida de la fuente de sonido. Por el contrario, el RV
+requiere que el participante calcule mentalmente un valor explícito para
+la ubicación percibida de la fuente de sonido. Este paso podría conducir
+a errores en la calibración de la respuesta, especialmente en la
+oscuridad, donde la escasez de señales visuales de referencia aumenta la
+incertidumbre en cuanto a la representación de la ubicación del
+objetivo.
+
+Según resultados anteriores obtenidos por Calcagno et al. (2012) y
+Zahorik (2001) esperábamos que la información espacial proporcionada por
+el marcador visual móvil afecte los RVs. Sin embargo, esto no se observó
+en los Experimentos 2 ni 3. Diversos factores podrían explicar estos
+resultados contradictorios. En primer lugar, en Calcagno et al. (2012)
+se utilizaron como marcas visuales objetivos fijos situados a distancias
+conocidas por el participante. Dichos objetivos se iluminaron durante
+todo el experimento y por lo tanto sirvieron como una referencia fija
+permanente para calcular la distancia percibida. En segundo lugar, el
+estudio de Zahorik se realizó bajo condiciones de pistas espaciales
+completas y por lo tanto los RVs fueron influenciados por fuentes de
+información visual más numerosas y complejas, en comparación de las que
+podría obtenerse aquí mediante el dispositivo CMDL.
+
+En Calcagno et al. (2012), la hipótesis de que el RV mejora las
+respuestas debido a la presencia de información visual podría ocurrir
+debido a la relación entre el tamaño de la sala y la calibración de los
+RVs. Más tarde, Kolarik et al. (2013) apoyaron esta hipótesis mostrando
+una correlación positiva entre la respuesta de la PAD y el tamaño de la
+habitación percibida a través de señales de reverberación. En nuestro
+caso, al mover el marcador visual CMDL, los participantes obtuvieron
+información visual relacionada con la longitud de la habitación. Además,
+en el Experimento 2, el experimentador informó explícitamente (mediante
+un informe verbal) la distancia máxima a estimar (6 m). Sin embargo, el
+conocimiento de la distancia mínima que tenía la habitación (la
+distancia máxima a la que podía colocarse el marcador visual móvil) fue
+insuficiente para inducir cambios en los RVs. Ante esta evidencia
+contradictoria, creemos que se necesitan más estudios para dilucidar la
+influencia de las señales visuales y el conocimiento del tamaño de la
+sala sobre la PAD.
+
+Creemos que el CMDL es un método interesante para medir la PAD, ya que
+parece ser una respuesta natural, dado que no se requiere ninguna
+transformación mental de la ubicación del objetivo y los sujetos pueden
+usar sus propios puntos de referencia anatómicos (Brungart et al.,
+2000). Por otra parte, la CMDL tiene grandes ventajas en relación a
+otros métodos de acción directa utilizados en el campo lejano. En primer
+lugar, el participante no tiene que levantarse para indicar la distancia
+percibida, lo que facilita enormemente la tarea. Esto es fundamental
+para medir la PAD en personas que tienen dificultad para moverse, y
+también permite que el tiempo de respuesta sea más rápido para los
+participantes sanos. En segundo lugar, el dispositivo CMDL facilita la
+tarea y permite la recolección automática de datos experimentales,
+posibilitando experimentos con un mayor tamaño de muestra. En tercer
+lugar, CMDL puede ser replicado fácilmente en condiciones idénticas en
+diferentes entornos. El método propuesto en este trabajo comprende una
+tarea flexible para los participantes, reduciendo el agotamiento y la
+falta de concentración durante el experimento, además de permitir una
+medición continua de las distancias estimadas y acceso rápido a los
+datos experimentales.
+
+Por último, de acuerdo con los resultados presentados en este trabajo,
+CMDL permite una percepción precisa de la posición de una fuente de
+sonido, incluso en la oscuridad, reduciendo el efecto del entorno de
+prueba. Sin embargo, una de las limitaciones del método CMDL aquí
+presentado es que las pruebas deben ser realizada en completa oscuridad,
+mientras que para la mayoría de los métodos basados ​​en RV es suficiente
+con la visión oclusiva del participante. Este último requisito limita el
+método a entornos cerrados y complica el papel del experimentador
+durante el procedimiento.
+
+Un inconveniente general en el estudio de la PAD es la falta de consenso
+sobre la metodología utilizada para medir las respuestas de los oyentes.
+Esta heterogeneidad metodológica dificulta claramente la comparación de
+los resultados obtenidos en los diferentes estudios. Unificar los
+criterios por los que se mide la PAD sería un paso muy importante en la
+comprensión de este tema de investigación.
+
+## Referencias bibliográficas
+
+Andre, J. y Rogers, S. Using verbal and blind-walking distance estimates
+to investigate the two visual systems hypothesis. Attention, Perception,
+and Psychophysics 68(3), 353-361 (2006).
+
+Ashmead, D. H., Davis, D. L., y Northington, A. Contribution of
+listeners\' approaching motion to auditory distance perception. Journal
+of Experimental Psychology: Human Perception and Performance 21(2), 239
+(1995).
+
+Bronkhorst, A. W., y Houtgast, T. (1999). Auditory distance perception
+in rooms. Nature, 397(6719), 517-520.
+
+Brungart, D. S., Rabinowitz, W. M., y Durlach, N. I. Evaluation of
+response methods for the localization of nearby objects. Attention,
+Perception, y Psychophysics 62(1), 48-65 (2000).
+
+Calcagno, E. R., Abregú, E. L., Eguía, M. C. y Vergara, R. O.. The role
+of vision in auditory distance perception. Perception, 41(2), 175-192
+(2012).
+
+Calcagno, E. R., Abregu, E. L., Vergara, R. O. Revisión de los aspectos
+más relevantes en el estudio de la percepción auditiva de distancia.
+Revista Interamericana de Psicología 48, 3-12 (2014).
+
+Da Silva, J. A. Scales for perceived egocentric distance in a large open
+field: Comparison of three psychophysical methods. The American Journal
+of Psychology, 119-144. (2014).
+
+Fluitt, K., Mermagen, T. y Letowski, T. Auditory distance estimation in
+an open space. In Soundscape Semiotics - Localization and
+Categorization. Edited by Herve Glotin, Publisher: Intech (1985).
+
+Fontana, F., y Rocchesso, D. Auditory distance perception in an acoustic
+pipe. ACM Transactions on Applied Perception 5(3), 16 (2008).
+
+Iosa, M., Fusco, A., Morone, G., y Paolucci, S. Walking there:
+environmental influence on walking-distance estimation. Behavioural
+Brain Research 226(1), 124-132 (2012).
+
+Kearney, G., Gorzel, M., Rice, H., y Boland, F. Distance perception in
+interactive virtual acoustic environments using first and higher order
+ambisonic sound fields. Acta Acustica united with Acustica 98(1), 61-71
+(2012).
+
+Kolarik, A. J., Pardhan, S., Cirstea, S., y Moore, B. C. Using acoustic
+information to perceive room size: effects of blindness, room
+reverberation time, and stimulus. Perception 42(9), 985-990 (2013).
+
+Kolarik, A. J., Moore, B. C., Zahorik, P., Cirstea, S., y Pardhan, S.
+Auditory distance perception in humans: a review of cues, development,
+neuronal bases, and effects of sensory loss. Attention, Perception, y
+Psychophysics 78(2), 373-395 (2016).
+
+Loomis, J. M., Klatzky, R. L., Philbeck, J. W., y Golledge, R. G.
+Assessing auditory distance perception using perceptually directed
+action. Attention, Perception, y Psychophysics 60(6), 966-980. (1998).
+
+Loomis, J. M., Philbeck, J. W., y Zahorik, P. Dissociation between
+location and shape in visual space. Journal of Experimental Psychology:
+Human Perception and Performance 28(5), 1202 (2002).
+
+Parseihian, G., Jouffrais, C., y Katz, B. F. Reaching nearby sources:
+comparison between real and virtual sound and visual targets. Frontiers
+in Neuroscience 8, 269 (2014).
+
+Philbeck, J. W. y Loomis, J. M. Comparison of two indicators of
+perceived egocentric distance under full-cue and reduced-cue conditions.
+Journal of Experimental Psychology: Human Perception and Performance
+23(1), 72 (1997).
+
+Woods, A. J., Philbeck, J. W., y Danoff, J. V. The various perceptions
+of distance: an alternative view of how effort affects distance
+judgments. Journal of Experimental Psychology: Human Perception and
+Performance 35(4), 1104. (2009).
+
+Zahorik, P. Estimating sound source distance with and without vision.
+Optometry y Vision Science 78(5), 270-275 (2001).
+
+Zahorik, P. Assessing auditory distance perception using virtual
+acoustics. The Journal of the Acoustical Society of America 111(4),
+1832-1846, (2002).
+
+Zahorik, P., Brungart, D. S. y Bronkhorst, A. W. Auditory distance
+perception in humans: A summary of past and present research. Acta
+Acustica united with Acustica 91(3), 409-420 (2005).
+

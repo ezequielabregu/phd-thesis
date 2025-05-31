@@ -1,0 +1,545 @@
+# Entrevistas sobre el uso del espacio sonoro y la percepción de distancia
+
+## Introducción
+
+Hacia el final de mi investigación sobre la Percepción de Distancia,
+entre los años 2015 y 2016, realicé una investigación de campo primario
+mediante una serie de entrevistas a siete profesionales y artistas
+argentinos, especialistas en distintas disciplinas artísticas y
+técnicas: composición musical, orquestación, interpretación, mezcla y
+mastering de audio. Dichas entrevistas hicieron foco en la utilización y
+concepción del espacio sonoro en general y, en particular, en cómo los
+entrevistados aplicaban distintos criterios y estrategias para manejar
+la distancia auditiva en su actividad profesional. Entre otros, uno de
+los objetivos de este estudio fue revisar las similitudes y diferencias
+entre el conocimiento proveniente de la actividad profesional de cada
+uno de los entrevistados y la información proveniente de la psicofísica
+experimental, referida a la percepción de distancia. De esta manera,
+evidenciando la correlación existente entre la información proveniente
+de la propia experiencia profesional en relación a la reportada en los
+estudios psicofísicos, se buscó acercarse al uso de la distancia desde
+una perspectiva práctica y factible (no experimental) en el marco de
+diversas necesidades artísticas en el ámbito profesional cotidiano, con
+el fin de obtener nuevas variables y maneras de abordar la distancia
+auditiva.
+
+Los resultados obtenidos brindaron elementos y datos muy relevantes que
+avalaron (y en ocasiones, expandieron) las teorías y conclusiones
+expuestas en esta tesis. Las entrevistas se realizaron, en la mayoría de
+los casos, en el ambiente de trabajo "natural" de los entrevistados:
+estudios de grabación, mezcla o mastering, estudios de creación y salas
+de ensayo.
+
+El diseño de la investigación se basó en una serie de 12 preguntas, las
+cuales se formularon con el fin de abordar el tema de la distancia
+partiendo de conceptos generales sobre el uso del espacio sonoro hasta
+llegar aspectos particulares de la percepción auditiva de distancia (Ver
+Capítulo 3 para más detalles).
+
+A continuación, se detallan las preguntas efectuadas a cada
+entrevistado.
+
+1)  *Desde un punto de vista general, según su opinión ¿es importante el
+    uso de la espacialidad en su actividad? ¿Por qué?*
+
+2)  *¿Cuales son las técnicas más relevantes que utiliza para el
+    tratamiento espacial de la música?*
+
+3)  *Desde un punto de vista general, según su opinión ¿es relevante el
+    uso de la profundidad/distancia en la música? ¿Por qué?*
+
+4)  *Hablando de su producción musical/profesional, ¿es relevante el uso
+    de la profundidad/distancia en la música?¿Por qué?*
+
+5)  *En la música que produce/mezcla/masteriza (o la actividad que
+    realiza). ¿ Qué parámetros controla o tiene en cuenta en el
+    tratamiento espacial respecto a la Distancia?*
+
+6)  *¿Cree que es posible cambiar la distancia aparente de una fuente
+    sonora fija? ¿De qué manera?*
+
+7)  *¿Por qué cree que en la escritura tradicional musical se contempla
+    la altura, el tiempo, la intensidad, pero no una notación para
+    controlar la ubicación espacial en Distancia?*
+
+8)  *¿Tiene/usa alguna manera de poder especificar mediante notación el
+    tratamiento espacial en Distancia?*
+
+9)  *¿Conoce el concepto de Perspectiva Auditiva?*
+
+```{=html}
+<!-- -->
+```
+a.  *en caso afirmativo: ¿Podría detallar su conocimiento sobre la
+    Perspectiva Auditiva?*
+
+b.  *en caso negativo:¿A que le remite o que le sugiere el concepto de
+    Perspectiva Auditiva?*
+
+*10) ¿Cómo considera que estos indicios pueden afectar nuestra
+Percepción de Distancia en la música/mezcla/mastering/composición
+(dependiendo de la actividad del entrevistado)?*
+
+a.  *Intensidad*
+
+b.  *Características espectrales*
+
+c.  *Conocimiento previo o familiaridad*
+
+d.  *Reverberación de la Sala*
+
+e.  *Relación D/R Reverberación*
+
+f.  *Modalidad Visual*
+
+g.  *Distancia real de la fuente sonora vs distancia aparente.*
+
+*11) ¿Qué obras artísticas considera paradigmática respecto al
+tratamiento de distancia?*
+
+*12) Según su conocimiento, ¿Cuáles son los antecedentes históricos más
+relevantes en el uso de la distancia como factor relevante en relación a
+su actividad?*
+
+A continuación se detallan la/los participante/s en este estudio:
+
+**Patricia Martínez** (44 años)**:** Compositora, artista
+interdisciplinaria, pianista e investigadora.
+
+**Julio Martín Viera** (74 años)**:** Compositor. Profesor de
+Composición e Instrumentación y Orquestación (UNLP).
+
+**Gustavo Basso** (59 años)**:** Ingeniero en Telecomunicaciones
+especializado en Acústica. Docente investigador en la Universidad
+Nacional de La Plata.
+
+**Andrés Mayo** (58 años)**:** Ingeniero en Electrónica (UTN)
+especializado en grabación, mezcla y mastering.
+
+**Daniel Ovie** (43 años)**:** Ingeniero de Sonido y diseño de
+equipamiento para audio profesional.
+
+**Osvaldo Suárez** (57 años)**:** Compositor. Arreglador. Profesor de
+Composición e Instrumentación y Orquestación.
+
+**Luis Arias** (76 años)**:** Compositor. Profesor de Composición e
+Instrumentación y Orquestación
+
+A continuación se expondrán los principales temas abordados en las
+entrevistas, estableciendo como hilo conductor las ideas de cada caso
+particular, en búsqueda de un análisis más profundo de las respuestas y
+opiniones que surgen de la subjetividad del entrevistado.
+
+## Sobre la importancia del uso del espacio sonoro
+
+A modo general, el punto de partida de este estudio tuvo como objetivo
+revisar qué grado de importancia tiene el espacio sonoro en la
+especialidad o actividad de cada entrevistado.
+
+Sorprendentemente, las respuestas obtenidas indican que, a pesar
+representar un ámbito demasiado abarcativo, el uso del espacio es un
+parámetro sonoro en igualdad de importancia al resto de los parámetros
+involucrados de uso común (ej: ritmo, armonía, timbre). En este sentido,
+la compositora Patricia Martínez afirma que considera el tratamiento del
+espacio sonoro "*c[omo un elemento o material compositivo más, ya que no
+es algo que se "agrega" sino, en mi caso, ya es parte mismo de la
+identidad del material, en el caso de obras electroacústicas, tanto como
+de la música instrumental]*[".]
+
+[Como vimos en el Capítulo 1, en el ámbito instrumental el uso del
+espacio como variable compositiva tiene varios siglos en su haber. Hemos
+visto que, desde el período renacentista, los espacios en donde se
+ejecutaban obras musicales comienzan a ser relevantes. En referencia a
+este hecho histórico del uso del espacio, el compositor Luis Arias
+sostiene que "]*a partir de los renacentistas empieza a
+generalizarse la idea de la espacialidad. Y también esto es un hecho
+realmente importante también en el romanticismo, dado que fue un
+elemento de la música muy relevante. Quizás, en siglos anteriores, la
+orquesta sinfónica grande no existía, posiblemente haya habido menos
+consciencia de los compositores que la espacialidad tenía importancia.
+Creo que a partir de los románticos (en particular los post-románicos)
+empezó a tener importancia clara. Y más todavía cuando llega el
+atonalismo o el politonalismo, o el desarrollo de la tonalidad
+extendida. O sea, ¿Cómo vas a concebir que alguien haya compuesto "La
+consagración de la primavera" si no tenía, aunque sea intuitivamente, la
+noción del espacio?".*
+
+Siguiendo con la idea del espacio desde un punto de vista tradicional, y
+en particular mediante el uso de la orquesta o grupos sinfónicos,
+podemos pensar que la disposición instrumental juega un rol muy
+importante en cuanto a la distribución de las distintas familias y
+grupos instrumentales. Por ejemplo, para lograr un buen equilibrio en
+cuanto a lo que se percibe en la distancia, habría que considerar el
+tipo de proyección e intensidad de cada grupo instrumental, en general,
+y de cada instrumento en particular. De acuerdo a esta idea, el
+compositor Julio Viera dice que "*si tuviese un grupo de instrumentos,
+todos dispersos, no habría una unidad respecto a la percepción de la
+fuente sonora, es decir, un punto de referencia. En cambio, ubicados de
+determinada manera, uno percibe una fuente lógica de donde proviene el
+sonido. Por otra parte, en la orquesta sinfónica, por ejemplo, hay
+ciertos instrumentos que conviene adelantarlos, dada su características
+de proyección sonora. Desde ya, hay instrumento que son más potentes,
+tienen más sonoridad en relación a otros. Por eso, los metales atrás y
+más adelante las maderas".*
+
+Podemos observar que las respuestas sobre el uso del espacio puede
+depender de muchos factores y criterios, presentando muchas variables
+posibles y dependiendo del tipo de música, del planteo del/la
+compositor/a, e incluso del entrenamiento auditivo que posea la
+audiencia. Haciendo referencia a este hecho, Gustavo Basso nos dice que
+"*hay obras donde la espacialidad es muy poco importante, por ejemplo la
+música basada en lo que es la relación altura/tiempo. Por ejemplo, el
+arte de la fuga de Bach. Ahí, que esté la espacialidad o no\...es una
+obra que perfectamente puede ser mono!. Ahí la obra pasa por la
+estructura de relaciones entre las notas y los intervalos, no porque las
+notas vengan de un sitio u otro. El mismo Bach, por ahí en una obra como
+"La Pasión según San Mateo", necesita espacialidad ya que tiene doble
+coro y doble orquesta. Si la oímos bien armada y planteada en una
+iglesia como la de Lepzig o la de San Marcos en Venecia (o la de San
+José en La Plata), con dos coros y dos orquesta, la obra resulta
+impresionante. Se puede oír también en mono, pero no tenés el diálogo de
+partes del texto que maneja Bach. Después hay obras donde el espacio
+forma parte estructural del espacio musical. Por ejemplo, Prometeo de
+Luigi Nono. Sin ningún tipo de duda, sin espacio no existe Prometeo. No
+es la obra.*"
+
+De esta forma podemos inferir que no es posible encontrarnos con una
+única respuesta respecto a la importancia del espacio sonoro, dado que,
+al parecer, cada obra podría sugerir qué herramientas son necesarias
+para realizar un análisis efectivo ya que utilizar criterio único de
+análisis del espacio no sería efectivo. Dado este hecho, todo parece
+indicar que cada obra requiere el uso de una herramienta de análisis
+particular, respecto al espacio sonoro, y que criterio tendría
+pertinencia a tal fin. De acuerdo a este hecho, Basso concluye que "*la
+respuesta sobre el espacio es esa: un abanico de respuestas infinitas.
+La música es estética, y es cultural. No existe la "buena acústica" o el
+"buen espacio" para la música. Va a depender de lo que se quiera
+hacer*".
+
+En el ámbito del tratamiento del espacio desde un punto de vista técnico
+(no por ello menos creativo), remitirnos a un proceso en particular
+convierte nuevamente la respuesta respecto al uso del espacio en algo
+muy abarcativo. Esto se debe en gran parte a que la espacialidad como
+concepto, más allá de que es fundamental (por ej: en una mezcla de
+audio), es algo que idealmente debería ser aplicado a toda la cadena de
+producción, y no reducir el tratamiento del espacio en una etapa en
+particular. Apoyando esta idea, el Ingeniero Andrés Mayo afirma que "*si
+uno intenta representar, espacialmente, la música que se está
+registrando o capturando, me parece que el concepto de producción tiene
+que hacerlo desde el principio hasta el final. De hecho, desconfío de
+los procedimientos que solamente aplican el concepto del espacio sonoro
+al final de la cadena. Tiene que estar claro desde el principio para
+delinear el trabajo. Y eso no vale solamente para la espacialidad, sino
+para todo el proceso*".
+
+## Sobre las técnicas utilizadas para el tratamiento del espacio sonoro
+
+Cuando hablamos de las técnicas aplicadas al manejo del espacio debemos
+evaluar, en primera instancia, cuales son los elementos con los que
+contamos para realizar esta tarea, ya que hay instrumentos o fuentes
+sonoras que se prestan más a dar distintas perspectivas en comparación
+de otros que poseen características inherentes que resisten a su
+contextualización espacial. Sumado a esto, debemos tener en cuenta una
+serie de factores involucrados en el proceso de la obra, como pueden ser
+las posibilidades técnicas, las ubicaciones espaciales específicas en la
+composición (tanto fijas como en movimiento), las herramientas de
+espacialización durante la performance y, si los hubiera, el movimiento
+de los intérpretes en escena. En este escenario, no sería raro
+encontrarnos con situaciones en donde se produce un cruce entre aspectos
+técnicos (propios del tratamiento de la señal sonora en estudio) con
+técnicas y criterios compositivos musicales.
+
+Como ejemplo de lo antedicho, Osvaldo Suárez hace referencia al manejo
+del espacio en la música instrumental desde un uso particular del
+espacio en el eje horizontal: "*con el tiempo, empecé a usar el espacio
+casi como una polaridad, y como una especie de centro. Tener
+espacialidad me posibilita tener una música que se situara en un lugar,
+a la izquierda o la derecha, y eso generaba una especie de polo de
+impresión. Una especie de micropolifonía, que yo sentía en un sector
+determinado, que puede ser una corredera hacia un costado, la música
+empieza correrse ahí, luego va parar allí (...) es el caso de mi obra
+que se llama Hologramas (para 24 clarinetes), donde justamente lo que
+trato de hacer es que a través del volumen se genere una impresión de
+movimiento de acuerdo a la posición del ejecutante".*
+
+También se presenta el caso en donde existen conexiones entre la música
+electroacústica y la instrumental, en donde se busca abordar la
+espacialidad de, por ejemplo, una orquesta sinfónica a partir de
+técnicas y criterios propios de la música electroacústica. Como ejemplo
+de este cruce, Luis Arias se refiere a su obra *Fonosíntesis I* (1964):
+"*es una de las primeras obras concebida desde la espacialidad,
+incorporando elementos que después apliqué en otras obras, y que en el
+fondo también tendían a esa idea. En Fonosíntesis I me acerco mucho a la
+música de Ligeti de esa época, de la época de Atmósferas (una obra que a
+mí me empezó a cambiar mi forma de pensar). Era la búsqueda de
+sonoridades de tipo electroacústico a través de los instrumentos. Es la
+primera búsqueda que pensé en la espacialidad de manera directa (\...)
+Mi idea era salir del multiserialismo, que me parecía un camino cerrado.
+O sea, intuía que se iba a comer a sí mismo, que fue finalmente lo que
+pasó*".
+
+En correlación con la importancia del espacio sonoro, tenemos una
+variedad de posibles respuestas respecto a qué técnicas utilizar a la
+hora de diseñar un espacio sonoro efectivo. Por ejemplo, puede darse el
+caso de tener fuentes (instrumentos o parlantes) repartidas en un
+espacio real determinado. O también, contrario a esta idea, existe el
+caso en donde la espacialidad se plantea de modo virtual o artificial,
+en donde el espacio se recrea mediante un algoritmo matemático. En el
+primer caso, lo esencial es el espacio en donde se realiza la obra y de
+qué manera se distribuyen las fuentes sonoras. También será relevante
+tener en cuenta las características direccionales de las fuentes. De
+acuerdo a este hecho, Gustavo Basso afirma que "*en la época pre música
+electroacústica había teorías sobre el espacio, pero que surgían de
+personas no músicos (como por ejemplo Athanasius Kircher). De hecho el
+espacio en la acústica se maneja desde la época de los griegos (\...). A
+nivel práctico, el antecedente más directo de occidente (que conozco)
+son los madrigales antifonales de Gabrieli en Venecia, que usaban
+especialmente la catedral de San Marcos que tiene dos coros laterales
+para hacer texturas contrapuntísticas responsoriales. Y ahí si el
+espacio es vital, porque si no tenés el espacio no entendés cómo se
+compone esa obra. La idea es que haya un contrapunto espacial, además
+del musical*".
+
+En el segundo caso dependerá en menor medida de las características
+acústica del espacio físico y, dado este hecho, como situación ideal
+sería deseable disponer de un lugar "neutro" desde el punto de vista
+acústico, con el fin de evitar la superposición de indicios auditivos
+espaciales. Finalmente, también dependerá del arreglo de parlantes que
+se utilice, así como también del algoritmo de mezcla aplicado.
+
+Desde un punto de vista de la realización técnica, tenemos una gran
+cantidad de variables involucradas en el manejo del espacio sonoro en
+sistemas de grabación y reproducción. Quizás una de las más relevantes
+sea la que refiere al tratamiento espectral de las fuentes sonoras, como
+es el caso de la ecualización. Respecto a esta técnica, Daniel Ovie
+afirma que "*cuando el balance es bueno en la ecualización enseguida
+percibimos la apertura del audio, que se expande en el campo estéreo o
+sorround tipo 5.1. De todas maneras, esto tiene mucho que ver con las
+herramientas que se utilizan. Por ejemplo, con un conversor de alta
+calidad se produce un efecto tridimensional que con otros conversores no
+se logra. En este caso, el conversor tiene un sonido que es mucho más
+fiel a la fuente. Estamos hablando de conversores de primera línea, como
+las marcas Forssell o Lavry (\...) y creo que tiene que ver por la
+exactitud de la fase que manejan estos equipos: escucho que en todo el
+rango de frecuencias está todo mucho mejor en fase. Otros conversores
+pierden en eso*". Y si bien la reflexión de Ovie respecto al uso de
+técnicas referidas al manejo del espacio sonoro en apariencia contempla
+un punto de vista meramente técnico, en realidad no es así. Ovie afirma
+que el punto de partida de su trabajo del espacio siempre es artístico:
+"*Me baso más en lo que me pasa con la música porque, al fin y al cabo,
+siempre estamos hablando de música. ¿Qué te pasaba cuando escuchabas
+música a los 5 años? ¿Que me pasaba emocionalmente en ese momento?.
+Siempre trato de preguntarme y plantearme esto espacialmente. No tenía
+conocimientos técnicos en esos años, pero pasaba algo que me gustaba.
+Ahí es a donde apunto. Yo voy ecualizando en base a lo que voy
+sintiendo, básicamente. Y de ahí en más construyo el espacio. No pienso
+en casi nada técnico, pero a la vez soy super técnico*".
+
+## Sobre la importancia y las técnicas relativas al uso de la distancia auditiva
+
+Como vimos en los Capítulos 1 y 3, la distancia es un parámetro más de
+la ubicación espacial de la fuente y que, en comparación con el eje
+vertical y el horizontal, se le ha dado menos importancia. Sin embargo,
+como consecuencia del desarrollo de nuevos dispositivos de reproducción
+audiovisual, el uso de la distancia ha cobrado relevancia. Por ejemplo,
+Basso se refiere a que "*la distancia, como parámetro, se ha convertido
+en algo relevante, sobre todo en producción multimedia y el cine, en
+donde es muy importante que espectador oiga a una persona que esté
+disparando a 100 metros de distancia del supuesto punto de escucha. No
+alcanza que provenga de algún lugar en el plano horizontal. Y ahí me
+parece que el parámetro de distancia, que es muy complejo al depender de
+muchos indicios, es muy importante en ese tipo de medio audiovisual"*.
+
+Siguiendo con la importancia del uso de la distancia en sistemas de
+reproducción audiovisuales, tenemos el caso de la distribución espacial
+a partir del efecto panorámico (técnica para enviar una señal de audio
+en un medio estéreo o multicanal) en un formato de audio sorround, como
+puede ser el sistema 5.1. En este dispositivo es necesario crear un
+espacio sonoro convincente. Siendo este el caso, en principio habría que
+determinar dónde se quiere ubicar la fuente sonora que uno quiere
+representar y qué porcentaje de señal directa se concentra en ese punto.
+Por otro lado, hay que determinar qué porcentaje llega al oyente de
+forma secundaria, como es el caso de las reflexiones tempranas de la
+sala, la reverberación densa, retardos, etc. Mayo comenta su experiencia
+en el sistema 5.1 respecto a los criterios utilizados para lograr una
+representación del espacio virtual plausible: "*Una técnica bastante
+utilizada, y que me gusta en particular, es trabajar con cámaras
+(reverberadores) que van exclusivamente a un determinado punto del
+espacio virtual. O sea, son cámaras direccionales, donde puedo situar un
+elemento, por ejemplo a 100º, con respecto al punto de escucha (\...)
+¿Que es lo que voy a obtener como salida (output) de esa reverb? Además
+de la señal directa, señales que representen indicios acústicos de la
+sala virtual. Esto se combina con un efecto de delay, que no debería
+tener el mismo tiempo de retardo tanto en el canal izquierdo y como el
+derecho. Esto se hace para lograr una sensación de estéreo en los
+parlantes traseros, y que se perciba una apertura espacial (\...) Por
+supuesto que no es la misma información que la señal frontal directa,
+dado que tenemos mayor distancia , menos brillo y un poco más de
+cámara*".
+
+Siguiendo con otros sistemas de reproducción contemporáneos, los cuales
+representan importantes herramientas para abordar el parámetro de la
+distancia, tenemos el caso del sistema llamado Wave Field Synthesis
+(WFS). Se trata de una técnica de renderizado de audio, caracterizado
+por la posibilidad de crear un entorno acústico virtual muy realista.
+Este sistema produce frentes de onda sintetizados por una gran cantidad
+de parlantes, ubicados en línea horizontal, en donde la localización de
+la fuente no depende de la localización del oyente. Respecto al WFS,
+Basso comenta su experiencia ocurrida en un concierto en el estudio 4 de
+la Maison de Radio France (radio-televisión francesa) donde usó la
+técnica de WFS como sistema de espacialización: "*había escuchado antes
+el WFS y no me había convencido. Teóricamente el WFS me parecía
+excelente. Pero en este concierto lo escuché como debió ser, por primera
+vez en mi vida. Las frecuencias por debajo de 400Hz están hechos por
+subwoofers. Pero, ¿Qué diferencia hay entre el WFS y sistemas como
+ambisonic o intensity panning?: Todos los sistemas tradicionales
+codifican la distancia para ser interpretado por un punto privilegiado
+de la audiencia. (\...) Con WFS podés recorrer todo el espacio de
+representación como si estuviera la fuente real. Me pareció que es un
+cambio de paradigma de reproducción acústica. Porque lo que se genera no
+son tanto las ondas sonoras de fuentes ubicadas en algún sitio
+determinado, sino el frente de onda que esa fuente genera. Y se
+reproducen en la línea de parlantes frontales. Me parece que ahí la
+distancia está muy bien codificada, cosa que nunca oí en un sistema de
+parlantes en una ubicación privilegiada*".
+
+En otro ámbito, en la música instrumental el uso de la distancia siempre
+presenta una estrecha relación con la sala donde acontece el discurso
+musical. Julio Viera reflexiona sobre dicha relación afirmando que "*si
+un cuarteto de cuerdas toca en un lugar inmenso, y el espectador se
+encuentra muy alejado del escenario, no será percibido igual que si el
+espectador está mucho más próximo. Por eso, para un cuarteto de cuerdas
+es preferible una sala apropiada a la música de cámara. Si uno está en
+el Teatro Colón, y estás en la última fila (donde todo se escuchará más
+difuso), no es lo mismo que estar en las primeras filas de la platea
+baja. Y este hecho podría atentar contra las intenciones del compositor
+al concebir la distancia como factor estructural del discurso" .*
+
+Además del espacio donde acontece el discurso musical, varios de los
+entrevistados (sobre todo los compositores) coincidieron que es muy
+relevante tener en cuenta el orgánico y la disposición espacial de los
+instrumentos en la escena. En este sentido, Arias se refiere a que un
+punto de partida para abordar los distintos planos en distancia puede
+ser desde la orquestación*: "tratando de pensar en planos diferentes en
+consecuencia de tener planos espaciales en distancia, mediante la
+organización de los timbres por familias o por grupos*". En esta misma
+línea, Suárez se refiere a la posibilidad de generar centros de anclaje
+o polaridades de acuerdo a las distintas disposiciones instrumentales,
+refiriéndose a su ensamble de cámara (del cual es director): "*Como
+tenía un grupo chico, según como planteaba el arreglo, hacía cambiar de
+lugar a los músicos, sobre todo los clarinetes (\...). Por ejemplo,
+organizar un grupo de clarinetes y flautas distinto al de los metales,
+por una cuestión de homogeneidad tímbrica y sobre todo cuando buscaba
+una homogeneidad mayor a la que el grupo instrumental me ofrecía
+(\...)"*.
+
+Un poco en contraposición al hecho de otorgar a la orquestación y la
+disposición instrumental un rol relevante e indiscutible, podemos pensar
+que estos factores pueden ser afectados de forma contundente por las
+características acústicas del recinto, incluso llegando al punto de
+atentar contra la forma "ideal" de escucha de la música. En este sentido
+Viera afirma que "*uno como compositor piensa de manera ideal para que
+la música se escuche "correctamente" en un lugar "correcto". Pero hay un
+problema: por más que el compositor trabaje cada uno de los planos de
+forma ideal, si la música ocurre en una sala inadecuada, se va a
+escuchar de forma inadecuada. Por ejemplo, en el Lincoln Center (EEUU)
+hay una sala sinfónica, una de ópera y otra para música de cámara. Por
+otro lado, en el teatro Colón se han escuchado muchas veces cuarteto de
+cuerdas, dúos, incluso conciertos de piano sólo.... Pero es un teatro de
+ópera! Es un espacio pensado para otra cosa. Ni siquiera fue concebido
+para conciertos"*.
+
+Siguiendo con las técnicas utilizadas en distintos ámbitos
+profesionales, nos encontramos con una multiplicidad de situaciones en
+función de la actividad profesional de los entrevistados. Desde la
+mirada de Ovie, una de los aspectos más importantes para abordar el uso
+de la distancia depende de cuanta información acústica tenga asociada la
+fuente sonora: "*¿Como opera el aire? A medida que te vas desplazando en
+distancia hay una ecualización natural: va a perder agudos, y los graves
+son los que más "avanzan" en distancia. Es como una imágen, le sacás
+brillo y perdés el contorno de la figura. Por otro lado, si la señal
+acontece dentro de una sala, la pregunta que surge es ¿Qué está pasando
+con las reflexiones? ¿Está más cerca del sonido directo o no? Por
+ejemplo, grabando cuerdas esto lo hacía directamente en la toma,
+tratando de lograr la distancia en la toma cruda, de acuerdo a la
+posición de micrófono, ver cual es la espacialidad del lugar y de la
+fuente. Creo que de esa forma a mí es la que más me rindió, en
+comparación a hacer un proceso de postproducción"*.
+
+## Sobre los métodos de notación para indicar planos en distancia 
+
+Es sabido de que, actualmente, en la escritura tradicional musical se
+contemplan distintos parámetros técnicos y expresivos, como pueden ser
+la altura tonal, el tempo musical y la intensidad, entre otros. Pero no
+existe una convención sobre la notación o codificación espacial clara, y
+mucho menos para el parámetro de distancia. Hay quienes sugieren que no
+sería necesaria una nueva notación para la distancia, como es el caso de
+Suárez que afirma que "*seguiría con la idea de que con la escritura
+tradicional es posible realizar diferencias en profundidad*". Esto puede
+ser cierto si consideramos que la partitura, además de ser una guía para
+el logro de una obra que no puede ser abarcada totalmente, sugiere el
+concepto espacial de la música. Continuando esta idea, Martínez dice que
+"[*sacar la conclusión de que estos parámetros no fueron tomados en
+cuenta también influye la falta de documentación sobre la práctica real
+de la música (\...) Por ejemplo, hay obras de Monteverdi, que al
+indicarse "Eco", la tradición de la época ya suponía que esas voces o
+instrumentos, debían estar alejados de los otros*". Quizás la
+documentación y conocimiento del estilo puedan dar, aunque no de una
+forma detallada, conceptos claros sobre el tratamiento de distintos
+planos respecto a la distancia en el espacio musical. Por ejemplo, Basso
+se refiere a que para "]*ensamblar y dirigir la sinfonía Nº4 de
+Beethoven necesitás tener en cuenta dos siglos de historia: la
+transmisión oral, la música que oíste, oír en salas particulares
+diseñadas especialmente para esas obras, en donde los músicos saben cómo
+tienen que apretar con el arco los violines, como soplar los oboes, etc.
+Es decir: la partitura no tiene nada de información en ese aspecto. Es
+más, la partitura tiene sólo dos parámetros: altura tonal y duración. No
+tempo, no altura espectral, nada*".
+
+## Sobre el concepto de Perspectiva Auditiva
+
+[En general, el concepto de Perspectiva Auditiva resultó ser el que más
+variabilidad de interpretaciones presentó, ya sea por subjetividades o
+por desconocimiento del término. Por ejemplo, Arias dice que:
+"]*desde el punto teórico me parece interesante, pero desde el
+punto vista práctico es casi impracticable. O sea, se necesitaría un
+espacio gigante para poder aplicar el concepto*". Por otro lado, Viera
+concibe el término claramente ligado *"al modo de pensar el espacio
+musical, pero que también no es una variable absoluta, ya que está
+condicionada a la ubicación del oyente"*.
+
+[Como vimos en el Capítulo 4, el término de *Perspectiva Auditiva* hace
+alusión a la percepción de distancia utilizando únicamente la modalidad
+auditiva. En una fuente natural, por ejemplo en el caso de que un
+trombonista que se aleje tocando, hay una cantidad de indicios auditivos
+que coinciden: decrecimiento de la intensidad, cambio espectral a medida
+que se aleja la fuente, relación D/R y reflexiones de la sala.
+Continuando con esta idea, Basso afirma que no es tarea sencilla
+representar de forma virtual cada uno de los indicios involucrados en la
+PAD: "]*cuando se quiere imitar lo que sucede en distancia en la
+realidad con una fuente virtual, ahí empiezan los líos. Sucede que en el
+proceso de representación (y muchas veces sucede por desconocimiento)
+que de repente algún indicio no es coherente. No coincide con los otros
+indicios. Y ese conflicto termina dando como resultado que no hay
+ninguna distancia*".
+
+Y el problema se acentúa aún más cuando nos encontramos con sistemas de
+codificación binaural (por ejemplo, sonido para realidad virtual y
+videojuegos). Ante esta problemática, Mayo hace referencia a las
+técnicas empleadas dentro de su estudio para conseguir un imagen
+espacial plausible: "*los auriculares, como se sabe desde hace años,
+permiten escuchar mucho más que dos canales, permitiendo percibir un
+espacio en 360º \...utilizando sólo dos canales!. La Perspectiva
+Auditiva está absolutamente enriquecida por el uso de técnicas que,
+hasta hace menos de 10 años, no tenían ninguna aplicación práctica y
+ahora son viables. Esto está muy explotado en el campo de sonido para
+videojuegos y realidad virtual. Pero esa perspectiva auditiva ahora se
+hace mucho más compleja, porque si antes, en el sistema stéreo, tenía
+una batería tomada con 15 micrófonos ya de por sí era una mezcla
+suficientemente compleja, y que había que resolver para darle una
+identidad en el espacio sonoro. En el sonido para realidad virtual, si
+giro la cabeza, esa batería se convierte en un punto en el espacio, y
+ahí necesito una mezcla mono que, en función del giro de la cabeza, me
+dé mayor o menor volumen, sumado a la interacción con otros indicios
+involucrados*" .
+

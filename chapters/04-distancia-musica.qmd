@@ -1,0 +1,538 @@
+# La distancia como dimensión estructural en la música
+
+## Introducción 
+
+El presente capítulo trata sobre el manejo del espacio sonoro en la
+música. Específicamente es revisado el plano auditivo de distancia y su
+relación con la composición musical tanto instrumental como
+electroacústica. En primera instancia se hará una revisión de algunas
+estrategias utilizadas por distintos compositores para simular la
+ubicación de fuentes sonoras en el plano de distancia tanto en ambientes
+reales como virtuales. Además, desarrollamos conceptos sobre la creación
+del espacio sonoro a través de múltiples capas sonoras, como también
+mediante la utilización de fuentes fijas de referencia.
+
+El objetivo de este capítulo es dar un panorama general sobre las
+herramientas compositivas utilizadas en el manejo de la distancia
+auditiva como factor estructural del discurso musical. Intentaremos
+entonces establecer una correspondencia plausible entre la utilización
+de la distancia en la música y los estudios perceptivos referidos a la
+misma. Advirtiendo que la bibliografía en este campo de estudio es
+escasa a nivel internacional, y prácticamente nula a nivel local,
+intentaremos dar un panorama general sobre el estado actual del tema,
+indagando en la interrelación entre música y ciencia con respecto al
+campo menos estudiado en la percepción del espacio sonoro: la Percepción
+Auditiva de Distancia (PAD).
+
+## Música y distancia 
+
+Como se expuso en el Capítulo 3, el trabajo experimental presenta la
+gran ventaja de poder aislar una característica del sonido determinada
+para focalizar el estudio sobre la misma. Como veremos a continuación,
+esto es algo que difícilmente encontraremos en el campo de la música
+instrumental, dado que las pistas involucradas en PAD se encuentran
+interrelacionadas de forma tal que es muy difícil manipular una sin
+involucrar a la demás. La creación de la Perspectiva Auditiva (la
+ubicación de las fuentes sonoras en distancia) se presenta como un rasgo
+de especial atención en la música debido a que la localización de
+fuentes sonoras en un espacio real, o imaginario, es considerado como un
+elemento compositivo estructural. La perspectiva auditiva en la música
+intenta disparar la imaginación creando un espacio sonoro concreto
+mediante instrumentos, auriculares o parlantes. Este hecho se presenta
+de forma análoga a lo que ocurre con la perspectiva visual, en donde se
+construye la ilusión de un espacio tridimensional desde uno
+bidimensional.
+
+Un recurso compositivo drástico, utilizado para generar diferentes
+planos de profundidad en la música, es manipular directamente la
+distancia entre la fuente y el espectador, lo cual afecta de manera
+coherente a una gran cantidad de indicios de PAD. Un ejemplo de esto son
+las obras de la Escuela Veneciana del siglo XVII, en la cual los
+compositores variaron directamente la distancia entre grupos corales
+para generar diferentes planos sonoros. Es el caso de los salmos de
+Willaert a ocho voces, uno de los más tempranos ejemplos (1550) de
+efectos de "eco distante" mediante el contraste de intensidad entre los
+grupos corales. Otro caso célebre es el tercer movimiento, de la
+*Sinfonía Fantástica* de Berlioz (1830) (Fig. 4.1) en donde un dueto
+pastoral imaginario se presenta con el corno inglés en escena y con el
+oboe fuera del escenario.
+
+![](/media/image7.png){width="5.907638888888889in"
+height="1.6034722222222222in"}
+
+***Figura 4.1:** El oboe fuera de escena implica varios indicios de PAD.
+Sinfonía Fantástica, 3º movimiento (Berlioz, 1830).*
+
+En este caso, el compositor genera diferentes planos sonoros manipulando
+directamente la distancia entre los instrumentos. Obviamente, el efecto
+que se produce es llamativo dado que están involucrados una
+multiplicidad de indicios claves de PAD. Por un lado, al emitirse fuera
+del escenario, el sonido que llega al oyente proveniente del oboe no es
+el directo sino el proveniente de las reflexiones. Al mismo tiempo, el
+filtrado que producen las paredes de la sala y otras superficies
+absorbentes producen un cambio espectral lo suficientemente convincente
+para que el oyente perciba una imagen auditiva distante. Sumado a esto,
+el hecho de que el espectador no vea la fuente genera en éste una
+contradicción: el sonido del oboe se escucha "en la sala", pero no se
+puede ver la localización de la fuente. Esto, sumado a los demás cambios
+antes nombrados, contribuye a enfatizar la sensación de lejanía. Un
+ejemplo similar es el efecto de "llamado" de trompeta distante de
+Fidelio, en la Obertura de Leonora N° 3 (Op. 72) compuesta por Beethoven
+en 1806. En este pasaje, no es suficiente que el instrumentista toque
+suavemente (menor intensidad) para simular un aumento en la distancia de
+la fuente, sino que debe ubicarse a cierta distancia de los cantantes y
+la orquesta con el fin de que la trompeta adquiera el timbre deseado.
+
+Ya dijimos que los recursos antes nombrados son drásticos debido a que
+el efecto de profundidad se logra variando directamente la distancia de
+la fuente sonora. Por otro lado, históricamente en la música se han
+implementado una variedad de técnicas compositivas para simular cambios
+de profundidad desde fuentes fijas. Las primeras herramientas utilizadas
+para generar diferentes planos de profundidad desde fuentes fijas (los
+diferentes instrumentos de la orquesta) fueron: el control de la
+dinámica (inherente al estilo del período barroco), y el manejo de las
+posibilidades tímbricas instrumentales. Esto se implementó mediante
+técnicas sencillas, como la reducción o multiplicación del número de
+instrumentos y la regulación del desarrollo dinámico de un evento
+musical.
+
+Dijimos antes que un indicio obvio en PAD es la relación entre la
+intensidad y la distancia a la fuente sonora. No sorprende entonces que
+los cambios en la dinámica hayan sido un recurso muy utilizado para
+simular distancia. La intensidad en la música instrumental básicamente
+se implementa a través de la dinámica, las articulaciones y el fraseo.
+La dinámica se encuentra estrechamente relacionada con la intensidad
+(objetiva) y sonoridad (subjetiva) del sonido, mientras que la
+articulación y el fraseo afectan a la envolvente dinámica global. Dada
+esta característica, podemos observar que, a diferencia del material
+sonoro involucrado en los experimentos de laboratorio, en un contexto
+musical la dinámica es altamente dependiente de la subjetividad, la
+interpretación del instrumentista y el contexto musical.
+
+La precisión en la escritura de dinámicas y articulaciones no apareció
+hasta el siglo XVIII, en donde encontramos un abanico de indicaciones
+más amplio que un simple contraste entre *p* y *f.* De ahí en más, las
+intensidades del fraseo musical fueron evolucionando desde una simple
+escala de valores relativos entre *ppp* a *fff*, pasando por las
+complejidades racionales del serialismo integral, hasta la escritura
+analógica más inclinada a la medición de la intensidad física. De esta
+manera, el desarrollo de la dinámica en la música se ha convertido de un
+simple (aunque efectivo) factor de contraste a un campo técnico y
+expresivo que abarca más de una dimensión musical: la dinámica musical
+también implica aspectos estéticos, expresivos y compositivos.
+
+Como mencionamos antes, la evolución en el uso de la dinámica en la
+música se ha desarrollado en función de las diferentes necesidades
+expresivas y estéticas. A continuación veremos que el uso de la dinámica
+también se ha expandido a otros campos, en particular al del espacio
+sonoro.
+
+En la música instrumental la utilización de la intensidad se encuentra
+correlacionada con el cambio de la envolvente espectral. Esta
+característica, inherente a los instrumentos acústicos, presenta un
+fuerte vínculo con el alejamiento o acercamiento de la fuente sonora.
+Por citar un ejemplo didáctico, si un violín se toca fuerte aumentará
+tanto la intensidad como la magnitud de los componentes en alta
+frecuencia de la señal, incluso con la utilización de sordina. En
+cambio, si toca suavemente los componentes de alta frecuencia serán
+atenuados. Este hecho, aunque parezca obvio, determina drásticamente la
+ubicación aparente de la fuente en el espacio sonoro (recordemos que, al
+igual que la pérdida de intensidad, una baja en el componente de altas
+frecuencias está relacionado con un aumento en la distancia a la fuente)
+y puede ser incrementado aún más si es combinado con la ubicación
+espacial del instrumentista. En este ejemplo podemos apreciar como la
+utilización de un recurso simple (variar la dinámica de la ejecución)
+genera información relacionada con la ubicación aparente de la fuente en
+distancia a través del control sobre indicios diferentes de la PAD. Esto
+representa una correspondencia directa con los experimentos realizados
+en laboratorio, en donde se ha demostrado que los cambios espectrales de
+la señal sonora a una misma distancia tienen un fuerte impacto sobre la
+PAD.
+
+En los instrumentos acústicos, los cambios espectrales (o sea,
+tímbricos) se producen mediante distintos modificadores y técnicas de
+ejecución. Dado el gran avance de los recursos instrumentales
+desarrollados hasta la actualidad, la modificación espectral del sonido
+emitido por instrumentos acústicos se ha expandido hasta límites
+insospechados hace unos 60 años. Por nombrar un modificador tímbrico
+elemental, podemos observar que para casi todos los instrumentos de la
+orquesta sinfónica moderna existe al menos un tipo específico de
+sordina. Como ya es sabido, con este recurso, el timbre "natural" del
+instrumento es modificado atenuando mayormente las frecuencias más altas
+del espectro, otorgando al sonido una cualidad más velada. El uso de
+este tipo de técnica actúa significativamente sobre el espectro general
+del instrumento. La atenuación en altas frecuencias producido por el uso
+de la sordina evoca al indicio de absorción causada por el aire cuando
+la fuente se encuentra a una distancia considerable. Además, como
+mencionamos previamente, estos dispositivos causan una disminución en la
+intensidad global del sonido, lo cual representa otro indicio importante
+en la PAD.
+
+Los modificadores y las técnicas instrumentales poseen la cualidad de
+ser efectuados con diverso grado de control, dependiendo del registro,
+el tipo de técnica y las posibilidades de cada instrumentista. Mediante
+la combinación e interacción de los factores mencionados, a través de la
+historia de la música han surgido técnicas de modificación tímbrica para
+simular distancia de manera efectiva. Un claro ejemplo de lo antedicho
+lo podemos encontrar en el segundo movimiento la obra de Rimsky-Kórsakov
+llamada *Capricho Español* (1887), en donde de los sonidos naturales del
+corno se suceden con los "*bouchés*" (Fig. 4.2). En el siguiente pasaje
+es notable como una fuente fija, representada por el corno, puede
+generar el efecto de distancia modificando sólo el timbre y la
+intensidad.
+
+![](/media/image8.png){width="5.907638888888889in"
+height="5.000694444444444in"}
+
+***Figura 4.2:** Uso de sonidos bouchés en el corno francés como
+modificador tímbrico para simular distancia a la fuente. Capricho
+Español, 2º movimiento (Rimsky-Kórsakov, 1887).*
+
+Como vimos anteriormente, Spiousas (2017) demostró que los sonidos
+espectralmente complejos son más sencillos de ubicar en distancia que
+los de espectro simple. Las características espectrales en el ámbito
+instrumental presentan resultados perceptivos similares a los descritos
+por Spiousas. Dado que la PAD es dependiente no solo de la frecuencia
+sino también del ancho de banda, la utilización de timbres análogos a
+los tonos puros sinusoidales o de banda angosta (como los armónicos en
+los instrumentos de cuerda) puede resultar con mayor grado de ubicuidad
+que los instrumentos que presentan un ancho de banda más amplio, como
+puede ser el caso de un platillo. Como veremos más adelante, esta
+característica es de utilidad cuando se requiere estructurar la textura
+en diversos estratos distribuidos en el plano de la distancia. Es decir,
+desde este punto de vista sería contradictorio superponer en distancia
+diferentes estratos con sonidos de espectro simple dada la ubicuidad
+característica de los mismos.
+
+Es notable la manera en que nuestro sistema perceptivo parece intentar
+otorgarle algún tipo de forma física a materiales que no los son. Los
+sonidos musicales claramente tonales sugieren formas regulares y
+simples, y los sonidos ruidosos indican formas más complicadas, pero
+incluso esta relación se mantiene sólo en los casos en que el objeto de
+origen es idéntico o muy aliado con el sonido real productor. De esta
+manera podemos inferir que una vaga idea deriva de una forma de una
+fuente no-familiar dada su falta de representación mediante un
+significado. Stockhausen (1989) menciona la siguiente experiencia: "*si
+alguien susurra al oído muy suavemente solemos asociarlo con cercanía, a
+pesar de que el sonido posea una amplitud alta. En cambio, si escuchamos
+un trueno que está ocurriendo a más de 10 kilómetros lo asociamos con
+lejanía. Ambos sonidos poseen la misma amplitud, pero se perciben
+espacialmente de forma radicalmente distintas*" . Es aquí donde
+observamos que la PAD está determinada no solo por la información que
+brindan los indicios antes mencionados sino, además, por el conocimiento
+previo del estímulo. Tomando en cuenta los estudios psicofísicos de PAD
+podemos suponer que resultará más sencillo generar diferentes estratos
+en distancia utilizando sonidos conocidos que sonidos desconocidos, ya
+que estos últimos son más difíciles de ubicar en el eje de la distancia.
+
+## La percepción de distancia en la música electroacústica 
+
+A diferencia de lo que ocurre con la música instrumental, en la música
+electroacústica los compositores no están limitados a fuentes sonoras
+pre- existentes. Esta particularidad otorga a los compositores la
+posibilidad de diseñar sonidos que den soporte específico a la
+espacialidad musical. Pero también pueden explorar ámbitos acústicos que
+sugieran derribar la validez física del espacio sonoro. Cuando una
+música es tocada, con instrumentos acústicos en una sala real, nos
+ofrece una variedad de pistas a nivel físico tanto visuales como
+acústicas, las cuales permiten que el oyente genere una experiencia
+espacial sobre el mundo físico. En la música electroacústica, la
+experiencia ante los fenómenos que se producen en un espacio acústico
+real ha sido uno de los puntos centrales de estudio, pero la tecnología
+de reproducción multicanal amplía de una manera radical el alcance y la
+complejidad de la espacialidad generada. Es por eso que uno de los
+aspectos más importantes que diferencian a la música electroacústica de
+la acústica es el rango expandido de su paleta espacial, determinada por
+la interacción entre la tecnología y la respuesta del oyente. Sin
+embargo, esta característica en ocasiones se presenta como una
+desventaja: la descripción física de los indicios en un entorno acústico
+virtual provee sólo una precaria guía para generar una imagen auditiva
+en el oyente, dada la esencia inmaterial de la música emanada mediante
+parlantes.
+
+En el campo de la música por computadora, la mayoría de las
+investigaciones concernientes a la percepción auditiva del espacio
+sonoro pueden encontrarse en dos líneas de estudio: 1) la investigación
+sobre la percepción y la cognición en la audición espacial y 2) la
+investigación aplicada sobre la reproducción sonora. Con esta
+tecnología, los compositores pudieron controlar, a diferencia de lo que
+ocurre en el ámbito instrumental, diferentes indicios espaciales de
+manera aislada. Esto les permitió a los compositores hacer del espacio
+sonoro un parámetro controlable aunque, a la fecha, con resultados
+efectivos muy variables. Sin dudas es en este ámbito donde se produce el
+mayor cruce entre los estudios psicofísicos, las técnicas de
+espacialización y el imaginario compositivo.
+
+Un ejemplo de la especificidad del manejo de los indicios de la PAD en
+la música electroacústica es el control de la intensidad. A diferencia
+de la música instrumental, la utilización de la tecnología en la música
+electroacústica le permite al compositor, mediante un software,
+modificar la amplitud de la señal de la fuente virtual de manera
+proporcional a la distancia entre ésta y el oyente sin afectar otros
+indicios de distancia. Esto muestra un correlato directo entre las
+investigaciones psicofísicas referentes a la intensidad del sonido en
+distancia. Para ejemplificar lo antedicho, podemos citar el modelo
+aplicado por John Chowning en *Turenas* (1972) en donde implementa un
+sistema cuadrafónico (cuatro parlantes) para simular un espacio sonoro
+determinado mediante un modelo matemático. Este modelo utiliza un
+multiplicador de intensidad que actúa de acuerdo a la ley del cuadrado
+inverso de manera independientemente en cada canal dependiendo de las
+diferentes posiciones de la fuente. Este tipo de procedimiento es uno de
+los más difundidos para simular la ubicación y desplazamiento de una
+fuente sonora en el espacio auditivo. Mediante el desplazamiento de esta
+"fuente fantasma" en el eje horizontal y de distancia es posible obtener
+una gran cantidad de trayectorias. Por citar un ejemplo célebre, en el
+libro de Wishard (1995) *On Sonic Art*, encontramos diagramas y esquemas
+de posibles gestos espaciales bidimensionales. Sin embargo, debemos
+advertir que muchas de las trayectorias planteadas por Wishard pueden
+ser prácticamente indistinguibles entre sí: no es lo mismo diagramar
+visualmente una trayectoria que escucharla. Un clásico ejemplo es la
+trayectoria basada en curvas de Lissajous que cumple un rol fundamental
+en *Turenas*. Chowning concluyó que la trayectoria de la "fuente
+fantasma" era mucho más convincente tomando como referencia curvas
+simples, claras y bien estructuradas para lograr trayectorias que puedan
+ser percibidas y así robustecer la dinámica espacial del discurso
+musical. En la Figura 4.3 mostramos el movimiento de *Turenas* como un
+ejemplo clásico de una trayectoria compleja en el eje horizontal y de
+profundidad utilizando figuras basadas en las curvas de Lissajous.
+
+Desde mediados del siglo XX se han desarrollado sistemas de
+espacialización del sonido para simular un determinado espacio acústico
+mediante parlantes. Ejemplos de sistema de espacialización renombrados
+pueden ser Intensity Panning, Ambisonic y Dolby 5.1. No es el objetivo
+de este capítulo profundizar en estos sistemas, ya que existe excelente
+bibliografía a nivel internacional y local (Basso et al., 2009) que
+trata el tema de forma exhaustiva. Desde el punto de vista de la
+implementación técnica, el espacio musical electroacústico tiene
+efectividad solo si podemos percibir de manera evidente las
+características sonoras del espacio real o imaginario como estructura.
+Dicha estructura puede basarse, entre otros factores, en el tipo de
+reverberación que genera un espacio dado. En la música sinfónica, por
+ejemplo, gran parte del problema ya viene resuelto de antemano dado que
+el trabajo compositivo utilizando los instrumentos de orquesta presenta
+una espacialidad en sí misma. Salvo que los instrumentos acústicos se
+muevan en el recinto, son muy pocas las veces en las que podemos
+modificar la relación entre el sonido directo de los instrumentos y las
+reflexiones de la sala.
+
+Por el contrario, al trabajar en un espacio virtual es necesario generar
+la reverberación del entorno acústico imaginario donde los
+acontecimientos sonoros acontecen. A diferencia de lo que ocurre con la
+reverberación de una sala real, en donde los factores que afectan a la
+misma no cambian en el tiempo, en el espacio electroacústico la
+reverberación adquiere mayor plasticidad. Esto habilita a generar
+distintos espacios de características diferentes los cuales pueden
+actuar como entidades compositivas independientes. Dicho esto, podemos
+inferir que en la música electroacústica podría ser necesario crear un
+espacio propio, que no viene dado solamente por los objetos sonoros como
+sí ocurre con los instrumentos acústicos. Además de la reverberación
+general de una sala, las herramientas actuales nos permiten manipular la
+relación D/R con cierta facilidad.
+
+![](/media/image9.png){width="5.907638888888889in"
+height="3.2215277777777778in"}
+
+***Figura 4.3:** Movimiento espacial complejo en el eje horizontal y de
+distancia (Turenas, Chowning, 1975).*
+
+## Distancia en el espacio real e imaginario 
+
+La percepción espacial, tanto visual como auditiva, nos permite ubicar
+objetos en el mundo real, el cual nos brinda una multiplicidad enorme de
+referencias que nos ayudan a ubicar los objetos, visuales y sonoros, en
+relación a ellas. Por el contrario, en la música es necesario construir
+un espacio que en la mayoría de los casos es imaginario, para luego
+poder operar sobre el mismo.
+
+En el ámbito de la música instrumental, cuando un compositor trabaja con
+la idea de gradiente, profundidad, contorno y marco, la orquesta se
+presenta como un orgánico instrumental que contiene lugares fijos los
+cuales permiten trabajar con ideas de ampliaciones espaciales que
+involucran distancia y perspectiva auditiva. En este caso las
+posiciones, que están determinadas por la ubicación instrumental, están
+enmarcadas y fijadas por nuestra memoria construyendo un espacio
+previamente configurado. En 1971, Stockhausen (1971) plantea la idea de
+"*composición espacial multi-capa*" (Fig. 4.4), invitando a la reflexión
+sobre el espacio más allá de los sonidos que acontecen alrededor del
+oyente a una distancia fija. Stockhausen parece no sobreestimar la
+técnica de composición espacial multi-capa ya que advierte que la misma
+se encuentra limitada por nuestra percepción. En analogía con lo que
+ocurre con la melodía y armonía en el plano bidimensional de la música
+tradicional, la construcción de una profundidad espacial por la
+superposición de capas habilita la idea de establecer una perspectiva
+auditiva en el espacio tridimensional.
+
+![](/media/image10.png){width="5.907638888888889in"
+height="3.157638888888889in"}
+
+***Figura 4.4:** Técnica de composición multi-capa en el campo estéreo
+planteada por Stockhausen.*
+
+Un ejemplo claro en el que el espacio se presenta como un factor
+fundamental del discurso musical es *Cristal Argento* (2011), del
+compositor argentino Oscar Edelstein. El autor comenta sobre su obra:
+
+*"En Cristal Argento eI trabajo con las "distancias" interválicas e
+instrumentales consiste en: a) uso de las distancias objetivas o reales
+existentes entre las diversas fuentes fijas instrumentales para la
+generación de otras formas y estructuras con volumen, b) las fórmulas
+que detallan los tipos y grados de conexiones posibles entre esas
+fuentes fijas (uso de conectores entre instrumentos y grupos) c) estudio
+de las distancias perceptivas -imaginarias- que conlleva el uso de
+diferentes intervalos de altura, timbre y tiempo, como también la
+consideración en escala de los intervalos musicales clásicos para el
+diseño de armonías y texturas, en consideración a las distancias entre
+grupos, c) las modificaciones en el volumen y peso sonoro (entendido
+también como densidad) ya sea en el tratamiento del "grosor" de las
+líneas o la profundidad de los bloques."*
+
+Edelstein parte desde una idea emparentada con las capas múltiples de
+Stockhausen pero introduce el concepto de fuentes fijas como factor
+fundamental para generar el marco (el espacio) donde transcurre el
+discurso sonoro. Edelstein propone una teoría basada en dos ideas
+fundamentales (Eguía y Edelstein, 2007):
+
+1\. Sin fuentes fijas de referencia no hay espacio en el sentido
+constructivo.
+
+2\. Toda distancia puede ser considerada como un intervalo y de allí
+adaptada a una escala que interprete a los campos provenientes de lo
+real, lo imaginario y lo simbólico.
+
+Edelstein plantea dos grandes campos para construir (o imaginar, pensar,
+nombrar y cifrar) al espacio musical: el Posicional, o Teatral, ligado a
+las fuentes fijas de emisión y la experiencia en la escena, y el
+Abstracto, considerado como la resultante de los diseños de movimientos
+entre fuentes diversas, la generación de texturas, estructuras o
+discursos en un entorno creado.
+
+Esta teoría es otro ejemplo de cómo las herramientas musicales surgidas
+de conocimientos empíricos se relacionan con la percepción del espacio
+en el mundo real. La percepción de distancia, tanto en la modalidad
+visual como en la auditiva, ha demostrado que, para que podamos percibir
+la ubicación de un objeto a cierta distancia, es necesaria la presencia
+de múltiples indicios relacionados con el espacio donde los objetos
+están ubicados.
+
+De manera similar, cuando existen en la música puntos de referencia
+estructuralmente bien definidos, el espacio cobra sentido en nuestra
+percepción como un marco contenedor del relato sonoro. Pero cuando los
+puntos de referencia adquieren un carácter más abstracto, la
+construcción del marco no es tan sencilla. El solo hecho de trabajar con
+un material musical implica intrínsecamente un espacio y una distancia.
+Si las fuentes se encuentran situadas en lugares estratégicos, surge que
+el manejo de la perspectiva auditiva y la distancia es mucho más claro.
+Es claro para el compositor, pero sobre todo es mucho más claro para el
+oyente. Según Edelstein "*las posiciones fijas no solo cubren el rol de
+determinar un espacio acústico imaginario sino que establecen lazos con
+las posiciones fijas históricas, como lo son los instrumentos de la
+orquesta. Es decir, en las posiciones fijas está la historia de la
+música*".
+
+## Conclusiones 
+
+En el panorama musical contemporáneo la concepción del espacio musical
+representa una importante dimensión estructural. En la música, el
+espacio sonoro se manifiesta mediante dimensiones poéticas, estéticas y
+expresivas, aunque queda claro que para construir espacialidad de manera
+plausible también es necesario recurrir a nuestra percepción del mundo
+real.
+
+En el ámbito de la música instrumental, los compositores históricamente
+han utilizado distintas técnicas para generar distancia en el espacio
+sonoro. Dichas técnicas, surgidas principalmente de la experiencia de
+los compositores, se enfocaron en el control de diferentes cualidades
+acústicas del sonido, las cuales fueron postuladas años después por la
+psicoacústica experimental como importantes indicios de PAD. Sin
+embargo, al trabajar con instrumentos acústicos, resulta extremadamente
+complicado manipular de manera aislada los indicios involucrados en la
+PAD. Por ejemplo, cuando un instrumentista realiza cambios en la
+ejecución con el fin de producir modificaciones en la intensidad del
+sonido se producen inevitables variaciones en el contenido espectral del
+mismo (en ambos casos se trata de importantes indicios de PAD).
+
+Un caso muy diferente es el de la música electroacústica, en donde las
+herramientas tecnológicas actuales posibilitan abordar algunos de los
+indicios involucrados en la PAD de manera independiente y controlada.
+Esto permite construir un contenedor en el cual ocurren interacciones
+particularmente complejas entre la audición espacial y otros campos de
+la percepción auditiva. Sin embargo, más allá de los últimos avances de
+los sistemas de espacialización del sonido, la utilización de la
+distancia en la música electroacústica dista mucho de estar resuelta. El
+escalamiento de la intensidad, la simulación del filtrado de la señal en
+función de la distancia y la aplicación de reverberación artificial
+parecen no alcanzar para generar una imagen acústica convincente en
+distancia. Hemos visto a lo largo de este trabajo que factores
+importantes como la cualidad espectral del sonido, el conocimiento
+previo de las fuentes sonoras y la relación con la información provista
+por la modalidad visual pueden influir de manera contundente en la PAD.
+El conocimiento de este tipo de información facilitaría la tarea del
+compositor a la hora de simular la ubicación de una fuente sonora a una
+distancia determinada o realizar transiciones espaciales de una manera
+más sutil. De acuerdo a lo antedicho, sería muy beneficioso clasificar
+los timbres utilizados tanto en una orquesta sinfónica como en la música
+electroacústica de acuerdo al grado de ubicuidad. Un ejemplo claro sería
+la relación entre la ubicuidad de una fuente en distancia y el ancho de
+banda del sonido que esta emite. Por ejemplo, sería contradictorio
+otorgarle una ubicación específica en el eje de distancia a una fuente
+sonora que emita sonidos espectralmente simples, similares a tonos
+puros, ya que hemos visto que éste tipo de sonidos no son fáciles de
+ubicar en distancia.
+
+Por otro lado, experimentos de PAD, tanto en la modalidad visual como en
+la auditiva, han demostrado que para percibir correctamente la distancia
+a un objeto es relevante conocer las dimensiones del lugar donde ocurren
+los acontecimientos sonoros y visuales. La utilización de la
+reverberación artificial para simular una sala determinada es un claro
+ejemplo de cómo un indicio acústico puede darnos información sobre el
+tamaño de un recinto, lo cual tiene un fuerte impacto sobre la PAD. Como
+dijimos anteriormente, el oído funciona actuando conjuntamente con el
+sentido de la vista. Se ha demostrado de manera contundente el grado de
+incidencia que posee la visión sobre nuestra percepción del espacio
+acústico (Calcagno, 2012). Podemos observar así que la PAD puede variar
+en función de la presencia, ausencia, saturación, escasez y ubicación de
+las pistas visuales. Conociendo este hecho, inferimos que esta
+característica no es ajena al ámbito musical. Pensar en el concepto de
+perspectiva visual y auditiva nos posibilita concebir un espacio musical
+híbrido, en el cual no solo operen fuentes sonoras fijas sino también
+distintas pistas visuales que afectan directamente la estructura musical
+en el espacio.
+
+Hemos visto que la PAD involucra una variedad de indicios acústicos y
+no-acústicos que pueden afectar de manera importante el manejo del
+espacio en la música. Sin embargo, aunque existan distintas técnicas
+instrumentales y electroacústicas para simular profundidad en el espacio
+musical, el tratamiento de la distancia como factor estructural en la
+música dista mucho de estar resuelto. Esta situación no es exclusiva del
+ámbito musical ya que también es escaso el número de investigaciones
+referidas a la PAD a nivel internacional. De este modo, la PAD se
+presenta como un campo fértil en el que aún queda mucho camino por
+recorrer tanto para la música como para la psicoacústica experimental.
+
+## Referencias bibliográficas
+
+Basso, G., Di Liscia, O. P. y Pampin, J. (eds.): *Música y Espacio:
+ciencia, tecnología y estética*. Editorial de la Universidad Nacional de
+Quilmes (2009).
+
+Calcagno, E. R., Abregú, E. L., Eguía, M. C. y Vergara, R. O. The Role
+of Vision in Auditory Distance Perception, Perception 41, 175-92 (2012).
+
+Eguia, Manuel y Oscar Edelstein: "The Acoustic Grid", en Amalia Barboza
+(ed.): Insert - Zehn Kooperationen zwischen Kunst und Wissenschaft
+(Frankfurt: Gutleut Verlag) (2007).
+
+Maconie, R. (ed.): *Stockhausen on music.* Marion Boyars, London (1989).
+
+Spiousas I., Etchemendy P., Eguia M. C., Calcagno E. R., Abregú E. L. y
+Vergara R. O. Sound spectrum influences auditory distance perception of
+sound sources located in a room environment. Frontiers in Psychology
+doi: 10.3389/fpsyg (2017).
+
+Vergara, R. O., Calcagno E. R. y Eguía, M. C. The Role of Spectral Cues
+and Minimum Bandwidth in the Auditory Perception of Distance, Journal of
+the Acoustic Society of America 128(4) (2010).
+
+Wishart, T. *On Sonic Art*. New York, Imagineerring Press, 1985. Nueva
+edición, Amsterdam: Harwood Academic Publishers (1996).
+

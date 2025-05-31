@@ -1,0 +1,293 @@
+# Introducción
+
+## El espacio sonoro en la música
+
+El sonido se desarrolla siempre en un tiempo y espacio determinado.
+Desde la generación del sonido en la música el espacio se encuentra
+implícito, habilitando la posibilidad de ordenar, reconstruir y moldear
+dicho espacio para influir en la forma musical, por lo que la
+utilización del espacio en la música obedece a razones que exceden
+cuestiones meramente acústicas.
+
+La idea del espacio como elemento para la construcción del discurso
+sonoro implica enfrentarnos a un término complejo que refiere a
+múltiples aspectos de la composición, la interpretación y la percepción
+musical. Esto se argumenta sobre la base de que el espacio es un
+elemento musical compuesto, el cual puede integrarse dentro de una
+estructura compositiva, llegando a adquirir una jerarquía relevante como
+elemento estructural del discurso sonoro.
+
+La espacialidad en la música representa una variable compositiva que
+cuenta con una larga historia. El tratamiento del espacio sonoro en la
+escena puede remontarse al uso de las máscaras que aumentaban las
+resonancias y direccionalidad de la voz de los actores y el coro en el
+teatro griego clásico (Knudsen, 1932) Sin embargo, aunque las técnicas
+compositivas referidas al manejo del espacio sonoro datan de varios
+siglos de desarrollo, la utilización sistemática de las dimensiones
+espaciales en la música cobra mayor relevancia a principios del siglo
+XX, donde diversos compositores utilizaron el espacio sonoro como un
+factor estructural clave de su discurso musical. Obras como *Universe
+Symphony* (1911-51) de Charles Ives, *Déserts* (1954) y *Poème
+électronique* (1958) de Edgard Varese, *Gruppen* (1955-57) de Karlhein
+Stockhausen y *Persephassa* (1969) de Iannis Xenakis utilizan la
+concepción del espacio como una dimensión independiente y estructural,
+la cual se encuentra interrelacionada con otros parámetros del sonido,
+como el timbre, la dinámica, la duración y la altura.
+
+En particular, es importante destacar que en las obras mencionadas no
+sólo se consagra identidad al espacio sonoro como una nueva dimensión
+musical, sino que también se generan teorías detrás de la
+espacialización del sonido que contemplan, entre otros, aspectos físicos, poéticos, pictóricos y
+perceptivos. De esta manera, las áreas de estudio y los campos de
+aplicación del conocimiento artístico-musical, derivados de dichos
+conceptos y teorías, se han ampliado durante las últimas décadas,
+favoreciendo la investigación interdisciplinaria respecto al uso del
+espacio sonoro y sus respectivos parámetros.
+
+Además de ocupar un lugar central en la música, durante los últimos años
+el espacio sonoro y sus materias relacionadas se han vuelto tema de
+estudio en diversas disciplinas. Un ejemplo de lo antedicho puede verse
+reflejado en la investigación sobre las técnicas de espacialización del
+sonido en entornos acústicos reales y virtuales. Dichas técnicas se han
+desarrollado, en gran parte, basándose en principios psicoacústicos,
+modelos cognitivos y avances tecnológicos para desarrollar hardware o
+software de espacialización del sonido. En otro ámbito, en el campo
+científico se han realizado tesis y artículos de investigación que
+abordan con gran precisión cuáles son los indicios necesarios para
+generar una imagen acústica de una fuente virtual y de qué manera deben
+ser emulados, ya sea mediante un circuito electrónico o un algoritmo
+computacional. Sin embargo, no podemos afirmar que las técnicas
+musicales, referidas al manejo del espacio sonoro, hayan podido valerse
+de los estudios de las ciencias perceptivas de una manera global ya que,
+como veremos luego, en muchos casos son tenidos en cuenta sólo algunos
+de los indicios involucrados en la percepción auditiva del espacio
+sonoro, dejando de lado otros que son necesarios para obtener una imagen
+acústica convincente.
+
+A modo general, el espacio de una composición musical podría
+representar, como atributo, el primer elemento de expresión y
+comunicación con el espectador. Por ejemplo, desde el primer momento,
+las características acústicas de una sala (real o virtual) influye
+directamente en la forma en que percibimos el discurso sonoro. Esta
+característica del espacio musical se complementa con la ubicación de
+las fuentes sonoras en el espacio, ya sean instrumentistas o parlantes.
+Una referencia histórica de este hecho se da en el período renacentista,
+mediante el uso de los coros divididos de la catedral de San Marcos de
+Venecia. Esta tipo de estilo, llamado antifonal, representa un claro
+antecedente la dependencia de la construcción musical con el espacio
+arquitectónico (Stockhausen, 1959). El estilo de los compositores
+Venecianos se mostró fuertemente influenciado por las particularidades
+acústicas y arquitectónicas de la basílica de San Marcos de Venecia
+(Fig. 1.1), involucrando coros o conjuntos de instrumentos separados
+espacialmente, ejecutados de forma alternada.
+
+![](/media/image1.png){width="3.7333333333333334in"
+height="4.233333333333333in"}
+
+**Figura 1.1:** *Planta de la basílica de San Marcos de Venecia
+(Italia)*
+
+Durante el período clásico y romántico europeo la distribución espacial
+de los instrumentistas, en la mayoría de los casos, siguió el ideal
+francés de las escuelas militares del siglo XIX. En esta configuración,
+la disposición más generalizada se diferenciaba en dos zonas
+principales: la de los músicos en el escenario y la del público en la
+platea. En el siglo XX, se replanteó esta situación frontal de concierto
+proponiendo otro tipo de diseños y disposiciones. Por ejemplo, en 1962,
+el compositor alemán Karlheinz Stockhausen ideó el diseño de un nuevo
+tipo de recinto para ampliar las posibilidades de disposición del
+público y los músicos (Fig. 1.2). Dentro de las directivas propuestas
+por el compositor alemán, se pueden mencionar que el recinto debe ser
+circular, sin podio fijo, distribución de butacas flexible, techos y
+paredes para instalar parlantes y micrófonos, balcones suspendidos para
+músicos y propiedades acústicas de la sala configurables. Todas estas
+directivas intentaron adaptar la sala de conciertos a las nuevas
+necesidades compositivas de su época, utilizando salas específicamente
+diseñadas para una escucha espacial. Esta nueva manera de concebir los
+espacios posibilita pensar en las diferentes sensaciones que se pueden
+provocar en el oyente mediante el uso la espacialidad del sonido.
+
+![bild.jpg](/media/image2.jpg){width="5.0in"
+height="3.3333333333333335in"}
+
+**Figura 1.2:** *Karlheinz Stockhausen "Spherical Concert Hall". Diseño
+para la Exposición Mundial de Osaka, Japón (1970).*
+
+En otro ámbito, a mediados del siglo pasado, el manejo del espacio en la
+música electroacústica muchas veces estuvo ligado a los recursos y
+limitaciones técnicas de cada época, donde el parámetro del espacio no
+poseía una noción evidente, todavía falto de vocabulario técnico
+específico, y aún menos presentes las relaciones con los otros
+parámetros ya conocidos. Desde los comienzos de la música
+electroacústica, los compositores han utilizado la tecnología para
+extender los límites musicales, ya sea mediante la aplicación de
+procesos electrónicos o interactuando con instrumentos tradicionales.
+Sin embargo, el espacio en la música electroacústica es diferente al de
+la música instrumental. En la música electroacústica, el espacio como
+parámetro musical es muy abarcativo, multidimensional y difícil de
+definir, ya que incorpora la dimensión individual de las fuentes sonoras
+(utilizando parlantes), la relación entre ellas y el espacio acústico en
+el que las fuentes se oyen. Además, el espacio audible en sí mismo sólo
+puede ser percibido a través de la evolución temporal del discurso
+sonoro. El uso de parlantes en la música electroacústica tiene potencial
+para usar el espacio sonoro como un elemento estructural de una manera
+muy flexible. Las posibilidades espaciales habilitadas por la música
+electroacústica fueron (y son) muy significantes: es posible transportar
+al oyente a una gran variedad de entornos virtuales utilizando un único
+dispositivo (Fig. 1.3), expandiendo el espacio musical más allá de los
+límites físicos del entorno. De esta manera, es posible representar la
+sensación de lejanía, movimiento y direccionalidad en un entorno
+acústico virtual, pudiendo integrar dichos factores como estructurales
+del espacio musical.
+
+![](/media/image3.png){width="5.8905347769028875in"
+height="4.494483814523185in"}
+
+**Figura 1.3:** *Sala de conciertos de música electroacústica
+multicanal.*
+
+Otra de las características del medio electroacústico es la posibilidad
+de recontextualizar sonidos, atribuyéndoles un nuevo significado en el
+espacio virtual en el que acontecen, de acuerdo su acción en distintos
+contextos. Por ejemplo: dos sonidos, que en la naturaleza no podrían
+escucharse simultáneamente, pueden ser yuxtapuestos y describir un
+paisaje poco realista desde el punto de vista ecológico. Esta situación
+puede actuar como disparador de la interacción entre lo que se escucha y
+el conocimiento previo de las fuentes sonoras, proveniente de las
+experiencias pasadas del oyente.
+
+Los patrones de comunicación interpersonal, la experiencia de la vida
+(rural o urbana) y el entorno arquitectónico en el que vivimos
+contribuyen directamente a la habilidad de interpretar pistas espaciales
+provenientes del entorno. El conocimiento previo del oyente se encuentra
+tan arraigado que el individuo desconoce su influencia sobre la
+interpretación de la información sensorial. Sumado a esto, las claves
+espaciales están siendo procesadas constantemente en nuestra experiencia
+con el entorno auditivo, adquiriendo un rol clave en nuestras
+actividades referentes a la escucha. De esta manera, los procesos
+cognitivos basados en la experiencia previa del oyente entran en juego y
+son esenciales para la experiencia espacial auditiva.
+
+Las pistas del entorno, presentadas en un contexto de música
+electroacústica, pueden proveer asociaciones no sólo con el espacio
+físico donde transcurre la obra, sino también con otras propiedades
+relativas a la espacialidad propuesta por el discurso sonoro. Risset
+(1969) menciona que la inclusión de grabaciones de diversos entornos en
+composiciones electroacústicas representa un dilema, debido a que la
+identidad de los sonidos "naturales" hace que los mismos no se presten a
+transformarlos sin que se pierda su contenido espacial. A pesar de esto,
+sonidos reconocibles son utilizados habitualmente en obras
+electroacústicas, especialmente en composiciones que continúan la
+tradición de la *música concreta*. De acuerdo a esto, en condiciones de
+escucha normal, la percepción generada en el oyente por una fuente
+sonora única es la que proviene de lo que llamamos "*objeto sonoro*".
+Pierre Shaffer (2003) define al objeto sonoro como "[*todo fenómeno
+sonoro que se perciba como un conjunto, como un todo coherente, y que se
+oiga mediante una escucha reducida que lo enfoque por sí mismo,
+independientemente de su procedencia o de su significado"*]. El
+sistema auditivo ha evolucionado para reconocer la identidad de las
+fuentes que generan dichos objetos sonoros. Consecuentemente, un objeto
+sonoro será mapeado en el espacio de acuerdo a los atributos físicos de
+la fuente (ej: un orador es una persona, un ladrido es un perro). Vemos
+entonces que la interpretación del espacio sonoro está fuertemente
+vinculada a la expectativa del oyente, en donde la localización de las
+fuentes sonoras no es sólo tiene en cuenta las características
+inherentes de la señal sonora, sino también al grado de aprendizaje
+adquirido por el oyente.
+
+A diferencia de escuchas circunstanciales, durante la situación de
+escucha atenta de música electroacústica, la posición de los oyentes se
+encuentra normalmente fija. La información espacial disponible que le
+llega al oyente, aparte de la obtenida de los movimientos de cabeza
+exploratorios es dependiente de las pistas acústicas disponibles. Como
+hemos mencionado, el espacio sonoro ha sido ampliamente investigado en
+el ámbito de la psicoacústica. Sin embargo, no lo han sido tanto sus
+posibilidades de ser un elemento portador de forma del discurso sonoro,
+y aún menor ha sido el uso de la distancia como factor estructural del
+discurso musical. Este hecho podría deberse al gran desbalance
+existente, en cuanto a la cantidad de información en la bibliografía
+especializada, sobre los indicios involucrados en la percepción de la
+posición de fuentes sonoras en el eje horizontal o acimut (ángulo de
+orientación en el eje horizontal) y en el de elevación (ángulo de
+orientación en el eje vertical) con respecto a los estudios relacionados
+al eje de la distancia (Fig. 1.1). Los dos primeros ejes han sido
+profundamente estudiados en el siglo pasado (y lo siguen siendo) y las
+pistas que ayudan a localizar un objeto en acimut y elevación han sido
+tratadas en numerosas publicaciones. Por el contrario, el estudio de la
+Percepción Auditiva de Distancia (PAD) de una fuente sonora, tanto en la
+música como en la psicofísica, involucra una gran cantidad de pistas aún
+no estudiadas en profundidad, convirtiéndose así en uno de los tópicos
+con mayor cantidad de enigmas a resolver.
+
+![](/media/image4.png){width="4.013888888888889in"
+height="2.8969805336832897in"}
+
+**Figura 1.1:** *Representación esquemática del eje de acimut, elevación
+y distancia*
+
+## Desarrollos y objetivos 
+
+En el ámbito musical, existen pocos ejemplos en donde el parámetro de la
+PAD haya sido utilizado como un elemento organizador del discurso
+sonoro, construyendo un espacio en el que el oyente sea capaz, por
+ejemplo, de reconocer patrones de trayectorias o diferentes texturas y
+planos en distancia. Habitualmente, los parámetros que son utilizados
+como indicios de distancia actúan en un ámbito poco conocido y, en la
+mayoría de los casos, se procede de una manera empírica e intuitiva. Por
+tal motivo, el objetivo general de este trabajo hace foco en realizar
+una investigación con una doble perspectiva: abordar el estudio de la
+distancia tanto en el ámbito científico como el musical y, por
+consiguiente, que los resultados obtenidos en la etapa la investigación
+posean un valor artístico aplicable.
+
+Para realizar esto, se propone:
+
+-   revisar los estudios realizados en el ámbito científico sobre la
+    naturaleza, características y percepción de las pistas auditivas y
+    visuales de distancia.
+
+-   estudiar cuáles son las límites y aspectos psicofísicos que
+    determinan la percepción de distancia en la modalidad visual y
+    auditiva.
+
+-   realizar una revisión general del estudio del espacio sonoro, tanto
+    en el ámbito musical (acústico y electroacústico) como en el
+    científico.
+
+-   plantear si la distancia auditiva puede ser utilizado en la
+    composición e interpretación musical con la categoría y relevancia
+    de elemento portador de forma.
+
+-   mostrar los resultados de una serie de experimentos para entender
+    los indicios involucrados en la percepción visual y auditiva de
+    distancia en entornos reverberantes (además de la interacción
+    crossmodal).
+
+-   presentar una una serie de piezas que tienen como eje central el uso
+    de la distancia como parámetro portador de forma del discurso y el
+    espacio sonoro.
+
+-   realizar un estudio comparativo sobre la base de una serie de
+    entrevistas realizadas profesionales de distintos ámbitos (mezcla,
+    mastering, interpretación, composición, producción).
+
+A continuación revisaremos cuales son las pistas involucradas en la
+percepción del espacio sonoro. Abordaremos, desde un punto de vista
+psicofísico, el sistema auditivo como procesador espacial para luego
+realizar una revisión exhaustiva de los indicios involucrados en la
+percepción auditiva en el eje horizontal (acimut), elevación y
+distancia.
+
+## Referencias bibliogáficas
+
+Knudsen, V. O. *Architectural Acoustics*. J. Wiley y Sons (1932).
+
+Risett, J. C. *An Introductory Catalogue of Computer Synthesized
+Sounds*. Nueva Jersey. Bell Telephone Laboratories (1969).
+
+Schaeffer, P. *Tratado de los objetos musicales*. Traducción de Araceli
+
+Cabezón de Diego. Alianza Editorial (2003).
+
+Stockhausen, K. *Musik im Raum*. Die Reihe Nº 5 (1959).
+

@@ -1,0 +1,369 @@
+# El rol de la visión en la percepción auditiva de distancia
+
+## Resumen
+
+Como vimos en el capítulo anterior, en los humanos la interacción
+multisensorial es una importante estrategia para mejorar la detección de
+estímulos de diferente naturaleza y reducir la variabilidad de las
+respuestas. Hemos visto que la presencia de información visual afecta la
+percepción auditiva en el plano horizontal (acimut), pero pocas son las
+investigaciones que estudian la influencia de la visión en la Percepción
+Auditiva de Distancia (PAD). En general, los datos obtenidos de estos
+estudios son contradictorios y no definen completamente la manera en la
+cual las pistas visuales afectan la distancia aparente a una fuente
+sonora. En este trabajo se realizaron experimentos de percepción
+auditiva de distancia en humanos, incluyendo y excluyendo pistas
+visuales. Los resultados muestran que la distancia aparente a una fuente
+es afectada por la presencia de información visual y que el sujeto puede
+retener en su memoria una representación del entorno para después
+mejorar la PAD. Los resultados de este estudio se expondrán de forma
+resumida ya que han sido explicados en detalle en una Tesis anterior,
+titulada *Espacialidad y Estructura Sonora en la Música Electroacústica*
+(Calcagno, 2013). Todos los resultados aquí expuestos fueron publicados
+en la revista "Perception" en el año 2012 (Calcagno et al., 2012).
+
+## Introducción
+
+Estudios previos apuntaron al estudio de la influencia de la visión
+sobre la precisión de la localización auditiva. La mayoría de estos
+trabajos se centran en la localización angular de las fuentes sonoras y
+muy pocos abordan la influencia de la visión en la PAD. Como hemos
+visto, un trabajo pionero en el estudio de este tema fue publicado por
+Gardner (1968). Su dispositivo experimental consistía de cinco parlantes
+alineados, ubicados a diferentes distancias y apuntando al sujeto
+experimental, el cual estaba situado dentro de una cámara anecoica. Los
+resultados mostraron que aunque el estímulo solo fue reproducido por el
+parlante más lejano al sujeto, todos los participantes, sin excepción,
+reportaron que el sonido provenía del parlante más cercano (el único que
+los sujetos podían ver). Gardner llamó a este efecto como "*efecto de
+proximidad de la imagen*". En 1980, Mershon et al. estudiaron el mismo
+fenómeno pero en condiciones semireverberantes. Ellos concluyeron que el
+efecto de proximidad de la imagen opera similarmente tanto en entornos
+anecoicos como en reverberantes. Aún más, reportaron que la distancia a
+la fuente sonora puede ser sobrestimada o subestimada, dependiendo de la
+posición del objetivo visual (en este caso un parlante falso -- Mershon
+et al., 1980).
+
+Con el fin de reexaminar este efecto, Zahorik (2001) realizó
+experimentos utilizando un dispositivo similar al de Gardner (1968) en
+un entorno semireverberante. Sus resultados mostraron que la presencia
+de múltiples pistas visuales (condición con los ojos destapados)
+incrementaba la precisión de la PAD y disminuía la variabilidad de los
+juicios, comparados con los resultados obtenidos bajo las misma
+condiciones pero sin pistas visuales (condición donde los sujetos tenían
+los ojos tapados). De este modo, Zahorik no observó el efecto de
+proximidad de imagen reportado en los trabajos anteriores. Sin embargo,
+la respuesta obtenida por Zahorik muestra una compresión considerable a
+partir de 2 metros. Como en el experimento original realizado por
+Gardner, en el experimento de Zahorik los participantes podían observar
+solamente el primer parlante del dispositivo durante la tarea
+perceptual. Por lo tanto, es posible que la imagen del primer parlante
+pueda haber influido en la respuesta, más aún cuando el sonido proviene
+de fuentes lejanas. También vale la pena señalar que Zahorik usó un
+dispositivo con cinco parlantes en línea, un arreglo que puede proveer
+pistas auditivas extras debido al filtrado (sombra acústica).
+
+El objetivo de este capítulo es estudiar si la PAD puede ser afectada
+mediante la presencia de pistas visuales que otorguen información de
+distancia pero evitando que los oyentes vean la fuente sonora con el fin
+de evitar posibles artefactos relacionados con el efecto de proximidad
+de la imagen. Para este propósito, se realizaron experimentos en un
+entorno real y semi reverberante, en la oscuridad (en presencia y
+ausencia de pistas visuales mínimas), usando un parlante móvil que
+permite reproducir estímulos sonoros en varias distancias. De esta
+manera, las pistas acústicas potenciales, producidas por el filtrado de
+la señal mencionado, fueron removidas.
+
+## Métodos generales 
+
+Se realizaron tres experimentos diferentes (ver Tabla 7.1). Primero, se
+realizó un experimento de PVD que actuó como control del dispositivo, y
+que fue tomado como base para el uso de pistas visuales de referencia en
+los experimentos subsecuentes. Luego, fueron realizados experimentos de
+PAD con dos grupos de sujetos, en la oscuridad, tanto en presencia como
+en ausencia de pistas visuales mínimas. En el tercer y último
+experimento, se estudia como el conocimiento a priori de un ambiente
+específico afecta a la PAD.
+
+Todos los experimentos fueron realizados en un entorno semireverberante
+de 12x7x3 metros (largo x ancho x alto) cuyas paredes estuvieron
+recubiertas de paneles absorbentes (espuma de poliuretano piramidal de
+50 mm) el piso alfombrado y el techo tenía paneles acústicos de fibra de
+vidrio. El tiempo de reverberación promedio de la sala fue de 0.49
+segundos en el lugar donde se ubicó el sujeto (T30 a 1kHz, medido
+mediante el método MLS). El ruido de fondo de la sala, medido en el
+lugar donde se ubica el sujeto, sin ningún tipo de estímulo sonando fue
+de 19 dBa (RION NL-32).
+
+Un total de 32 voluntarios (24 hombres y 8 mujeres) participaron en los
+experimentos. Los voluntarios eran estudiantes de grado y graduados de
+la Licenciatura en Composición con Medios Electroacústicos. El rango de
+las edades fue de los 21 a los 42 años (edad media, 27.68 años).
+
+![Screen Shot 2017-05-11 at 1.11.26
+PM.png](/media/image12.png){width="6.267716535433071in"
+height="3.0972222222222223in"}
+
+**Figura 7.1:** *Modelo en tres dimensiones del dispositivo
+experimental. (A) parlante móvil; (B) sistema de enmascaramiento; (C)
+pistas visuales usadas en el experimento; (D) pistas visuales, formadas
+por pares de LEDs rojos localizados verticalmente y separados 4cm.*
+
+Las pistas visuales de referencia fueron montadas en postes de metal de
+1.2 metros de alto, y localizadas a 2, 4, 6 y 8 metros del participante,
+formando una línea paralela (20 cm a la derecha) al riel por donde se
+mueve el parlante. Estas pistas visuales consistían en un par de LEDs
+rojos (estándar de 3mm, 18 mca) orientados verticalmente y separados 4
+cm entre sí. Antes de entrar en la sala, todos los participantes fueron
+informados de las condiciones en las que harían el experimento. Fueron
+utilizadas tres diferentes condiciones de pistas visuales de referencia:
+
+> Condición i: Sin pistas visuales;\
+> Condición ii: Con dos pistas visuales localizadas a 4 y 8 metros;
+>
+> Condición iii: Con 4 pistas visuales localizadas a 2, 4, 6 y 8 metros.
+
+Los estímulos visuales empleados en el experimento 1 consistieron de un
+par de LEDs verdes (3 mm, 18 mca) localizados verticalmente, separados 4
+cm entre sí y ubicados a la altura de los ojos de los sujetos. Estas
+pistas estuvieron ubicadas a seis distancias (D) diferentes: D = 1, 2,
+3, 4, 5 y 6 metros.
+
+Los estímulos auditivos empleados en los experimentos 2 y 3 consistieron
+de ráfagas de ruido blanco de 500 ms de duración (ancho de banda medido
+entre 50 Hz y 20Khz ± 2 Hz) con una envolvente de amplitud al inicio y
+al final de aproximadamente 50 ms. Las señales fueron generadas en
+Matlab y reproducidas mediante una placa de sonido a una frecuencia de
+muestreo de 44.1Khz, con una resolución de 24 bits. El nivel de presión
+sonoro de los estímulos fue de 70 dBA, medido en la posición donde el
+oyente realizaría la tarea y con la fuente sonora ubicada a 1 m (RION
+NL-32). Por esto, la intensidad fue una importante pista durante el
+experimento. Entre prueba y prueba se presentó un sonido enmascarante en
+los parlantes ubicados a los lados del participante (Figura 7.1b). El
+contenido espectral, la duración y la intensidad de este sonido (12
+segundos, 70 dBA medidos en la ubicación del participante) fueron
+ajustados de manera que enmascarara completamente el sonido producido
+por el desplazamiento del parlante de prueba sobre el riel. Dos segundos
+después de terminar este sonido enmascarante, se presentaba el estímulo
+auditivo a través del parlante de prueba. Bajo estas condiciones los
+oyentes contaron al menos con dos importantes pistas de PAD: la
+intensidad y la relación de energía entre el sonido directo y el sonido
+reverberante (D/R). Debido a las distancias utilizadas en este
+experimento (de 1 a 6 metros) las pistas binaurales y espectrales de PAD
+no estaban disponibles de forma significante (ver Zahorik et al. 2005).
+
++------------------------------------------+---------------------------+
+| Experimentos                             | Condición                 |
++==========================================+===========================+
+| 1: Percepción Visual de Distancia        | i (sin pistas visuales)   |
+|                                          |                           |
+| Sin conocimiento previo de la sala       | ii (dos pistas visuales)  |
+|                                          |                           |
+|                                          | iii (cuatro pistas        |
+|                                          | visuales)                 |
++------------------------------------------+---------------------------+
+| 2: Grupo A: Percepción Auditiva de       | i (sin pistas visuales)   |
+| Distancia                                |                           |
+|                                          | ii (dos pistas visuales)  |
+| Sin conocimiento previo de la sala       |                           |
+|                                          | iii (cuatro pistas        |
+|                                          | visuales)                 |
++------------------------------------------+---------------------------+
+| 3: Grupo B: Percepción Auditiva de       | iii (cuatro pistas        |
+| Distancia                                | visuales)                 |
+|                                          |                           |
+| Sin conocimiento previo de la sala       | i (sin pistas visuales)   |
++------------------------------------------+---------------------------+
+| 4: Percepción Auditiva de Distancia      | i (sin pistas visuales)   |
+|                                          |                           |
+| Con conocimiento previo de la sala       |                           |
++------------------------------------------+---------------------------+
+
+**Tabla 7.1**. *Resumen de todos los experimentos y condiciones,
+listados en el orden en que fueron realizados.*
+
+## Resultados
+
+###  Experimento 1 
+
+En la Figura 7.2 A se puede observar que en ausencia de pistas visuales
+la distancia a la fuente real fue subestimada para distancias mayores a
+1 metro. Sin embargo, este resultado no concuerda con estudios previos,
+los cuales reportan una sobrestimación de la respuesta para distancias
+menores a 3 metros (Gogel, 1961; Philbeck y Loomis, 1998). Cuando el
+experimento fue realizado en presencia de dos pistas visuales
+localizadas a 2 y 4 metros del participante las respuestas fueron muy
+precisas. La respuesta bajo la condición iii fue significativamente más
+lineal que la obtenida en la condición sin pistas visuales (condición
+i). La Figura 7.2 B muestra la variabilidad de los datos para las
+condiciones i, ii y iii. Se puede observar que cuando el experimento se
+realizó sin pistas visuales la variabilidad de la respuesta fue
+significativamente mayor que la obtenida con pistas visuales (excepto
+cuando se compara con la condición ii, donde esto ocurre solamente para
+distancias mayores a 2 metros). Este último resultado es consistente con
+estudios pasados (Philbeck y Loomis, 1998), donde se obtuvo menor
+variabilidad en la respuesta bajo condiciones con múltiples pistas
+visuales que la obtenida en ausencia de las mismas.
+
+![](/media/image13.png){width="5.909339457567804in"
+height="2.537732939632546in"}
+
+**Figura 7.2. A: *PVD*** *(s/conocimiento previo de la sala)**:** Valor
+medio de los juicios de distancia sin pistas visuales (condición i,
+círculos negros), con 2 pistas visuales a 4 y 8 m del participante
+(condición ii, círculos grises), y 4 pistas visuales a 2, 4, 6 y 8 m del
+participante (condición iii, línea negra discontinua). **B:** Desviación
+estándar de los juicios de distancia: condición i (círculos negros),
+condición ii (círculos grises) y condición iii (línea negra
+discontinua).*
+
+### Experimento 2 
+
+Este experimento fue realizado para examinar si la presencia de pistas
+visuales puede mejorar la PAD. Para el primer grupo de participantes
+(grupo A, n =8) las pistas visuales fueron usadas en la misma secuencia
+que en el experimento 1: condición i (sin pistas visuales), condición ii
+(dos pistas visuales localizadas a 4 y 8 metros) y condición iii (cuatro
+pistas ubicadas a 2, 4, 6 y 8 metros). Para el segundo grupo de
+participantes (grupo B, n = 8), se testeó la condición iii primero y
+luego la condición i. En este experimento, para fuentes sonoras más
+lejanas que 3 m, las distancias percibidas fueron sustancial y
+progresivamente subestimadas. Sin embargo, la respuesta fue muy precisa
+para las tres distancias más cercanas al participante. Con el fin de
+comparar la respuesta entre las modalidades visual y auditiva bajo
+condiciones similares, en la Figura 7.3 A se muestran los resultados
+obtenidos en el experimento 1 sin pistas visuales (línea gris de trazos
+cortos, condición i, del experimento de PVD). Esta comparación no
+presentó diferencias significativas entre ambos grupos para ninguna las
+distancias , con excepción en los dos metros. En la Figura 7.3 la
+respuesta fue significativamente menos compresiva que la respuesta
+obtenida sin pistas visuales. Nuestros resultados muestran que en
+presencia de pistas visuales, la distancia a la fuente sonora es
+sobrestimada.
+
+![](/media/image14.png){width="5.910377296587926in"
+height="2.556820866141732in"}
+
+**Figura 7.3. A*:*** ***Grupo A: PAD (s/conocimiento previo de la
+sala):** Valor medio de los juicios de distancia sin pistas visuales
+(condición 1, círculos negros). Línea gris discontinua: resultados
+obtenidos en el experimento 1 (condición i para visión). **B:** Valor
+medio de los juicios de distancia como una función de la distancia real
+obtenida con dos (condición ii, círculos blancos) y cuatro pistas
+visuales (condición i, para percepción auditiva de distancia).*
+
+En la Figura 7.4 A se muestran los resultados obtenidos para el grupo B.
+Este experimento fue realizado para excluir la posibilidad de que los
+resultados obtenidos en presencia de pistas visuales para el grupo A no
+se hayan producido por un efecto de aprendizaje (dado que las tareas
+fueron realizadas en forma secuencial). Bajo estas condiciones la
+respuesta de los participantes no fue significativamente diferente que
+la obtenida para el grupo A en las mismas condiciones. Es importante
+notar que la respuesta fue significativamente menos compresiva que la
+respuesta sin pistas visuales.
+
+En la Figura 7.4 B (círculos negros) se muestran los resultados
+obtenidos sin pistas visuales (condición i) para los participantes que
+previamente habían participado en el experimento con cuatro pistas
+visuales (grupo B). Sorpresivamente, la respuesta fue más precisa que la
+obtenida por el grupo A bajo la misma condición. La respuesta en
+ausencia de pistas visuales para el grupo B no difiere
+significativamente de los resultados obtenidos previamente en presencia
+de pistas visuales (condición iii) en ninguna de las distancias
+testeadas
+
+![](/media/image15.png){width="5.882257217847769in"
+height="2.544656605424322in"}
+
+**Figura 7.4. *grupo A: PAD (sin conocimiento previo de la sala)****.
+**A:** Valor medio de los juicios de distancia como una función de la
+distancia real obtenida con 4 pistas visuales (condición iii, círculos
+negros). Línea gris clara discontinua: resultados obtenidos para el
+grupo bajo las mismas condiciones. **B:** Valor medio de los juicios de
+distancia sin pistas visuales (condición i, círculos negros). La línea
+gris clara discontinua: respuesta obtenida con cuatro pistas visuales
+(condición iii) por los participantes del grupo A. Línea gris oscura
+discontinua: respuesta obtenida sin pistas visuales (condición i) por
+los participantes del grupo A.*
+
+### Experimento 3
+
+El propósito de este experimento fue evaluar si el conocimiento previo
+de un ambiente específico afecta la PAD. A los participantes (7 hombres
+y 1 mujer) se les permitió conocer la sala donde se realizaría el
+experimento, con las luces prendidas, durante 5 minutos, antes de
+realizar la tarea. Sin embargo, estos no fueron informados sobre las
+dimensiones de la sala. Luego de esta inspección visual los
+participantes fueron llevados a una sala adyacente donde fueron
+instruidos sobre lo que debían realizar durante el experimento. Este
+experimento fue realizado con los mismos procedimientos que el
+experimento anterior, pero utilizando solamente la condición i (sin
+pistas visuales). Sorpresivamente, la respuesta obtenida bajo estas
+condiciones fue muy precisa en todas las distancias testeadas, y fueron
+más precisas que las del experimento 2, para todas las condiciones
+testeadas (Fig. 7.5).
+
+![](/media/image16.png){width="3.3446172353455816in"
+height="2.823961067366579in"}
+
+**Figura 7.5. *PAD (con conocimiento previo de la sala)****. (A) Valor
+medio de los juicios de distancia como una función de la distancia real
+obtenida con sin pistas visuales para participantes que pudieron ver la
+sala antes del experimento (condición i, n=8, círculos negros).*
+
+## Conclusiones
+
+Los resultados obtenidos soportan la hipótesis de que la presencia de
+información visual afecta la percepción auditiva de distancia. Para la
+condición sin pistas visuales, se observó un comportamiento similar al
+reportado en varios estudios previos. La respuesta se incrementa
+linealmente cuando la distancia de la fuente está en un rango cercano,
+pero converge a un cierto límite cuando la distancia de la fuente se
+incrementa más allá de los 3 metros. Cuando el experimento fue realizado
+en presencia de pistas visuales, se observaron al menos dos efectos: 1)
+la distancia a la fuente sonora fue sobrestimada en cinco de las seis
+distancias testeadas; 2) la compresión obtenida sin pistas visuales fue
+significativamente revertida. En adición, los resultados muestran que la
+información visual obtenida por los participantes durante el experimento
+puede ser guardada en la memoria para ser utilizada, minutos más tarde,
+como una referencia espacial en experimentos que se realizan a
+posteriori sin pistas visuales. Estos resultados sugieren que un posible
+rol de la visión en la PAD es obtener información confiable acerca de
+las características espaciales (dimensiones) del lugar donde se producen
+los acontecimientos auditivos (en este caso los cambios en la distancia
+de la fuente), con el fin de calibrar la información que proviene de las
+señales auditivas relacionadas con PAD (en su mayoría relativas) y
+asignar un valor de distancia a la fuente de sonido percibido dentro de
+este espacio.
+
+## Referencias Bibliográficas
+
+Calcagno, E. R., Abregú, E. L., Eguía, M. C. y Vergara, R. The role of
+vision in auditory distance perception. Perception 41, 175--192 (2012).
+
+Gardner, M. B. Proximity image effect in sound localization. Journal of
+the Acoustical Society of America 43, 163 (1968).
+
+Gogel, W. C. Convergence as a cue to absolute distance. Journal of
+Psychology 52, 287-301 (1961).
+
+Loomis J. M., Klatzky R. L., Philbeck J. W. y Golledge R. G. Assessing
+auditory distance perception using perceptually directed action.
+Perception & Psychophysics 60, 966-980 (1997).
+
+Mershon D. H., Desaulniers D. H., Amerson T. L. y Kiefer S. A. Visual
+capture in auditory distance perception: proximity image effect
+reconsidered. Journal of Auditory Research 20, 129 -136 (1980).
+
+Philbeck J. W. y Loomis J. M. Comparison of two indicators of perceived
+egocentric distance under full-cue and reduced-cue conditions. Journal
+of Experimental Psychology: Human Perception and Performance 23, 72-85
+(1997).
+
+Zahorik P. Estimating sound source distance with and without vision.
+Optometry y Vision Science 78, 270-275 (2001).
+
+Zahorik P., Brungart D. S. y Bronkhorst A. W. Auditory distance
+perception in humans: a summary of past and present research. Acta
+Acustica united with Acustica 91, 409-420 (2005).
+

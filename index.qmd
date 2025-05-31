@@ -1,0 +1,203 @@
+# <br> {.unnumbered}
+
+
+**Universidad Nacional de Quilmes - Dto. de Ciencias Sociales** 
+
+**Laboratorio de Acústica y Percepción Sonora** (LAPSo) 
+
+**Director de Tesis**
+
+Dr. Ramiro Oscar Vergara
+
+**Co-Director de Tesis**
+
+Oscar Edelstein
+
+
+## Resumen
+
+El objetivo general de este trabajo hace foco en realizar una investigación con una doble perspectiva: abordar el estudio de la distancia tanto en el ámbito científico como el musical y, por consiguiente, que los resultados obtenidos en la etapa de la investigación posean un valor artístico aplicable. Para realizar esto, se propone: revisar los estudios realizados en el ámbito científico sobre la naturaleza, características y percepción de las pistas auditivas y visuales de distancia; estudiar cuáles son las límites y aspectos psicofísicos que determinan la percepción de distancia en la modalidad visual y auditiva; realizar una revisión general del estudio del espacio sonoro, tanto en el ámbito musical (acústico y electroacústico) como en el científico; plantear si la distancia auditiva puede ser utilizado en la composición e interpretación musical con la categoría y relevancia de elemento portador de forma; mostrar los resultados de una serie de experimentos para entender los indicios involucrados en la percepción visual y auditiva de distancia en entornos reverberantes (además de la interacción crossmodal); presentar una una serie de piezas que tienen como eje central el uso de la distancia como parámetro portador de forma del discurso y el espacio sonoro; realizar un estudio comparativo sobre la base de una serie de entrevistas realizadas profesionales de distintos ámbitos (mezcla, mastering, interpretación, composición, producción). Se revisará cuáles son las pistas involucradas en la percepción del espacio sonoro. Además. Se abordará, desde un punto de vista psicofísico, el sistema auditivo como procesador espacial para luego realizar una revisión exhaustiva de los indicios involucrados en la percepción auditiva en el eje horizontal (acimut), elevación y distancia.
+
+## Mapa del libro
+```{mermaid}
+graph LR
+    A[Percepción de Distancia Aplicada a la Composición Sonora] --> B[1 INTRODUCCIÓN]
+    A --> C[2 SISTEMA AUDITIVO COMO PROCESADOR ESPACIAL]
+    A --> D[3 REVISIÓN PERCEPCIÓN AUDITIVA DE DISTANCIA]
+    A --> E[4 DISTANCIA COMO DIMENSIÓN ESTRUCTURAL EN MÚSICA]
+    A --> F[5 PERCEPCIÓN VISUAL DE DISTANCIA]
+    A --> G[6 PROCESO MULTISENSORIAL]
+    A --> H[7 ROL DE LA VISIÓN EN PERCEPCIÓN AUDITIVA]
+    A --> I[8 EVALUACIÓN MÉTODO LOCALIZACIÓN DIRECTA]
+    A --> J[9 CONTEXTO AMBIENTAL AUDITIVO]
+    A --> K[10 INTERDISCIPLINA CIENCIA Y ARTE]
+    A --> L[11 ENTREVISTAS ESPACIO SONORO]
+    A --> M[12 CONCLUSIONES FINALES]
+    A --> N[13 ANEXOS]
+
+    %% Subsections for key chapters
+    B --> B1[Espacio sonoro en música]
+    B --> B2[Desarrollos y objetivos]
+    
+    D --> D1[Intensidad]
+    D --> D2[Espectro]
+    D --> D3[Reverberación]
+    D --> D4[Pistas dinámicas]
+    
+    H --> H1[Experimento 1]
+    H --> H2[Experimento 2]
+    H --> H3[Experimento 3]
+    
+    I --> I1[Experimento 1]
+    I --> I2[Experimento 2]
+    I --> I3[Experimento 3]
+    
+    K --> K1[Piezas instrumentales]
+    K --> K2[BÚCARO DE SECRETOS]
+    K --> K3[Obra LEJOS]
+    K --> K4[Escultura CRISÁLIDA]
+
+    %% Styling
+    classDef chapterBox fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef experimentBox fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
+    classDef artBox fill:#e8f5e8,stroke:#1b5e20,stroke-width:1px
+    
+    class B,C,D,E,F,G,H,I,J,K,L,M,N chapterBox
+    class H1,H2,H3,I1,I2,I3 experimentBox
+    class K1,K2,K3,K4 artBox
+
+```    
+
+## Contenido
+
+1. **INTRODUCCIÓN**
+   - El espacio sonoro en la música
+   - Desarrollos y objetivos
+   - Referencias bibliográficas
+
+2. **EL SISTEMA AUDITIVO COMO PROCESADOR ESPACIAL**
+   - Introducción
+   - Ubicación espacial de sonidos en el eje horizontal
+   - Localización vertical de fuentes sonoras
+   - Información provista por la pinna
+   - Información provista por el torso
+   - Referencias bibliográficas
+
+3. **REVISIÓN DE LOS ASPECTOS MÁS RELEVANTES EN EL ESTUDIO DE LA PERCEPCIÓN AUDITIVA DE DISTANCIA**
+   - Resumen
+   - Introducción
+   - Indicios de Percepción Auditiva de Distancia
+   - Intensidad
+   - Espectro
+   - Familiaridad con el estímulo auditivo
+   - Indicios acústicos binaurales
+   - Reverberación
+   - Pistas dinámicas
+   - Representación interna de la distancia a una fuente sonora
+   - Visión
+   - Conclusiones
+   - Referencias bibliográficas
+
+4. **LA DISTANCIA COMO DIMENSIÓN ESTRUCTURAL EN LA MÚSICA**
+   - Introducción
+   - Música y distancia
+   - La percepción de distancia en la música electroacústica
+   - Distancia en el espacio real e imaginario
+   - Conclusiones
+   - Referencias bibliográficas
+
+5. **PERCEPCIÓN VISUAL DE DISTANCIA**
+   - Introducción
+   - Pistas pictóriales
+   - Pistas no pictoriales
+   - Influencia del contexto
+   - Métodos de medición y performance de la PVD
+   - Referencias bibliográficas
+
+6. **EL PROCESO MULTISENSORIAL**
+   - Introducción
+   - La percepción multisensorial
+   - El proceso multisensorial
+   - El sonido altera aspectos temporales de la visión
+   - El sonido altera otros aspectos de la visión
+   - Modulación crossmodal del aprendizaje y la adaptación
+   - Referencias bibliográficas
+
+7. **EL ROL DE LA VISIÓN EN LA PERCEPCIÓN AUDITIVA DE DISTANCIA**
+   - Resumen
+   - Introducción
+   - Métodos generales
+   - Resultados
+     - Experimento 1
+     - Experimento 2
+     - Experimento 3
+   - Conclusiones
+   - Referencias Bibliográficas
+
+8. **EVALUACIÓN DEL MÉTODO DE RESPUESTA DE LOCALIZACIÓN DIRECTA PARA MEDIR LA PERCEPCIÓN AUDITIVA DE DISTANCIA**
+   - Resumen
+   - Introducción
+   - Métodos generales
+   - Experimento 1
+     - Procedimiento
+     - Resultados
+     - Discusión
+   - Experimento 2
+     - Procedimientos
+     - Resultados
+     - Discusión
+   - Experimento 3
+     - Procedimientos
+     - Discusión
+   - Discusión general
+   - Referencias bibliográficas
+
+9. **EL CONTEXTO AMBIENTAL AUDITIVO AFECTA LA PERCEPCIÓN VISUAL DE DISTANCIA**
+   - Introducción
+   - Procedimientos experimentales
+     - Entornos de prueba
+     - Participantes
+   - Procedimiento experimental general
+   - Métodos de estadística
+   - Resultados
+     - Experimento 1
+     - Experimento 2
+   - Discusión
+   - Conclusiones
+   - Referencias bibliográficas
+
+10. **INTERDISCIPLINA ENTRE CIENCIA Y ARTE**
+    - Introducción
+    - Piezas para ensamble instrumental (2012)
+    - Marco teórico y realización
+    - Instalación sonora: BÚCARO DE SECRETOS
+      - Introducción
+      - Marco teórico y realización
+    - Obra escénica: LEJOS
+      - Introducción
+      - Marco teórico y realización
+    - Escultura sonora: CRISÁLIDA
+      - Introducción
+      - Marco teórico y realización
+    - Referencias bibliográficas
+
+11. **ENTREVISTAS SOBRE EL USO DEL ESPACIO SONORO Y LA PERCEPCIÓN DE DISTANCIA**
+    - Introducción
+    - Sobre la importancia del uso del espacio sonoro
+    - Sobre las técnicas utilizadas para el tratamiento del espacio sonoro
+    - Sobre la importancia y las técnicas relativas al uso de la distancia auditiva
+    - Sobre los métodos de notación para indicar planos en distancia
+    - Sobre el concepto de Perspectiva Auditiva
+
+12. **CONCLUSIONES FINALES**
+    - Referencias bibliográficas
+
+13. **ANEXOS**
+    - Artículos publicados en el marco de esta tesis
+    - Dos piezas para ensamble instrumental
+
+## Agradecimientos
+
+Infinita gratitud hacia todas las entidades, instituciones, personas y experiencias que de alguna forma u otra contribuyeron a realizar esta tesis.
+
+Este trabajo fue financiado gracias a la beca de Doctorado otorgada por el CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas), 2011-2016.

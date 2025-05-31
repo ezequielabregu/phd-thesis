@@ -1,0 +1,305 @@
+# Percepción visual de distancia
+
+## Introducción
+
+Una de las funciones claves de la modalidad visual es proveer una
+representación estable y significativa del entorno. Esta no es una tarea
+trivial, ya que la entrada de información sensorial en ocasiones no es
+clara, presentando ambigüedades y quedando abierta a múltiples
+interpretaciones. El advenimiento de la electricidad nos ha permitido
+observar nuestro entorno incluso en la oscuridad. Las nuevas tecnologías
+nos han hecho depender en gran medida de las imágenes y el texto para la
+comunicación y el entretenimiento. Esta tendencia de concentrar nuestra
+atención en base al uso de canales visuales ha llegado a ser incluso más
+pronunciado en las últimas décadas.
+
+Paralelamente, una extensiva literatura experimental ha demostrado que
+el espacio visual percibido también es propenso tanto a errores
+variables como sistemáticos, como ha sido descrito en varias revisiones
+(Suppes et al., 1989; Cutting y Vishton, 1995). Históricamente, el
+espacio visual ha sido considerado como una estructura abstracta
+independiente de su contenido. En varios estudios el contexto del
+entorno fue considerado como irrelevante o una fuente de pistas
+indirectas de tamaño y distancia. Para eliminar los efectos del entorno
+no deseados, los experimentadores en ocasiones presentaron sólo algunos
+puntos de luz en una sala a oscuras (Suppes, 1989). Sin embargo, la
+concepción de que el espacio visual es un contexto invariante podría no
+ser del todo cierto. Por ejemplo, Indow (1991) y Suppes (1995) han
+concluído que el espacio visual es dependiente del contexto. Además,
+estudios reciente evidencian que la profundidad visual puede ser
+modulada y afectada por el plano del suelo. Sinai et al. (1998)
+demostraron que la distancia percibida fue reducida por las
+discontinuidades del plano del suelo por un brecha espacial o un cambio
+textural. Wu et al. (2004) variaron el área y la localización de
+regiones visibles del plano del suelo y concluyeron que si la percepción
+de distancia depende del plano del suelo, quizás pueda estar
+influenciada también por otras superficies visibles.
+
+Por otro lado, varios estudios muestran una diversidad de resultados
+sobre el campo perceptivo audiovisual, como puede ser el caso del
+estudio de la percepción de distancia egocéntrica (o sea, la distancia
+percibida por un observador hacia un objeto sonoro). Algunos estudios
+han mostrado que las distancias pueden ser percibidas tanto de forma
+exacta (con un pequeño error sistemático) como precisa (con poca
+variabilidad). Por ejemplo, en un estudio de Reiser et al. (1990) los
+participantes vieron claves visuales de 2 a 22 m de distancia en campo
+abierto y luego caminaron cegados hasta la localización de la clave
+visual. El error constante promedio fue solo del 2%, independientemente
+de la distancia. Otro caso paradigmático se da con el método de caminar
+cegado (del inglés *"blindfolded"*) a claves previamente vistas hasta 10
+metros, en donde usualmente la estimación de distancia presenta un error
+muy pequeño (Rieser, 1990; Rieser, 1995; Rieser 2004).
+
+La Percepción Visual de Distancia (PVD) es la habilidad de percibir el
+entorno en tres dimensiones (3D) y la posición relativa de los objetos
+en dicho entorno (Watson y Enns, 2012). La PVD permite la interacción y
+exploración del entorno, además de brindarnos información acerca de los
+objetos y superficies que están más distantes.
+
+La PVD es compleja y aún no ha sido comprendida completamente. El
+proceso comienza cuando la luz reflejada de un objeto ubicado en el
+entorno llega al ojo por la pupila, es curvado cuando pasa a través de
+la córnea y el cristalino, alcanzando luego la retina. El resultado es
+una imágen de dos dimensiones invertida sobre la retina, la cual sólo
+puede ser percibida en color y alta resolución en la pequeña área foveal
+([área de la retina donde se enfocan los rayos luminosos y se encuentra
+especialmente capacitada para la visión del color)]. Teniendo en
+cuenta este proceso, ¿cómo es posible percibir el espacio en tres
+dimensiones y la distancia de los objetos a partir de esta imagen?
+
+Con el objetivo de comprender cuales son los mecanismos de la PVD, a
+continuación revisaremos cuáles son las principales pistas visuales
+involucradas. También se revisarán los métodos de medición de PVD en
+entornos reales. De esta manera, este estudio nos ayudará luego a
+comprender la relación crossmodal existente entre la PVD y la PAD, la
+cual se abordará en el siguiente capítulo.
+
+## Pistas pictoriales
+
+Las pistas contenidas en una escena sin movimiento como una imagen son
+llamadas pictoriales (Goldstein, 2007). Podemos nombrar cinco de ellas:
+oclusión, tamaño relativo, densidad relativa, altura en el campo visual
+y perspectiva aérea (Cutting et al., 1995).
+
+En el primer caso, si un objeto es parcialmente ocluido por otro, es
+visto como más lejano que el objeto ocluyente. Naturalmente, la oclusión
+sólo indica distancia relativa (no absoluta), pero es efectiva sobre el
+rango total de distancias percibidas. El tamaño relativo describe que
+cuanto más lejano está un objeto, más pequeño es la imagen retinal. De
+forma similar, grupos de objetos tienen una densidad retinal alta cuando
+se muestran lejanos. Por otra parte, el tamaño relativo puede brindar
+información de distancia absoluta si el tamaño del objeto es conocido y
+es útil a la hora de estimar distancias en el rango percibible. El
+tamaño relativo y la densidad relativa también explican la utilidad de
+la textura del suelo para la percepción de distancia, la cual fue
+estudiada por Gibson (1950) a mediados del siglo XX. Más recientemente,
+He et al. (2004) y Wu et al. (2004) demostraron que una amplia expansión
+de suelo contínuo y texturado de forma homogénea ayuda a la percepción
+de distancia verídica.
+
+La pista de PVD de altura sugiere que tanto el observador como el objeto
+están sobre el plano del suelo, la distancia al objeto puede ser
+computada como una función de la altura del ojo del observador y el
+ángulo entre la línea de visión hacia el horizonte y la línea de visión
+al objeto (Rand et al., 2011).
+
+Finalmente, la perspectiva aérea (o perspectiva atmosférica) describe
+que un objeto en la distancia es más azulado y de bajo contraste. Esta
+pista de PVD sólo provee información de distancia relativa y su rango de
+efectividad varía con las condiciones del clima.
+
+## Pistas no pictoriales
+
+En oposición a las pistas de distancia pictoriales, existen las pistas
+no-pictoriales que brindan información importante para la percepción de
+distancia. Estas pistas derivan del movimiento del sistema oculomotor
+(convergencia y acomodación) y del factor de que los humanos tenemos dos
+ojos (disparidad binocular). Cuando los observadores se mueven, la
+imagen retinal de los objetos estacionarios también se mueven, y
+mientras más alejados estén los objetos más lento será dicho movimiento.
+Esto es llamado paralaje de movimiento (*motion parallax*) y es
+importante para distancia cortas, pero su efectividad se reduce para
+objetos distantes (Cutting y Vishton, 1995).
+
+A medida que los ojos se mueven hacia adentro para mirar objetos
+cercanos, el ángulo entre los ejes ópticos de los ojos disminuye, lo que
+se llama convergencia. El cambio en la curvatura del cristalino del ojo
+permitiendo focalizar un objeto a varias distancias es llamado
+acomodación. Convergencia y acomodación están naturalmente vinculados
+pero son señales disociables. El sistema visual obtiene información de
+los músculos que controlan la convergencia y acomodación, que luego
+pueden servir como pistas de distancia. Asumiendo el conocimiento o
+familiaridad respecto al objeto, la distancia interpupilaria (IPD),
+estas pistas combinadas son pistas de distancia muy efectivas hasta 3
+metros (Cutting y Vishton, 1995) y con la convergencia comienza a ser
+más efectiva a los dos metros. Ya que el ojo ve el entorno desde
+diferentes posiciones, la imágen sobre la retina difiere levemente. La
+diferencia en la imágen en el ojo izquierdo y el ojo derecho es llamado
+disparidad binocular. Aunque su efectividad es mayor en el campo cercano
+(disminuyendo linealmente con la distancia) es considerada como una
+pista de distancia importante.
+
+## Influencia del contexto
+
+Mientras la investigación sobre las pistas de PVD han tenido una larga
+tradición, estudios recientes sugieren que la PVD podría no sólo estar
+influenciada por la disponibilidad o confiabilidad de las pistas de
+distancia, sino también por la influencia del entorno. Podríamos inferir
+que, teniendo pistas de distancia lo suficientemente claras, todos los
+otros aspectos del entorno deberían ser irrelevantes para la percepción
+de distancia. Sin embargo, estudios recientes ponen en duda que el
+entorno no influya sobre la PVD. Los resultados de Lappin et al. (2006)
+mostraron que la precisión de la distancia estimada fue diferente
+utilizando tres diferentes tipos de entornos (un lobby, un pasillo y un
+lugar abierto con césped) a pesar de que todos los lugares poseían
+múltiples pistas de profundidad. Witt et al. (2007) realizó cinco
+experimentos en espacios abiertos y cerrados, manteniendo una distancia
+constante entre el participante y el target. El resultado indica que el
+espacio más allá del target, a pesar de no aportar pistas de distancia
+relevantes, puede influenciar considerablemente la distancia percibida.
+
+## Métodos de medición y performance de la PVD
+
+Para determinar que tan buenos somos los humanos para percibir la
+distancia egocéntrica se han ido desarrollado una variedad de métodos de
+medición. En general, hay tres categorías principales de medición que
+podemos mencionar: reporte verbal, combinación perceptual (*perceptual
+matching*) y acción directa visual (*visual direct action*). El *reporte
+verbal* es el método de medición más tradicional y común. Aquí, los
+participantes reportan verbalmente su estimación de distancia en una
+unidad de medida familiar o como un múltiplo de un grado dado (Loomis y
+Andknapp, 2003). La ventaja obvia del reporte verbal es la sencillez y
+conveniente manera de medición. La desventaja de este método se da por
+la posible inclusión de influencias cognitivas. Por ejemplo, el reporte
+verbal no sólo es dirigida por la percepción sino también por el
+conocimiento previo. Esto podría desviar la medición del proceso
+perceptual.
+
+Otro método de medición es la *combinación perceptual*, en donde los
+participantes son instruidos para estimar la distancia o el tamaño de un
+objeto en comparación con la distancia o tamaño de una objeto de
+referencia. A pesar de que este método está menos influenciado por
+factores cognitivos también las distancias tienden a ser levemente
+subestimadas (Loomis y Philbeck, 2008).
+
+Finalmente, el *método de acción* directa, el cual es relativamente
+nuevo, representa una nueva categoría de método de medición para la PVD.
+Aquí, los participantes ven una objeto a la distancia, luego con cegados
+(utilizando antifaces) para después realizar algún tipo de acción para
+estimar la distancia al objeto. La acción más utilizada es caminar hasta
+la distancia a la que se percibiò el objeto. Las estimaciones con éste
+método son bastante buenas sin errores sistemáticos hasta los 25 m
+(Loomis y Andknapp, 2003). Sin embargo, esta precisión depende de
+diversos factores como por ejemplo de la velocidad del caminar: si los
+participantes son instruídos en caminar más rápido que lo normal, la
+precisión empeora (Riesser, 1990). Los participantes podrían usar una
+simple estrategia como, por ejemplo, el cálculo de pasos necesarios para
+alcanzar un objetivo, los cuales podrían ser influenciados no solo por
+la percepción sino también por factores cognitivos. Para evitar esto, se
+desarrolló la tarea de triangulación: luego de ver el objeto, se les
+pide a los participantes rotar en un ángulo específico y luego caminar
+cegado por una distancia corta y fija. A partir del ángulo indicado en
+dirección del target, visto previamente, se puede calcular la distancia
+percibida. El método de caminar a ciegas de forma triangulada es
+considerablemente buena hasta distancias de al menos 20 metros, a pesar
+de que existe mayor variabilidad que la estimación obtenida mediante la
+caminata a ciegas sin triangulación (Loomis y Philbeck, 2008).
+
+Es importante notar que hay una distinción entre extensión percibida y
+localización percibida (Witt et al., 2007). O sea, algunos métodos de
+medición podrían, estrictamente hablando, medir la localización
+percibida, pero no necesariamente la extensión percibida. Por ejemplo,
+Witt et al. (2007) han mostrado que los resultados pueden diferir entre
+pedirle a los participantes caminar cegados hasta una distancia para
+percibir localización del objeto y pedirles que caminen hasta una
+distancia determinada.
+
+En resumen, la distancia estimada varía de acuerdo al método de medida
+utilizado. Sin embargo, en términos generales, los resultados mostraron
+que los humanos son buenos en percibir distancias en entornos reales por
+lo menos hasta 20 metros.
+
+## Referencias bibliográficas
+
+Cutting, J. E., y Vishton, P. M. Perceiving layout and knowing
+distances: The integration, relative potency, and contextual use of
+different information about depth. In Handbook of Perception and
+Cognition, Vol 5; Perception of Space and Motion. W. Epstein and S. J.
+Rogers, Eds., Academic Press, San Diego, CA, 69--117 (1995).
+
+Cutting, J. E., y Vishton, P. M. Perceiving layout and knowing
+distances: The integration, relative potency, and contextual use of
+different information about depth. In Handbook of Perception and
+Cognition, Vol 5; Perception of Space and Motion. W. Epstein y S. J.
+Rogers, Eds., Academic Press, San Diego, CA, 69--117 (1995).
+
+Gibson, J. J. *The Perception of the Visual World*. Houghton Mifflin,
+Oxford, England. (1950).
+
+Goldstein, E. B. *Sensation and Perception* (7th ed.). Wadsworth-Thomson
+Learning, Belmont, California (2007).
+
+He, Z. J., Wu, B., Ooi, T. L., Yarbrough, G., y Wu, J. Judging
+egocentric distance on theground: Occlusion and surface integration.
+Perception 33(7),789--806 (2004).
+
+Indow, T. A critical review of Luneburg's model with regard to global
+structure of visual space. Psychological Review 98, 430-453 (1991).
+
+Lappin, J. S., Shelton, A. L., y Rieser, J. J. Environmental context
+influences visually perceived distance. Attention Percept. Psychophys.
+68 (4), 571--581 (2006).
+
+Loomis, J. M. Y Philbeck, J. W. Measuring perception with spatial
+updating and action. In Embodiment, Ego-space, and Action, R. L.
+Klatzky, B. MacWhinney, and M. Behrman, Eds., Psychology Press, New
+York, 1--43. (2008).
+
+Loomis, J. M. y Knapp, J. M. Visual perception of egocentric distance in
+real and virtual environments. In Virtual and Adaptive Environments, L.
+J. Hettinger and M. W. Haas, Eds., Erlbaum, Mahwah, NJ, 21--46 (2003).
+
+Rand, K. M., Tarampi, M. R., Creem-Regehr, S.H., And Thompson, W. B. The
+importance of a visual horizon for distance judgments under severely
+degraded vision. Perception 40 (2),143--154 (2011).
+
+Rieser, J. J., Ashmead, D. H., Talor, C. R. y Youngquist, G. A. Visual
+perception and the guidance of locomotion without vision to previously
+seen targets. Perception 19, 675-689 (1990).
+
+Rieser, J. J., Holman, K., Cummins, P., Weingarten, F., y Ridley, C.
+Similarities in bipedal, bimanual, and quadripedal locomotion: Evidence
+for a unified locomotor action system. Abstracts of the Psychonomic
+Society 9 (5). (2004).
+
+Rieser, J. J., Pick, H. L., Jr., Ashmead, D. A., y Garing, A. The
+calibration of human locomotion and models of perceptual--motor
+organization. Journal of Experimental Psychology: Human Perception &
+Performance 21, 480-497 (1995).
+
+Sinai, M. J., Ooi, T. L., y He, Z. J. Terrain influences the accurate
+judgement of distance. Nature, 395, 497-500 (1998).
+
+Suppes, P. Some foundational problems in the theory of visual space. In
+R. D. Luce, M. D'Zmura, D. D. Hoffman, G. J. Iverson, y A. K. Romney
+(Eds.), Geometric representations of perceptual phenomena: Papers in
+honor of Tarow Indow on his 70th birthday (37- 45). Hillsdale, NJ:
+Erlbaum (1995).
+
+Suppes, P., Krantz, D. M., Luce, R. D., y Tversky, A. Foundations of
+measurement: Vol. 2. Geometrical, threshold, and probabilistic
+representations. San Diego: Academic Press (1989).
+
+Watson, M.R., y Enns, J.T. (in press). Depth perception. On-line data
+base Neuroscience and Biobehavioral Psychology, Elsevier Ltd, Oxford, UK
+(2012)
+
+Witt, J. K., Stefanucci, J. K., Riener, C. R., Y Proffitt, D. R. Seeing
+beyond the target: Environmental context affects distance perception.
+Perception 36,12,1752--1768. DOI: http://dx.doi.org/10.1068/p5617
+(2007).
+
+Wu, B., Ooi, T. L., y He, Z. J. Perceiving distance accurately by a
+directional process of integrating ground information. Nature 428, 73-77
+(2004).
+

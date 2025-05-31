@@ -1,0 +1,356 @@
+# El proceso multisensorial
+
+## Introducción
+
+Por más de un siglo, el funcionamiento del cerebro en general, y la
+percepción en particular, ha sido concebida como altamente modular
+(Pascual Leone y Hamilton, 2001). Esta forma de ver la percepción ha
+sido relevante respecto al estudio del procesamiento visual y de cómo la
+visión es considerada como la modalidad dominante. Por otro lado,
+numerosa evidencia (especialmente en los últimos años) ha revelado que
+la percepción visual puede ser modificada tanto cuantitativa como
+cualitativamente por la presencia de información proveniente de otras
+modalidades. Esta modulación puede tener lugar en diferentes niveles de
+procesamiento y dominios perceptuales. La modulación crossmodal del
+procesamiento visual no está acotada a la percepción, sino que también
+juega un importante rol en el aprendizaje perceptual visual. Existe
+evidencia de que la información crossmodal puede ser utilizada para
+calibrar la visión y ajustar el peso relativo de las pistas visuales
+(Adams et al., 2004). Esta interacción podrían seguir estrategias que
+intentan minimizar el error perceptual estimado sobre el promedio.
+
+A continuación se revisarán cuáles son los principales estudios sobre
+los mecanismos involucrados en la percepción multisensorial y, en
+particular, la relación crossmodal audiovisual. Este capítulo intenta
+establecer la importancia de la interacción multisensorial, la cual
+depende de la información proveniente de diferentes sentidos
+involucrados. El objetivo será subrayar la relevancia del conocimiento
+acerca de cómo la interacción audiovisual varía de acuerdo al contexto,
+para entender la bases del mecanismo de integración multisensorial y la
+representación del espacio en distancia.
+
+## La percepción multisensorial
+
+Históricamente, se ha tendido estudiar las diferentes modalidades
+sensoriales de forma aislada, ya sea por razones prácticas o teóricas.
+Pero en nuestra experiencia diaria, la estimulación multisensorial es
+ubicua. De hecho, un creciente número de trabajos sugieren que la
+percepción es multisensorial, y que la interacción perceptual
+multisensorial es "la regla y no la excepción" (Shimojo y Shams, 2001).
+
+La percepción del mundo real depende de la integración de la información
+multisensorial. La percepción del entorno es un aspecto ubicuo de la
+experiencia diaria, en donde nuestra percepción del mundo claramente se
+beneficia de información proveniente de múltiples modalidades. En
+humanos, con audición y escucha normal, la percepción del mundo exterior
+se basa principalmente en la visión y la audición. La habilidad para
+determinar de forma precisa y rápida la localización de una fuente de
+sonido es de una gran importancia en la vida de muchas especies. El
+proceso de localización del sonido también juega un rol clave en
+direccionar la atención hacia el objeto o el evento de interés, dado que
+ellos pueden ser registrados por otros sentidos, más comúnmente la
+visión.
+
+Una percepción del entorno robusta requiere que la información
+proveniente de nuestros cinco sentidos sea combinada en un nivel central
+para producir una única percepción unificada del entorno. Los humanos
+poseemos múltiples sistemas sensoriales que son sensibles a los
+diferentes indicios perceptuales del contexto. La integración de la
+información a través de modalidades sensoriales expresan una importante
+ventaja adaptativa. Teorías recientes y evidencias presentadas en varios
+estudios sugieren que la combinación no ocurre de una manera rígida,
+sino que siguen reglas dependientes de la situación que otorgan
+información para ser combinada con la máxima eficiencia.
+
+La integración multisensorial es caracterizada principalmente por dos
+fenómenos perceptuales. Primero, la mejora crossmodal ocurre cuando la
+precisión es incrementada por la información congruente abarcando más de
+una modalidad sensorial. Segundo, la ilusión crossmodal puede ocurrir
+cuando información incongruente abarca diferentes modalidades. Diversos
+trabajos han dado evidencia sustancial de que el proceso multisensorial
+otorga ventajas sobre el proceso unimodal. En general, estímulos
+multisensoriales son detectados más rápidamente que sus componentes
+unimodales (Fort et al., 2002; Giard y Peronnet, 1999). Apoyando esta
+idea, Erns y Bulthoff (2004) afirman que la clave para obtener una
+percepción robusta sucede cuando se combinan e integran información
+proveniente de múltiples modalidades sensoriales.
+
+La integración de información multisensorial puede reducir la ambigüedad
+(Sumby y Pollack, 1954) e incrementar la precisión de la percepción de
+la respuesta (Talsma et al., 2010). Diversos estudios indican que las
+señales visuales tienden a ser localizadas con mayor precisión y con
+menor variabilidad que las señales auditivas (Alais y Burr, 2004;
+Battaglia y Jacobs, 2003). Los estímulos visuales y auditivos alineados
+temporal y espacialmente presentan menor desvío y variación en cuanto a
+su localización que usando una modalidad aislada. De hecho, la
+disponibilidad de diferentes señales sensoriales, y la habilidad para
+combinar estas señales en una manera que refleje con precisión los
+eventos que tienen lugar en el entorno, podría reforzar el procesamiento
+perceptual frente al ruido interno/externo y los sesgos perceptuales de
+una modalidad específica. Por ejemplo, cuando la confiabilidad de una
+modalidad sensorial es comprometida por el ruido o la desviación, la
+información proveniente de otra modalidad podría ayudar en la
+desambiguación de los estímulos y facilitar la percepción, o al menos
+hacerla útil funcionalmente.
+
+## El proceso multisensorial 
+
+En las últimas décadas ha habido un gran interés por estudiar el proceso
+multisensorial. Trabajos recientes han cuestionado que la percepción
+unisensorial ocurre antes que lo multisensorial, valiéndose de la
+evidencia presente en estudios comportamentales y neurofisiológicos, los
+cuales sugieren que el proceso multisensorial ocurre mucho antes de lo
+que se suponía. Un creciente número de estudios sobre interacción
+multisensorial ha cuestionado la visión tradicional de que las
+modalidades sensoriales son independientes funcionalmente.
+
+Mientras que las más conocidos ejemplos de la interacción crossmodal
+involucran modificaciones de otras modalidades por la visión, existe un
+número de estudios en la literatura que reportan interacciones
+crossmodales en la dirección opuesta. La mayoría de estos trabajos
+involucran tanto modificaciones de las características temporales
+percibidas de estímulos visuales así como las de duración (Walker y
+Scott, 1981) y frecuencia (Gebhard y Mowbray, 1959; Shipley, 1964; Welch
+et al., 1986). Sin embargo, las características temporales no son los
+únicos atributos de los estímulos visuales sujetos de modificación. Por
+ejemplo, Stein et al. reportaron que la intensidad percibida de un
+estímulo visual es mejorada en presencia de sonido (Stein et al. 1996).
+Igualmente, debemos notar que todos los reportes mencionados, respecto a
+la modificación de la visión por otras modalidades, involucra pequeños
+cambios cuantitativos en oposición al cambio radical en la calidad de
+percepción.
+
+También existe evidencia en donde un sonido coincidente, tanto espacial
+como temporalmente, puede mejorar la detección visual de un estímulo
+degradado. El análisis de la detección de las señales revela tanto un
+cambio en el criterio de toma de decisiones como en la sensibilidad
+perceptiva (Green, 1989) causado por el sonido (Frassinetti, 2002). Una
+posible explicación para este efecto del sonido ha sido que el sonido
+provee una función general de alerta/detonante que causa un
+procesamiento más eficiente del estímulo concurrente en general.
+
+Otro ejemplo de cómo el sistema perceptivo se enfrenta con el conflicto
+espacial intersensorial es el llamado "*efecto ventrílocuo*" (Howard,
+1966; Thurlow, 1973; Warren y Welch, 1981) el cual hemos visto en el
+capítulo anterior. En este efecto, el estímulo visual y auditivo están
+alineados en tiempo, desplazando el estímulo visual a una distancia
+modesta, frecuentemente causará que el el estímulo auditivo es
+"capturado" por el evento visual.
+
+En caso de ambigüedad o conflicto perceptivo, la entrada auditiva afecta
+considerablemente la evaluación percibida de un estímulo visual, a pesar
+de la congruencia espacial o la intensidad de los estímulos auditivos
+(Gebhard y Mowbray, 1959; Shipley, 1964; Welch et al., 1986). En este
+sentido, el sonido puede afectar la visión en el dominio temporal. Esto
+lo hace un sentido adaptativo, ya que la modalidad auditiva tiene mucha
+más resolución que la modalidad visual. La duración percibida de un
+estímulo visual y el intervalo entre dos eventos visuales pueden ser
+influenciados por el sonido (Walter y Scott, 1981).
+
+## El sonido altera aspectos temporales de la visión
+
+Diversos estudios revelan que la percepción visual podría ser alterada
+en el dominio del tiempo por otras modalidades. La duración percibida
+(Walker y Scott, 1981) o la velocidad (Warren et al., 1986) en la que se
+presenta un estímulo visual ha mostrado que puede ser influenciada al
+ser acompañado de señales sonoras. La resolución temporal puede ser
+incluso mejorada o desmejorada ante la presencia de información sonora,
+dependiendo de las relaciones temporales entre el estímulo visual y el
+auditivo. En un estudio de Scheier et al. (1999) cuando dos estímulos
+lumínicos fueron activados en diferentes ubicaciones con un pequeño
+retardo de aparición (-60 a +60 ms) la precisión de la percepción
+temporal de las dos luces fue mejor cuando la clave visual estuvo
+acompañada de un estímulo auditivo, en comparación a cuando la clave
+visual no fue acompañada por ningún sonido. Contrariamente, la
+performance de los sujetos empeoró (en comparación a la condición sin
+sonido) cuando dos sonidos fueron insertados en el lapso temporal
+existente entre los dos estímulos visuales. Estos resultados son
+consistentes con los de otros estudios en los que un flash de luz es
+percibido adelantado, temporalmente, cuando es precedido de un sonido.
+
+Teniendo en cuenta los casos mencionados, podemos ver que la modalidad
+más apropiada o eficaz, respecto a una tarea, es la que dominante en el
+proceso multisensorial. La visión tiene una resolución espacial muy
+alta, por lo que dominará en ésta tarea, en comparación a la modalidad
+auditiva que presenta mayor resolución temporal. La dominancia de la
+visión en el efecto ventrílocuo y la dominancia de la audición en tareas
+temporales, son consistentes con ésta hipótesis.
+
+## El sonido altera otros aspectos de la visión
+
+La alteración de la modalidad visual por el sonido no siempre se
+encuentra limitada a los aspectos temporales de los estímulos visuales.
+La percepción auditiva puede afectar la organización perceptiva de la
+modalidad visual. Por ejemplo, un sonido repentino puede mejorar la
+detección de flashes subsiguientes en la misma ubicación (McDonald et
+al., 2000). También, la intensidad de un estímulo visual ha mostrado que
+puede incrementarse por la presencia del sonido (Stein et al., 1996).
+Existe evidencia de que el sonido puede alterar la interpretación de un
+evento visual de movimiento (Sekuler, Sekuler y Lau,1997). En este
+experimento de Sekuler y Lau (1997) se les presentaron a los sujetos dos
+claves visuales idénticas, moviéndose una contra otra. Luego, se les
+preguntó si habían percibido las claves visuales rebotando o
+traspasándose una sobre el otra. Cuando se presentó el estímulo visual
+sin sonido, la mayoría de los observadores reportaron una percepción de
+traspaso, y no de rebote. Por el contrario, cuando un sonido corto fue
+agregado, en el momento que las claves visuales coincidían, la
+percepción visual fue desviada fuertemente, a favor del movimiento de
+rebote (Fig. 6.1).
+
+![](/media/image11.png){width="5.907638888888889in"
+height="1.4826388888888888in"}
+
+***Figura 6.1:** Ilusión visual causada por el sonido. a) La ilusión
+transmisión-rebote fue reportada por Sekuler et al. (1997). b) La
+ilusión de flash inducida por el sonido fue reportada por Shams et al.
+(2000).*
+
+La alteración de la visión por el sonido no está limitada a modulaciones
+de intensidad percibida o situaciones de ambigüedad con el estímulo
+visual. Por ejemplo, en el efecto de "*Ilusión de flash*" (Shams et al.,
+2000) cuando un único flash es acompañado de múltiples beeps auditivos
+es percibido como una ráfaga de múltiples flashes. Esto indica que el
+fenómeno de la ilusión del flash es en efecto una ilusión visual y no se
+debe a la dificultad de la tarea o a una desviación cognitiva producida
+por el sonido.
+
+## Modulación crossmodal del aprendizaje y la adaptación
+
+Para tareas donde la estimación visual puede utilizar múltiples pistas,
+la ponderación de las pistas visuales pueden ser afectadas por cuán
+consistente es cada pista en relación a la pista no-visual. Las señales
+crossmodales también pueden mejorar la memoria visual y el aprendizaje
+perceptual. Por ejemplo, en un trabajo de Murray et al. (2004) se
+encontró que cuando la tarea de los sujetos consistía en juzgar si una
+imagen era presentada con anterioridad o por primera vez, la precisión
+del reconocimiento fue superior para las imágenes que que fueron
+inicialmente presentadas juntas con sus correspondientes sonidos (ej:
+imágen de una campana y el sonido "dong"), en comparación con las
+imágenes que fueron presentadas inicialmente sin sonido. En otras
+palabras, la codificación audiovisual de objetos mejora la recuperación
+visual.
+
+## Referencias bibliográficas
+
+Adams, W. J., Graf, E. W., Ernst, M. O. Experience can change the
+'light-from-above' prior. Nature Neuroscience 7, 1057--8 (2004).
+
+Alais, D., Burr, D. The ventriloquist effect results from near- optimal
+bimodal integration. Curr Biol 14, 257--262 (2004).
+
+Battaglia P., Jacobs R., Aslin R. Bayesian integration of visual and
+auditory signals for spatial localization. J Opt Soc Am 20(7),
+1391--1396 (2003).
+
+Ernst, M. O. y Bulthoff, H. H. Merging the sense into robust percept.
+Trends in Cognitive Science 8(4), 162-169 (2004).
+
+Fort, A., Delpuech C., Pernier J., Giard M. H. Dynamics of
+cortico-subcortical cross-modal operations involved in audio-visual
+object detection in humans. Cereb Cortex 12, 1031--1038 (2002).
+
+Frassinetti, F., Bolognini, N., Ladavas, E. Enhancement of visual
+perception by crossmodal visuo--auditory interaction. Experimental Brain
+Research 147, 332--43 (2002).
+
+Gebhard, J. W., Mowbray G. H. On discriminating the rate of visual
+flicker and auditory flutter, Am. J. Psychol. 72, 521--528 (1959).
+
+Giard M. H., Peronnet, F. Auditory-visual integration during multimodal
+object recognition in humans: a behavioural and electrophysiological
+study. J Cogn Neurosci; 11:473--490 (1999).
+
+Green D. M., Swets J. A. Signal detection theory and psychophysics. Los
+Altos, CA: Peninsula Publishing (1989).
+
+Howard I. y Pa W. *Human spatial orientation*. London, Wiley (1966).
+
+McDonald, J. J., Teder-Salejarvi, W. A. y Hillyard, S. A. Involuntary
+orienting sound improves visual perception. Nature 407, 906-908 (2000).
+
+Murray M. M., Michel C. M., Grave de Peralta R., Ortigue S., Brunet D.,
+Gonzalez Andino S. Rapid discrimination of visual and multisensory
+memories revealed by electrical neuroimaging. Neuroimage 21, 125--35
+(2004).
+
+Pascual-Leone A., Hamilton R. The metamodal organization of the brain.
+Progress in Brain Research 134, 427--45 (2001).
+
+Scheier, C. R., Nijhawan, R., y Shimojo, S. Sound alters visual temporal
+resolution \[Abstract\]. Investigative Ophthalmology and Visual Science
+40, 41-69 (1999).
+
+Sekuler, R., Sekuler, A. A. y Lau, R. Sound alters visual motion
+perception. Nature 385, 308 (1997).
+
+Shams, L., Kamitani, Y. y Shimojo, S. Visual illusion induced by sound.
+Cognitive Brain Research 14, 147-152 (2002).
+
+Shimojo, S. y Shams, L. Sensory modalities are not separated modalities:
+plasticity and interaction perceptual modality. Acoustic Science and
+Technology 22(2), 61-67 (2001).
+
+Shipley T. Auditory flutter-driving of visual flicker, Science 145,
+1328--1330 (1964).
+
+Stein B. E., London N., Wilkinson L.K., Price D. D. Enhancement of
+perceived visual intensity by auditory stimuli: a psychophysical
+analysis. J. Cognit. Neurosci. 8, 497--506 (1996).
+
+Sumby, W. H., y Pollack, I. Visual contribution to speech
+intelligibility in noise. Journal of the Acoustical Society of America
+26, 212--215 (1954).
+
+Talsma, D., Senkowski, D., Soto-Faraco, S. y Woldorff, M. G. The
+multifaceted interplay between attention and multisensory integration.
+Trends in Cognitive Sciences 14, 400--410 (2010).
+
+Thurlow W.R., Jack C. E. Certain determinants of the "ventriloquism
+effect". Perceptual and Motor Skills 36, 1171--84 (1973).
+
+Walker J. T. y Scott K. J. Auditory--visual conflicts in the perceived
+duration of lights, tones, and gaps. Journal of Experimental Psychology:
+Human Perception and Performance 7, 1327--39 (1981).
+
+Walker J. T. y Scott K. J. Auditory--visual conflicts in the perceived
+duration of lights, tones and gaps, J. Exp. Psychol.: Hum. Percept.
+Perform. 7, 1327--1339 (1981).
+
+Warren D. H., Welch R. B., McCarthy, T. J. The role of visual--auditory
+"compellingness" in the ventriloquism effect: implications for
+transitivity among the spatial senses. Perception & Psychophysics 30,
+557--64 (1981).
+
+Welch R. B., Duttenhurt L. D., Warren D. H. Contributions of audition
+and vision to temporal rate perception, Percept. Psychophys 39, 294--300
+(1986).
+
+**Trabajo de Campo y Resultados**
+
+Desde el comienzo de la investigación respecto a la percepción de
+distancia nos enfocamos en abordar una nueva y efectiva metodología, que
+pueda solventar algunas limitaciones de métodos experimentales
+utilizados en las principales investigaciones previas del área (Ver
+Capítulos 7, 8 y 9). A diferencia del método más extendido para reportar
+la percepción de distancia, como lo es el reporte verbal, utilizamos un
+enfoque multimodal para el diseño del setup experimental para medir PAD
+en experimentos que se describirán a continuación.
+
+El desarrollo de los dispositivos experimentales implicó una gran
+variedad de pruebas, a fin de verificar la confiabilidad y robustez del
+diseño. Por ejemplo, se han realizado diversas pruebas comparativas para
+comprobar cuál era el grado de precisión de percepción auditiva y visual
+de distancia. En el proceso de diseño de los dispositivos experimentales
+fue contundente evidenciar que, a pesar de presentar a los sujetos
+información visual muy escasa (pequeños LEDs luminosos), las claves
+visuales influyeron de forma notable la PAD.
+
+En el primer caso, se expondrá un trabajo que estudia la influencia que
+tienen las claves visuales y el contexto visual en la PAD. Luego veremos
+las características, implementacion y ventajas de un nuevo dispositivo
+experimental utilizado para realizar experimentos de percepción de
+distancia diseñado desde un enfoque multimodal. Finalmente, se expondrán
+resultados de una investigación multimodal en el sentido opuesto; es
+decir, de qué manera el contexto auditivo afecta la percepción visual de
+distancia.
+
