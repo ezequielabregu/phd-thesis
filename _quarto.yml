@@ -58,8 +58,8 @@ format:
   html:
     mermaid: {}
     theme:
-      light: cosmo
-      dark: slate
+      light: lumen
+      dark: darkly
     toc: true
     #toc-location: left
     code-copy: true
@@ -67,6 +67,7 @@ format:
     sidebar: true
     page-layout: full
     lightbox: true
+    #css: custom.css
 
 #  pdf:
 #    documentclass: scrreprt
