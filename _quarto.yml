@@ -13,9 +13,10 @@ book:
   - name: Dr. Ezequiel Abregú
     orcid: 
     email: eabregu@unq.edu.ar
+    url: https://ezequielabregu.net
     affiliations:
       - name: CONICET - UNQ
-  date: "2018-03-12"
+  date: "2025-05-31"
 
   chapters:
     - index.qmd
@@ -43,7 +44,7 @@ book:
     tools:
       - icon: filetype-pdf
         href: https://ridaa.unq.edu.ar/handle/20.500.11807/837
-        text: "Download PDF"
+        text: "Descargar PDF"
   #repo-actions: [issue]
 
 #  sidebar: 
