@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.31">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>2&nbsp; El sistema auditivo como procesador espacial – Percepción de Distancia Aplicada a la Composición Sonora</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/03-revision-pad.html" rel="next">
+<link href="../chapters/01-introduccion.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-3a5bcc442b918f51924187d76e78c8e5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-cf245d7be09ffeafdb352d8b8bd5aa1e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-3a5bcc442b918f51924187d76e78c8e5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/02-sistema-auditivo.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">El sistema auditivo como procesador espacial</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Percepción de Distancia Aplicada a la Composición Sonora</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://ridaa.unq.edu.ar/handle/20.500.11807/837" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-filetype-pdf"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><br></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/01-introduccion.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introducción</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/02-sistema-auditivo.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">El sistema auditivo como procesador espacial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/03-revision-pad.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Revisión de los aspectos más relevantes en el estudio de la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/04-distancia-musica.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">La distancia como dimensión estructural en la música</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/05-pvd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Percepción visual de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/06-multisensorial.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">El proceso multisensorial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/07-rol-pad.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">El rol de la visión en la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/08-metodo-respuesta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Evaluación del método de respuesta de localización directa para medir la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/09-contexto-pvd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">El contexto ambiental auditivo afecta la percepción visual de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/10-ciencia-arte.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Interdisciplina entre ciencia y arte</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/11-entrevistas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Entrevistas sobre el uso del espacio sonoro y la percepción de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/12-conclusiones.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Conclusiones finales</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/13-anexos.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Anexos</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Índice</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción"><span class="header-section-number">2.1</span> Introducción</a></li>
+  <li><a href="#ubicación-espacial-de-sonidos-en-el-eje-horizontal" id="toc-ubicación-espacial-de-sonidos-en-el-eje-horizontal" class="nav-link" data-scroll-target="#ubicación-espacial-de-sonidos-en-el-eje-horizontal"><span class="header-section-number">2.2</span> Ubicación espacial de sonidos en el eje horizontal</a></li>
+  <li><a href="#localización-vertical-de-fuentes-sonoras" id="toc-localización-vertical-de-fuentes-sonoras" class="nav-link" data-scroll-target="#localización-vertical-de-fuentes-sonoras"><span class="header-section-number">2.3</span> Localización vertical de fuentes sonoras</a></li>
+  <li><a href="#información-provista-por-la-pinna" id="toc-información-provista-por-la-pinna" class="nav-link" data-scroll-target="#información-provista-por-la-pinna"><span class="header-section-number">2.4</span> Información provista por la pinna</a></li>
+  <li><a href="#información-provista-por-el-torso" id="toc-información-provista-por-el-torso" class="nav-link" data-scroll-target="#información-provista-por-el-torso"><span class="header-section-number">2.5</span> Información provista por el torso</a></li>
+  <li><a href="#referencias-bibliográficas" id="toc-referencias-bibliográficas" class="nav-link" data-scroll-target="#referencias-bibliográficas"><span class="header-section-number">2.6</span> Referencias bibliográficas</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content column-body" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">El sistema auditivo como procesador espacial</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-body">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introducción" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="introducción"><span class="header-section-number">2.1</span> Introducción</h2>
+<p>La audición se activa por la emisión de sonidos, se realiza a través del sistema auditivo e informa al sistema nervioso sobre algunos atributos de las fuentes sonoras. En humanos, el sistema auditivo tiene tres funciones principales:</p>
+<ol type="1">
+<li><p>Captación y procesamiento mecánico de las ondas sonoras.</p></li>
+<li><p>Conversión de la señal acústica (mecánica) en impulsos nerviosos, y transmisión de dichos impulsos hasta los centros sensoriales del cerebro.</p></li>
+<li><p>Procesamiento neuronal de la información codificada en forma de impulsos nerviosos.</p></li>
+</ol>
+<p>La estructura del sistema auditivo se compone del oído externo, el oído medio, el oído interno y, finalmente, el sistema nervioso central (Fig. 2.1).</p>
+<p><a href="../media/image5.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../media/image5.jpg" style="width:4.38056in;height:3.24976in"></a></p>
+<p><strong>Figura 2.1:</strong> <em>Estructura del sistema auditivo humano</em></p>
+<p>El oído externo recibe y canaliza las ondas sonoras desde el exterior hacia la membrana timpánica, acoplando el oído medio con el campo acústico externo. Está conformado por el pabellón auricular o pinna y el canal auditivo externo. Como veremos en el Capítulo 2, el oído externo, principalmente la pina, contribuye decisivamente en la tarea de la localización espacial.</p>
+<p>El oído medio transforma estas ondas en vibraciones mecánicas y es el encargado de compensar la diferencia de impedancias que existe entre el aire y los fluidos del oído interno. Está conformado por el tímpano (separa el oído externo del oído medio), los osículos (martillo, yunque y estribo) y la trompa de Eustaquio (acopla la presión externa con la del oído medio).</p>
+<p>El oído interno convierte y codifica estas vibraciones mecánicas en señales eléctricas que son transmitidas por fibras nerviosas a diferentes centros de procesamiento de orden superior en el cerebro. Dentro del oído interno se encuentran dos sistemas perceptivos distintos, el de la audición y el del equilibrio. El sistema encargado de codificar el sonido se conoce como cóclea y su función es descomponer el sonido en sus componentes de frecuencia e intensidad. Los componentes de frecuencia de la señal sonora y la intensidad de cada uno de estos componentes nos brindan información que es utilizada por nuestro sistema nervioso para diferenciar sonidos y, en muchos casos, reconocer la identidad de la fuente sonora. El sistema auditivo puede percibir sonidos dentro en un amplio rango de frecuencias e intensidades. Esta capacidad nos permite reconocer perturbaciones acústicas provenientes de fuentes sonoras con características muy diversas. Sin embargo, la importancia biológica del sistema auditivo no se debe solamente a su capacidad para reconocer la identidad espectral de las perturbaciones sonoras sino también a su capacidad para reconocer la ubicación espacial de la fuente que los genera. En lo ambientes naturales, la capacidad de ubicar el lugar donde se encuentra la fuente del sonido tiene una importancia igual o superior a la capacidad de reconocer sus características espectrales, en especial si se encuentra ubicada fuera del campo visual del oyente. En general, el sistema auditivo posee menor precisión espacial que el sistema visual, sin embargo, tiene una gran ventaja: puede monitorear el espacio auditivo en todas las direcciones al mismo tiempo e independientemente de las condiciones lumínicas del ambiente.</p>
+<p>La forma en que el sistema auditivo procesa la información espacial es diferente a la de otros sistemas sensoriales. A diferencia de otros órganos receptores como el de la vista y el tacto, en el órgano receptor del sistema auditivo no se produce una representación espacial explícita. En el sistema visual por ejemplo, el cristalino proyecta una imagen con información espacial concreta sobre los receptores de la retina y esta imagen es enviada desde la retina a la corteza visual manteniendo las mismas relaciones espaciales. En el sistema auditivo en cambio, el órgano receptor del oído interno (el órgano de Corti) no produce información espacial de forma directa. Como veremos más adelante, es en el cerebro y no en el órgano receptor del oído interno donde la información de frecuencia e intensidad proveniente desde ambos oídos es analizada para formar un mapa espacial con la ubicación de las fuentes percibidas.</p>
+<p>Como vimos, la ubicación de la fuente sonora puede variar en acimut, en elevación y distancia. El cerebro utiliza diferentes indicios que contiene la señal sonora para estimar la ubicación de la fuente en estas coordenadas. A continuación desarrollaremos conceptos generales sobre percepción espacial en los planos horizontal y vertical dejando distancia para un capítulo aparte (ver Capítulo 3).</p>
+</section>
+<section id="ubicación-espacial-de-sonidos-en-el-eje-horizontal" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="ubicación-espacial-de-sonidos-en-el-eje-horizontal"><span class="header-section-number">2.2</span> Ubicación espacial de sonidos en el eje horizontal</h2>
+<p>El sistema auditivo del ser humano posee mayor resolución espacial en el eje horizontal que en los otros planos del espacio auditivo. La resolución espacial para estimar la posición angular de una fuente sonora se mide en términos de mínimo ángulo audible (MAA - Mills, 1958). El MAA es la diferencia mínima en el ángulo de incidencia de un par sonidos de idénticas características que un sujeto es capaz de reconocer. El MAA no tiene un valor absoluto ya que depende de diferentes factores externos como por ejemplo el ángulo de incidencia y la frecuencia de los sonidos. En los seres humanos, la resolución espacial en el plano horizontal es mayor cuando los sonidos provienen desde el frente de la cabeza que cuando provienen de los costados. De este modo, el MMA es mínimo para fuentes ubicadas cerca del plano sagital medio del oyente y aumenta gradualmente cuando los estímulos son presentados con valores de acimut crecientes. Cuando se utilizan estímulos ubicados en la parte frontal de la cabeza, el MAA en el plano horizontal tiene valores aproximados a 1º. Sin embargo, cuando el ángulo de incidencia del estímulo es aumentado gradualmente, el valor del MAA aumenta hasta alcanzar valores de 10º cuando los sonidos provienen de un ángulo de 80º. Cuando el ángulo de incidencia del sonido supera los 80º la resolución espacial disminuye considerablemente alcanzando valores de MAA mayores a 40º. Esta importante caída en la resolución espacial para sonidos lateralizados se debe a que cuando el sonido proviene desde ángulos cercanos a 90º los sujetos no son capaces de diferenciar si éste proviene de adelante o de atrás de su cabeza. Esto hace que, para sonidos provenientes de lugares lateralizados, los oyentes cometan errores mayores en la ubicación espacial de los mismos. Ésta zona de incerteza es conocida como el “<em>cono de confusión</em>” (Basso, 2006). Generalmente podemos mejorar nuestra estimación en la ubicación de sonidos que provienen con ángulos mayores a 80º moviendo levemente nuestra cabeza para ubicar la fuente sonora en algún sitio fuera de esta zona de incerteza donde la resolución espacial es más aceptable.</p>
+<p>El MAA depende también de las características del sonido. En un trabajo publicado por Stevens y Newman (1936) se demostró que los seres humanos tenemos mayor precisión para ubicar la procedencia de un tono puro en acimut cuando este tiene frecuencias menores a 1 kHz o mayores a 3 kHz, mientras que la precisión disminuye cuando son utilizados tonos de frecuencias intermedias (entre 2-3 kHz). Cuando los sonidos provienen desde el frente de la cabeza, el MMA para un tono puro menor a 1 kHz es de aproximadamente 1º y de 1.5º para tonos con frecuencias mayores a 5 kHz. Sin embargo, para tonos con frecuencias ubicadas entre 2 y 4 kHz, el MMA alcanza valores superiores a 3º. El hecho de que la resolución espacial sea dependiente de la frecuencia del estímulo se debe a las características que poseen los dos indicios principales que utiliza el cerebro para estimar la ubicación espacial de la fuente sonora en el plano horizontal. Estos indicios son: la Diferencia Interaural de Tiempo (ITD, del inglés Interaural Time Difference) y la Diferencia Interaural de Intensidad (ILD).</p>
+<p>El ITD es la diferencia temporal de la llegada de una señal sonora a cada oído cuando el sonido proviene desde un lugar ubicado fuera del plano sagital medio de la cabeza de un oyente (con valores de acimut diferentes a 0º). En estos casos el sonido deberá recorrer diferentes distancias para llegar a cada uno de los oídos. De esta manera, el tiempo que tarda la señal en llegar desde la fuente a cada oído es diferente; el oído que está más cerca de la fuente recibirá el sonido antes que el oído que se encuentra más lejos. Cuando el sonido proviene con un acimut de 90º el ITD tiene su valor máximo ya que la señal, luego de llegar al oído más próximo, deberá recorrer la distancia máxima entre ambos oídos para llegar al otro. Por el contrario si la señal proviene desde el frente de la cabeza (acimut = 0) la distancia desde la fuente a cada oído es la misma y el valor de ITD será cero. El ITD es el indicio que más influye en la ubicación angular de la fuente sonora en el plano horizontal para sonidos de baja frecuencia (&lt; a 1.3 kHz).</p>
+<p>El ILD es la diferencia de intensidad que tiene la señal auditiva al llegar a cada oído cuando esta proviene de una ubicación con un acimut diferente de 0º. Esta diferencia en la intensidad recibida se produce principalmente por la absorción y reflexión (sombra acústica) que produce la cabeza sobre el sonido en su recorrido desde un oído al otro. La disminución en la intensidad del sonido producido por la cabeza depende del ángulo de incidencia del sonido. Si el sonido proviene desde el frente de la cabeza ambos oídos recibirán la señal con la misma intensidad y el ILD será cero. El valor de ILD va creciendo gradualmente a medida que la señal se desplaza hacia zonas con valores de acimut crecientes hasta alcanzar su valor máximo cuando el sonido proviene con un ángulo de incidencia de 90º. Además del ángulo de incidencia, el ILD depende de la relación entre el tamaño de la cabeza y la longitud de onda de la señal, esto es, la cabeza solamente absorberá parte de la señal auditiva cuando la longitud de onda del sonido tenga un valor menor al de su diámetro. Cuando la longitud de onda del sonido es mayor al diámetro de la cabeza la absorción y reflexión que ésta produce es mínima y por ende los valores de ILD se acercan a 0 independientemente del ángulo de incidencia del sonido. Esta es la razón por la cual el ILD es efectivo solamente para frecuencias elevadas.</p>
+<p>La primera vez que se reportó la participación del ILD y del ITD como indicios binaurales para la ubicación de sonidos en el plano horizontal fue en un trabajo publicado por Lord Rayleigh (Rayleigh, 1907). En este trabajo se presenta una teoría todavía vigente (conocida hoy como <em>teoría duplex</em>), en la cual se postula que el ILD es el principal indicio que utilizamos para la ubicación espacial (en acimut) de sonidos de frecuencias altas mientras que el ITD es el principal indicio para la ubicación espacial de sonidos de frecuencias bajas. Rayleigh observó que, las variaciones inducidas del ILD producían en los oyentes la ilusión de que la fuente sonora cambiaba de posición en acimut. En estas condiciones bastaba producir variaciones del ILD de solo 1-2 dB para que los sujetos reporten variaciones en la ubicación de la fuente en acimuth. Rayleigh observó que la imagen auditiva va lateralizándose cuando los valores de ILD aumentan. Cuando la diferencia de intensidades era de alrededor de 15 dB los sujetos reportaban la posición aparente del sonido hacia una posición de acimut cercana a 90º. Sin embargo, cuando el estímulo utilizado era un tono puro de baja frecuencia (&lt; a 1.3 kHz) los sujetos no eran capaces de reconocer la ubicación la fuente sonora y percibían el origen del sonido en una ubicación de acimuth cercana a 0º independientemente de los valores de ILD. Como acabamos de ver, la sombra acústica responsable del ILD es producida principalmente por la absorción y reflexión del sonido producida cuando éste choca con la cabeza del oyente. La magnitud del ILD depende, además de las dimensiones de la cabeza del oyente, de la longitud de onda del sonido. Rayleigh explica que el hecho de que los tonos de baja frecuencia no provoquen ILD se debe a que cuando la longitud de onda de la señal es igual o mayor que el diámetro de la cabeza ésta no es capaz de reflejar el sonido y, por ende, no produce ningún tipo de atenuación en la intensidad del mismo por lo que el ILD tiene valores cercanos a cero. En la década del 70, estudios realizados con micrófonos binaurales colocados dentro del canal auditivo, en una posición cercana a la membrana timpánica, permitieron medir las diferencias en la intensidad del sonido en cada oído en función de la ubicación de la fuente, la frecuencia de la señal y el tamaño de la cabeza (Harrison y Downey, 1970). Estos experimentos, confirmando lo propuesto por Rayleigh en la teoría duplex, demostraron que el ILD es efectivo para las señales con longitudes de onda que son mayores que el diámetro de la cabeza del oyente y, además, que el ILD aumenta cuanto más chica es la longitud de onda de la señal. Sus resultados nos muestran como, en los seres humanos, los estímulos de frecuencias bajas (por ejemplo, 500 Hz) producen un ILD muy pequeño (cercano a 0 dB) mientras que los estímulos de frecuencias elevadas (por ejemplo, 8 kHz) producen valores de ILD superiores a 20 dB. De este modo se demostró que el rango de frecuencias en donde el ILD es efectivo es dependiente de la frecuencia del sonido y del tamaño de la cabeza del oyente. Sabemos entonces que el ILD es el indicio que nos permite ubicar en el plano horizontal el ángulo de incidencia de los sonidos con frecuencias mayores a 1,5 kHz. Sin embargo, no solamente somos capaces de ubicar la procedencia de sonidos de alta frecuencia sino que podemos detectar la ubicación, en acimut, de sonidos a lo ancho de todo el espectro de frecuencias audible. ¿Cómo detectamos entonces la procedencia de sonidos de baja frecuencia en donde el ILD deja de ser efectivo? Rayleigh observó que el único indicio que podía ayudar a ubicar un sonido de baja frecuencia en el plano horizontal era la diferencia temporal con que el sonido llega a cada oído (es decir, el ITD) cuando éste proviene desde un acimut diferente de 0º. Rayleigh dio cuenta además de que la diferencia temporal en la llegada de una señal de baja frecuencia a los oídos haría que cada uno de estos reciba la señal en diferentes partes de la fase de la onda auditiva. Esta diferencia se conoce como diferencia interaural de fase (IPD) y refiere a la diferencia en la fase de la onda que arriba al oído, la cual es dependiente de la frecuencia de la señal sonora y de la ITD. Por ejemplo, si tuviéramos un tono a 1000 Hz que llega al oído izquierdo 0.5 ms después que al oído derecho tendríamos una diferencia de fase 180º entre ambos oídos. La IPD es muy útil cuando el oído tiene la capacidad de detectar diferencias menores a 3º. Rayleigh confirmó la sensibilidad de los oyentes al ITD y al IPD en una serie de experimentos muy ingeniosos, en los cuales utilizó un complicado mecanismo que activaba un par de diapasones intercambiables lo cual le permitía estimular cada oído con diferentes retardos temporales y con diferentes retardos en la fase de la onda sonora. Estos experimentos demostraron que, para tonos puros de frecuencias menores a 1 kHz, el ITD es muy efectivo para detectar la procedencia angular de sonidos en el plano horizontal. Sin embargo, cuando la frecuencia del estímulo es aumentada por encima de 1.3 kHz el ITD se hace menos efectivo y los sujetos empiezan a tener problemas para reconocer la procedencia del sonido (la imagen auditiva tiende a moverse hacia el centro de la cabeza) para perderla totalmente cuando la señal alcanza valores de frecuencia mayores a 1.6 kHz. La <em>teoría dúplex</em> de la localización binaural de sonidos en el plano horizontal ha sido confirmada por numerosos estudios psicofísicos y fisiológicos. Sin embargo hay un punto importante a tener en cuenta. En los experimentos de Rayleigh los estímulos utilizados eran tonos puros. Sin embargo, en la naturaleza la mayoría de los sonidos que escuchamos son espectralmente complejos y rara vez estamos expuestos estímulos sinusoidales puros. Hoy sabemos que el ITD también puede ser un indicio efectivo para estimar la procedencia de sonidos de frecuencias mayores a 1 kHz cuando estos son espectralmente complejos. Varios estudios psicofísicos demostraron que la sensibilidad al ITD de los seres humanos para ruidos de banda angosta de alta frecuencia es similar a la observada con tonos puros de baja frecuencia (Leakey et al. 1958). Con este tipo de estímulos, una persona puede reconocer cambios en la ubicación de la fuente sonora con una efectividad similar a la reportada con tonos puros de baja frecuencia. Resultados similares fueron obtenidos utilizando estímulos formados por una sinusoide de alta frecuencia con su amplitud modulada a frecuencias bajas. Por ejemplo, una persona puede detectar cambios en el ITD para una sinusoide de 4 kHz si su amplitud es modulada con una frecuencia de 200Hz . Sin embargo, si los espectros de los estímulos son cuidadosamente limitados a las frecuencias altas y sólo se utilizan los retardos interaurales como indicio, el umbral del ITD de los estímulos complejos es de 2 a 10 veces mayor que el obtenido con estímulos de baja frecuencia. Es decir, los oyentes son menos sensibles a cambios en el ITD para estímulos espectralmente complejos de alta frecuencia que para estímulos de baja frecuencia. El rango de valores que puede alcanzar el ITD depende principalmente de dos factores: la velocidad del sonido y la distancia entre ambos oídos. En humanos, donde la velocidad del sonido es de 343 m/s; el sonido tardará 29 [µs] por cada cm adicional que tenga que viajar hasta el otro oído. Por ejemplo, con una distancia interaural de alrededor de 20 cm, tiene un ITD máximo cercano a 700 [µ]s. Aunque estos valores temporales son diminutos, el ser humano puede discriminar ITDs muchísimo menores con valores que oscilan entre 10 y 20 [µ]s.</p>
+</section>
+<section id="localización-vertical-de-fuentes-sonoras" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="localización-vertical-de-fuentes-sonoras"><span class="header-section-number">2.3</span> Localización vertical de fuentes sonoras</h2>
+<p>Además de localizar fuentes sonoras en el plano horizontal de manera eficaz, los seres humanos también podemos percibir el ángulo de incidencia del sonido en el plano vertical con cierta precisión. Se habla de elevación cuando el sonido proviene con un ángulo de incidencia diferente de cero en el eje vertical (Blauert, 1997). Al igual que en acimut, el umbral de discriminación en elevación se mide mediante el MAA, que indica la mínima diferencia angular perceptible entre dos posiciones de una fuente sonora en el plano vertical. Algunos estudios han mostrado que los umbrales de MAA obtenidos mediante cambios en la elevación de una fuente sonora son generalmente de dos a cuatro veces más grandes que los observados en el plano horizontal (Wettschurek, 1973; Morrongiello y Rocca, 1987). Por ejemplo, Perrot y Saberi (1989) reportaron un MAA en elevación de 3.6º, utilizando ruido blanco como estímulo. Makous y Middlebrooks (1989) reportaron un error en la percepción de una fuente sonora de 3.5º cuando la fuente se encontraba al frente y al centro del oyente, el cual aumentaba gradualmente cuando la elevación de la fuente se incrementaba (máximo 20º). En este estudio también se reportó que cuando la fuente se encontraba en posiciones que combinaban acimut y elevación, los errores podían llegar como máximo a los 15º, mostrando una mejoría en la precisión cuando la información de ambos planos está disponible.</p>
+<p>Como vimos, las diferencias interaurales de tiempo e intensidad que brindan las pistas utilizadas para la localización de fuentes sonoras en acimut son puramente binaurales (Blauert, 1997; Sodnik et al., 2004). En cuanto a la elevación, existen varios estudios que indican que los humanos utilizan pistas monoaurales del dominio frecuencial para realizar estas localizaciones (Garas, 2000). Mediante la reflexión y difracción de los sonidos en nuestro cuerpo, cabeza y oído externo, se proveen las principales pistas para la localización vertical (Algazi et al., 2001; Bloom, 1977).</p>
+<p>Según Makous y Middlebrooks (1989), cuando una fuente sonora se encuentra en una posición que combina posiciones de acimut y elevación, el sistema auditivo es capaz de combinar información de diferentes clases de pistas para sintetizar una imagen espacial unitaria. Gracias a los avances tecnológicos con respecto a los sistemas de captura, fue posible el desarrollo de micrófonos lo suficientemente pequeños como para ser introducidos dentro del canal auditivo. De esta manera fue posible obtener la Función de Transferencia Relativa a la Cabeza, mejor conocida como HRTF (del inglés, <em>Head Related Transfer Function</em>), la cual permite observar las variaciones en el espectro que se producen en los sonidos que chocan contra el torso, cabeza y pinna de un oyente (Rakerd et al., 1999; Searle et al., 1975; Middlebrooks, 1999; Shaw, 1966; Hebrank y Wright, 1974; Wightman y Kistler, 1989). Estas mediciones tienen la particularidad de capturar las características espectrales afectadas por la dirección con que llegan los sonidos y, por lo tanto, poder determinar cuáles son los cambios espectrales que se producen al variar la elevación de una fuente sonora. Según Middlebrooks (1999) se puede obtener las HRTF de forma efectiva mediante la utilización de sonidos de banda ancha, para tener información en el mayor rango de frecuencias posibles, reproducidos en campo libre (o cámara anecoica), para que el sonido no sea afectado por ningún tipo de reflexiones, y capturado mediante pequeños micrófonos con una respuesta en frecuencia plana, ubicados dentro o en la entrada del canal auditivo.</p>
+<p>Mediante experimentos psicofísicos y grabaciones de HRTF se ha determinado que las señales que son filtradas por el cuerpo, la cabeza y la pinna presentan picos y valles en diferentes lugares del espectro. Estos picos y valles, producidos por la interferencia constructiva y destructiva de nuestra fisonomía, contiene información relacionada con la elevación de una fuente sonora, siendo esta información la que hace posible estimar la elevación de la misma (Shimoda et al., 2007).</p>
+</section>
+<section id="información-provista-por-la-pinna" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="información-provista-por-la-pinna"><span class="header-section-number">2.4</span> Información provista por la pinna</h2>
+<p>La pinna ha sido objeto de estudio desde el siglo XIX, aunque a mediados del siglo pasado se han desarrollado los estudios más abarcativos sobre la utilidad de la misma en la localización de fuentes sonoras en el plano medio sagital, específicamente en la localización vertical. Mach (1874), Raleigh (1876) y Steinhauser (1879) han reportado varias consideraciones sobre la pinna. Mach conjeturó que la forma de la misma podría ser importante en la localización de las fuentes sonoras y fue uno de los primeros en detectar cambios en la calidad del sonido cuando se producían cambios en la orientación de la fuente sonora que se estaba escuchando. Según Mach, dichos cambios se debían a la transformación que recibían por parte de la pinna. Steinhauser, indicó que la construcción de la pinna del oído humano era similar a un cono que colecta los sonidos de las diferentes posiciones y que a la vez funcionaba como un reflector de determinados sonidos.</p>
+<p>Ya en el siglo XX, Batteau (1967) reportó que la pinna podía funcionar como un transformador acústico esencial para la localización de las fuentes sonoras, reforzando esta teoría mediante la producción de un modelo matemático. Rofler y Butler (1968) han indicado que si bien el oído externo había sido considerado por mucho tiempo un órgano vestigial, en un trabajo de Jonkees y Groen (1946) se reportó que la localización en el plano vertical sería imposible sin éste. Para reforzar esta hipótesis, Fisher y Fredman (1968) y Gardner y Gardner (1973), realizaron experimentos cubriendo las circunvoluciones de la pinna, reportando que la habilidad de los oyentes para localizar sonidos en el plano medio y en elevación se reducía. Diversos estudios han reportado que la pinna influye sobre sonidos que poseen un contenido espectral por encima de los 3-4 kHz, debido a que estas frecuencias poseen una longitud de onda semejante a las cavidades que presenta el oído externo humano (Chum y Kim, 2011; Hofman et al., 1998; Bronkhorst, 1995). Algazi et al.&nbsp;(2001) reportaron que uno de los efectos más característicos de la pinna sobre el espectro es el que se denomina “<em>muesca de la pinna</em>” (del inglés, “pinna notch”), la cual aparece dentro de la octava entre 6 y 12Khz. Hoffman et al.&nbsp;(1999) se basan en estas características para apoyar la creencia de que para que una fuente sonora pueda ser bien localizada en el eje vertical debe tener energía en la zona sobreaguda del espectro.</p>
+<p>Searle et al.&nbsp;(1975) y Butler y Belendiuk, (1977) han medido la respuesta en frecuencia del oído externo para diferentes ángulos de incidencia en el plano sagital. Estos han mostrado que por encima de los 5 kHz aparecen sucesivos picos y valles muy selectivos en la respuesta en frecuencia. También han observado que la posición de estos picos y valles espectrales cambia cuando el ángulo vertical de la fuente sonora se incrementa. Esta revisión de los estudios sobre el efecto de la pinna en el espectro de una fuente sonora muestra que ésta tiene influencia sobre el espectro de frecuencias por encima de los 3-4 kHz, por lo que para realizar una correcta localización de estos sonidos es necesario que los estímulos contengan energía en las frecuencias por encima de estos valores.</p>
+</section>
+<section id="información-provista-por-el-torso" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="información-provista-por-el-torso"><span class="header-section-number">2.5</span> Información provista por el torso</h2>
+<p>La información que el torso aporta a la percepción de fuentes sonoras en el plano vertical no fue estudiada hasta mediados del siglo XX. El torso y la cabeza perturban el espectro de frecuencias por debajo de los 3Khz (Hanson, 1944). Sin embargo se ha reportado que estos cambios tienen un efecto leve sobre la localización angular en el plano vertical y los resultados obtenidos generan información confusa. El efecto del torso en la localización vertical ha sido estudiado sistemáticamente por Gardner y Gardner (1973), quienes midieron las HRTF de un maniquí con y sin pinna, concluyendo que esta no tenía influencia por debajo de los 3.5 Khz, pero que el torso introducía importantes modificaciones en el espectro de frecuencias entre los 700Hz y los 3.5Khz, las cuales consideraron “<em>pistas secundarias</em>”.</p>
+<p>Kuhn (1987) realizó grabaciones binaurales con un maniquí (combinando condiciones con torso, sin torso, con pinna y sin pinna) reportando que observó variaciones por debajo de los 2 kHz en las condiciones sin pinna. Kuhn también observó que el filtrado debido al torso presentó forma de filtro peine (del inglés, “<em>comb filter</em>”), introduciendo muescas periódicas en frecuencias por debajo de los 3 kHz. La ubicación de estas muescas produce un patrón que varía directamente con la elevación de la fuente. Por otro lado, Searle et al.&nbsp;(1975) identificó seis pistas de localización en su modelo estadístico de la localización auditiva humana, y utilizó los datos de Gardner y Gardner (1973) para estimar la varianza proveniente de las reflexiones del torso o “el rebote en el hombro” (del inglés, “<em>shoulder bounce</em>”), concluyendo que el rebote en los hombros es la pista más débil en la percepción de la elevación.</p>
+</section>
+<section id="referencias-bibliográficas" class="level2" data-number="2.6">
+<h2 data-number="2.6" class="anchored" data-anchor-id="referencias-bibliográficas"><span class="header-section-number">2.6</span> Referencias bibliográficas</h2>
+<p>Algazi V. R., Avendano C. y Duda, R.O. Elevation localization y head-related transfer function analysis at low frequencies. AA. J. Acoust. Soc. Am., 109 (3), 1110–1122 (2001).</p>
+<p>Basso, G. <em>Percepción Auditiva</em>. Ed. de la Universidad Nacional de Quilmes, Quilmes, Argentina (2006).</p>
+<p>Batteau, D.W. The Role of the Pinna in Human Localization. Proc. R. Soc. Lond., 168 158–180 (1967).</p>
+<p>Blauert, J. <em>Spatial hearing</em>. The psychophysics of human sound localization. Massachusetts, USA (1997).</p>
+<p>Bloom, P. J. Determination of monaural sensitivity changes due to the pinna by use of minimum- audible-field measurements in the lateral vertical plane. AA. J. Acoust. Soc. Am., 61(3) 820–828 (1997).</p>
+<p>Bronkhorst, A. W. Localization of real and virtual sound sources. AA. J. Acoust. Soc. Am., 98(5) 2542–2553 (1995).</p>
+<p>Butler, R.A. y Belendiuk, K. Spectral cues utilized in the localization of sound in the median sagittal plane. AA. J. Acoust. Soc. Am., 61(5), 1264–1269 (1977).</p>
+<p>Chum, C. J. y Kim, H. K. Sound Source Elevation Using Spectral Notch Filtering and Directional Band Boosting in Stereo Loudspeaker Reproduction. Consumer Electronics, IEEE Transactions on, 57(4), 1915–1920 (2011).</p>
+<p>Fisher, H. G. y Freedman, S. J. The role of the pinna in auditory localization. J. Aud. Res., 8, 15–26 (1968).</p>
+<p>Garas, J. <em>Adaptive 3D sound systems</em>. Springer, 2000.</p>
+<p>Gardner, M.B. y Gardner, R.S. Problem of localization in the median plane: effects of pinnae cavity occlusion. AA. J. Acoust. Soc. Am. 53, 400–408 (1973).</p>
+<p>Hanson, W. W. The baffle effect of the human body on the response of a hearing aid. AA. J. Acoust. Soc. Am. 16, 60–62 (1944).</p>
+<p>Harrison, J. M. y Downey, P. Intensity changes at the ear as a function of the azimuth of a tone source: a comparative study. J. Acoust. Soc. Am. 47, 1509–1518 (1970).</p>
+<p>Hebrank, J. y Wright, D. Spectral cues used in the localization of sound sources on the median plane. J. Acoust. Soc. Am., 56(6), 1829–1834 (1974).</p>
+<p>Hofman P.M., Van Riswick J.G.A y Van Opstal A. J. Relearning sound localization with new ears. AA. Nature Neuroscience 1(5), 417–421 (1974).</p>
+<p>Jongkees, L. W. B. y Groen, J.J. On Directional hearing. AA. J. Laryngol. Otol. 61, 494–504 (1946).</p>
+<p>Kuhn, G.F. Physical acoustics and measurements pertaining to directional hearing. AA. En Directional Hearing, editado por W. A. Yost y G. Gourevitch (Springer-Verlag, New York), 3–21 (1987).</p>
+<p>Leakey, D. M. y Sayers, B. M. Binaural Fusion of Low and High Frequency Sounds, ASA (1958).</p>
+<p>Mach, E.: Archiv fur Ohrenheilkunde, 7(2), 14–26 (1874).</p>
+<p>Makous, J.C. y Middlebrooks, J.C. Two-dimensional sound localization by human listeners. AA. J. Acoust. Soc. Am. 87(5), 2188–2200 (1989).</p>
+<p>Makous, J.C. y Middlebrooks, J.C. Two-dimensional sound localization by human listeners. AA. J. Acoust. Soc. Am. 87(5), 2188–2200 (1990).</p>
+<p>Middlebrooks, J.C. Virtual localization improved by scaling non individualized external-ear transfer functions in frequency. AA. J. Acoust. Soc. Am. 106(3) 1493–1510 (1999).</p>
+<p>Mills, A. W. On the minimum audible angle. J. Acoust. Soc. Am. 30, 237-246. (1958).</p>
+<p>Perrot, D. R. y Saberi, K. Minimum audible angle thresholds for sources varying in both elevation and azimuth. J. Acoust. Soc. Am. 87(4), 1728–1731 (1989).</p>
+<p>Rakerd B., Hartmann A. M. y Mc Caskey, T. L. Identification and localization of sound sources in the median sagittal plane. AA. J. Acoust. Soc. Am. 106(5), 2812–2820 (1999).</p>
+<p>Raleigh, L.: On Waves. AA. Phil. Mag., 1, 257–279 (1876).</p>
+<p>Rayleigh, L. On our perception of sound direction. Philosophical Magazine 13, 6º serie, 214-232 (1907).</p>
+<p>Rofler, S.K. y Butler, R.A.: Factors That Influence the Localization of Sound in the Vertical Plane. J. Acoust. Soc. Am. 43(6), 1255–1259 (1968).</p>
+<p>Searle C.L., Cuddy C.R., Braida L. D. y Davis M. F. Binaural pinna disparity: another auditory localization cue. AA. J. Acoust. Soc. Am. 57(2), 448–455 (1990).</p>
+<p>Searle C.L., Cuddy C.R., Braida L.D. y M.F., Davis. Binaural pinna disparity: another auditory localization cue. AA. J. Acoust. Soc. Am. 57(2), 448–455. (1975).</p>
+<p>Shaw, E.A.G. Ear canal pressure generated by a free sound field. AA. J. Acoust. Soc. Am. 39, 465–470 (1966).</p>
+<p>Shimoda T., Kumon M. Kohzawa R. Mizumoto I., Nakashima T. y Z., Iwai: Sound Localization of Elevation using Pinnae for Auditory Robots. En Robust Speech Recognition and Understanding, I-Tech Education and Publishing, 421–438 (2007).</p>
+<p>Sodnik J., Bobojevic G., Susnik R. y Tomazic, S. The directional resolution of virtual sound sources in humans. AA. Electrotechnical Review, 71(3) 121–127 (2004).</p>
+<p>Steinhauser, A. Phenomenom of binaural audition. AA. Phil. Mag., 7(5) 181–261 (1879).</p>
+<p>Stevens, S. S. y Newman, E. B. The localization of actual sources of sound. American Journal of Psychology 48, 297-306 (1936).</p>
+<p>Wettschurek, R. G. The absolute difference limen of directional perception in the median plane under conditions of both, natural hearing and hearing with artificial-head-system. Acustica 28(4), 197–208 (1973).</p>
+<p>Wightman, F. L. y Kistler, D. J. Headphone simulation of free-field listening. I: Stimulus synthesis. J. Acoust. Soc. Am. 85(2), 1829–1834 (1984).</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation column-body">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapters/01-introduccion.html" class="pagination-link" aria-label="Introducción">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introducción</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapters/03-revision-pad.html" class="pagination-link" aria-label="Revisión de los aspectos más relevantes en el estudio de la percepción auditiva de distancia">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Revisión de los aspectos más relevantes en el estudio de la percepción auditiva de distancia</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Dr. Ezequiel Abregú
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>

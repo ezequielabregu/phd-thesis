@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.31">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>5&nbsp; Percepción visual de distancia – Percepción de Distancia Aplicada a la Composición Sonora</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/06-multisensorial.html" rel="next">
+<link href="../chapters/04-distancia-musica.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-3a5bcc442b918f51924187d76e78c8e5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-cf245d7be09ffeafdb352d8b8bd5aa1e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-3a5bcc442b918f51924187d76e78c8e5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/05-pvd.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Percepción visual de distancia</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Percepción de Distancia Aplicada a la Composición Sonora</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://ridaa.unq.edu.ar/handle/20.500.11807/837" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-filetype-pdf"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><br></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/01-introduccion.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introducción</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/02-sistema-auditivo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">El sistema auditivo como procesador espacial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/03-revision-pad.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Revisión de los aspectos más relevantes en el estudio de la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/04-distancia-musica.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">La distancia como dimensión estructural en la música</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/05-pvd.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Percepción visual de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/06-multisensorial.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">El proceso multisensorial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/07-rol-pad.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">El rol de la visión en la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/08-metodo-respuesta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Evaluación del método de respuesta de localización directa para medir la percepción auditiva de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/09-contexto-pvd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">El contexto ambiental auditivo afecta la percepción visual de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/10-ciencia-arte.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Interdisciplina entre ciencia y arte</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/11-entrevistas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Entrevistas sobre el uso del espacio sonoro y la percepción de distancia</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/12-conclusiones.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Conclusiones finales</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/13-anexos.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Anexos</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Índice</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción"><span class="header-section-number">5.1</span> Introducción</a></li>
+  <li><a href="#pistas-pictoriales" id="toc-pistas-pictoriales" class="nav-link" data-scroll-target="#pistas-pictoriales"><span class="header-section-number">5.2</span> Pistas pictoriales</a></li>
+  <li><a href="#pistas-no-pictoriales" id="toc-pistas-no-pictoriales" class="nav-link" data-scroll-target="#pistas-no-pictoriales"><span class="header-section-number">5.3</span> Pistas no pictoriales</a></li>
+  <li><a href="#influencia-del-contexto" id="toc-influencia-del-contexto" class="nav-link" data-scroll-target="#influencia-del-contexto"><span class="header-section-number">5.4</span> Influencia del contexto</a></li>
+  <li><a href="#métodos-de-medición-y-performance-de-la-pvd" id="toc-métodos-de-medición-y-performance-de-la-pvd" class="nav-link" data-scroll-target="#métodos-de-medición-y-performance-de-la-pvd"><span class="header-section-number">5.5</span> Métodos de medición y performance de la PVD</a></li>
+  <li><a href="#referencias-bibliográficas" id="toc-referencias-bibliográficas" class="nav-link" data-scroll-target="#referencias-bibliográficas"><span class="header-section-number">5.6</span> Referencias bibliográficas</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content column-body" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Percepción visual de distancia</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-body">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introducción" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="introducción"><span class="header-section-number">5.1</span> Introducción</h2>
+<p>Una de las funciones claves de la modalidad visual es proveer una representación estable y significativa del entorno. Esta no es una tarea trivial, ya que la entrada de información sensorial en ocasiones no es clara, presentando ambigüedades y quedando abierta a múltiples interpretaciones. El advenimiento de la electricidad nos ha permitido observar nuestro entorno incluso en la oscuridad. Las nuevas tecnologías nos han hecho depender en gran medida de las imágenes y el texto para la comunicación y el entretenimiento. Esta tendencia de concentrar nuestra atención en base al uso de canales visuales ha llegado a ser incluso más pronunciado en las últimas décadas.</p>
+<p>Paralelamente, una extensiva literatura experimental ha demostrado que el espacio visual percibido también es propenso tanto a errores variables como sistemáticos, como ha sido descrito en varias revisiones (Suppes et al., 1989; Cutting y Vishton, 1995). Históricamente, el espacio visual ha sido considerado como una estructura abstracta independiente de su contenido. En varios estudios el contexto del entorno fue considerado como irrelevante o una fuente de pistas indirectas de tamaño y distancia. Para eliminar los efectos del entorno no deseados, los experimentadores en ocasiones presentaron sólo algunos puntos de luz en una sala a oscuras (Suppes, 1989). Sin embargo, la concepción de que el espacio visual es un contexto invariante podría no ser del todo cierto. Por ejemplo, Indow (1991) y Suppes (1995) han concluído que el espacio visual es dependiente del contexto. Además, estudios reciente evidencian que la profundidad visual puede ser modulada y afectada por el plano del suelo. Sinai et al.&nbsp;(1998) demostraron que la distancia percibida fue reducida por las discontinuidades del plano del suelo por un brecha espacial o un cambio textural. Wu et al.&nbsp;(2004) variaron el área y la localización de regiones visibles del plano del suelo y concluyeron que si la percepción de distancia depende del plano del suelo, quizás pueda estar influenciada también por otras superficies visibles.</p>
+<p>Por otro lado, varios estudios muestran una diversidad de resultados sobre el campo perceptivo audiovisual, como puede ser el caso del estudio de la percepción de distancia egocéntrica (o sea, la distancia percibida por un observador hacia un objeto sonoro). Algunos estudios han mostrado que las distancias pueden ser percibidas tanto de forma exacta (con un pequeño error sistemático) como precisa (con poca variabilidad). Por ejemplo, en un estudio de Reiser et al.&nbsp;(1990) los participantes vieron claves visuales de 2 a 22 m de distancia en campo abierto y luego caminaron cegados hasta la localización de la clave visual. El error constante promedio fue solo del 2%, independientemente de la distancia. Otro caso paradigmático se da con el método de caminar cegado (del inglés <em>“blindfolded”</em>) a claves previamente vistas hasta 10 metros, en donde usualmente la estimación de distancia presenta un error muy pequeño (Rieser, 1990; Rieser, 1995; Rieser 2004).</p>
+<p>La Percepción Visual de Distancia (PVD) es la habilidad de percibir el entorno en tres dimensiones (3D) y la posición relativa de los objetos en dicho entorno (Watson y Enns, 2012). La PVD permite la interacción y exploración del entorno, además de brindarnos información acerca de los objetos y superficies que están más distantes.</p>
+<p>La PVD es compleja y aún no ha sido comprendida completamente. El proceso comienza cuando la luz reflejada de un objeto ubicado en el entorno llega al ojo por la pupila, es curvado cuando pasa a través de la córnea y el cristalino, alcanzando luego la retina. El resultado es una imágen de dos dimensiones invertida sobre la retina, la cual sólo puede ser percibida en color y alta resolución en la pequeña área foveal ([área de la retina donde se enfocan los rayos luminosos y se encuentra especialmente capacitada para la visión del color)]. Teniendo en cuenta este proceso, ¿cómo es posible percibir el espacio en tres dimensiones y la distancia de los objetos a partir de esta imagen?</p>
+<p>Con el objetivo de comprender cuales son los mecanismos de la PVD, a continuación revisaremos cuáles son las principales pistas visuales involucradas. También se revisarán los métodos de medición de PVD en entornos reales. De esta manera, este estudio nos ayudará luego a comprender la relación crossmodal existente entre la PVD y la PAD, la cual se abordará en el siguiente capítulo.</p>
+</section>
+<section id="pistas-pictoriales" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="pistas-pictoriales"><span class="header-section-number">5.2</span> Pistas pictoriales</h2>
+<p>Las pistas contenidas en una escena sin movimiento como una imagen son llamadas pictoriales (Goldstein, 2007). Podemos nombrar cinco de ellas: oclusión, tamaño relativo, densidad relativa, altura en el campo visual y perspectiva aérea (Cutting et al., 1995).</p>
+<p>En el primer caso, si un objeto es parcialmente ocluido por otro, es visto como más lejano que el objeto ocluyente. Naturalmente, la oclusión sólo indica distancia relativa (no absoluta), pero es efectiva sobre el rango total de distancias percibidas. El tamaño relativo describe que cuanto más lejano está un objeto, más pequeño es la imagen retinal. De forma similar, grupos de objetos tienen una densidad retinal alta cuando se muestran lejanos. Por otra parte, el tamaño relativo puede brindar información de distancia absoluta si el tamaño del objeto es conocido y es útil a la hora de estimar distancias en el rango percibible. El tamaño relativo y la densidad relativa también explican la utilidad de la textura del suelo para la percepción de distancia, la cual fue estudiada por Gibson (1950) a mediados del siglo XX. Más recientemente, He et al.&nbsp;(2004) y Wu et al.&nbsp;(2004) demostraron que una amplia expansión de suelo contínuo y texturado de forma homogénea ayuda a la percepción de distancia verídica.</p>
+<p>La pista de PVD de altura sugiere que tanto el observador como el objeto están sobre el plano del suelo, la distancia al objeto puede ser computada como una función de la altura del ojo del observador y el ángulo entre la línea de visión hacia el horizonte y la línea de visión al objeto (Rand et al., 2011).</p>
+<p>Finalmente, la perspectiva aérea (o perspectiva atmosférica) describe que un objeto en la distancia es más azulado y de bajo contraste. Esta pista de PVD sólo provee información de distancia relativa y su rango de efectividad varía con las condiciones del clima.</p>
+</section>
+<section id="pistas-no-pictoriales" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="pistas-no-pictoriales"><span class="header-section-number">5.3</span> Pistas no pictoriales</h2>
+<p>En oposición a las pistas de distancia pictoriales, existen las pistas no-pictoriales que brindan información importante para la percepción de distancia. Estas pistas derivan del movimiento del sistema oculomotor (convergencia y acomodación) y del factor de que los humanos tenemos dos ojos (disparidad binocular). Cuando los observadores se mueven, la imagen retinal de los objetos estacionarios también se mueven, y mientras más alejados estén los objetos más lento será dicho movimiento. Esto es llamado paralaje de movimiento (<em>motion parallax</em>) y es importante para distancia cortas, pero su efectividad se reduce para objetos distantes (Cutting y Vishton, 1995).</p>
+<p>A medida que los ojos se mueven hacia adentro para mirar objetos cercanos, el ángulo entre los ejes ópticos de los ojos disminuye, lo que se llama convergencia. El cambio en la curvatura del cristalino del ojo permitiendo focalizar un objeto a varias distancias es llamado acomodación. Convergencia y acomodación están naturalmente vinculados pero son señales disociables. El sistema visual obtiene información de los músculos que controlan la convergencia y acomodación, que luego pueden servir como pistas de distancia. Asumiendo el conocimiento o familiaridad respecto al objeto, la distancia interpupilaria (IPD), estas pistas combinadas son pistas de distancia muy efectivas hasta 3 metros (Cutting y Vishton, 1995) y con la convergencia comienza a ser más efectiva a los dos metros. Ya que el ojo ve el entorno desde diferentes posiciones, la imágen sobre la retina difiere levemente. La diferencia en la imágen en el ojo izquierdo y el ojo derecho es llamado disparidad binocular. Aunque su efectividad es mayor en el campo cercano (disminuyendo linealmente con la distancia) es considerada como una pista de distancia importante.</p>
+</section>
+<section id="influencia-del-contexto" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="influencia-del-contexto"><span class="header-section-number">5.4</span> Influencia del contexto</h2>
+<p>Mientras la investigación sobre las pistas de PVD han tenido una larga tradición, estudios recientes sugieren que la PVD podría no sólo estar influenciada por la disponibilidad o confiabilidad de las pistas de distancia, sino también por la influencia del entorno. Podríamos inferir que, teniendo pistas de distancia lo suficientemente claras, todos los otros aspectos del entorno deberían ser irrelevantes para la percepción de distancia. Sin embargo, estudios recientes ponen en duda que el entorno no influya sobre la PVD. Los resultados de Lappin et al.&nbsp;(2006) mostraron que la precisión de la distancia estimada fue diferente utilizando tres diferentes tipos de entornos (un lobby, un pasillo y un lugar abierto con césped) a pesar de que todos los lugares poseían múltiples pistas de profundidad. Witt et al.&nbsp;(2007) realizó cinco experimentos en espacios abiertos y cerrados, manteniendo una distancia constante entre el participante y el target. El resultado indica que el espacio más allá del target, a pesar de no aportar pistas de distancia relevantes, puede influenciar considerablemente la distancia percibida.</p>
+</section>
+<section id="métodos-de-medición-y-performance-de-la-pvd" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="métodos-de-medición-y-performance-de-la-pvd"><span class="header-section-number">5.5</span> Métodos de medición y performance de la PVD</h2>
+<p>Para determinar que tan buenos somos los humanos para percibir la distancia egocéntrica se han ido desarrollado una variedad de métodos de medición. En general, hay tres categorías principales de medición que podemos mencionar: reporte verbal, combinación perceptual (<em>perceptual matching</em>) y acción directa visual (<em>visual direct action</em>). El <em>reporte verbal</em> es el método de medición más tradicional y común. Aquí, los participantes reportan verbalmente su estimación de distancia en una unidad de medida familiar o como un múltiplo de un grado dado (Loomis y Andknapp, 2003). La ventaja obvia del reporte verbal es la sencillez y conveniente manera de medición. La desventaja de este método se da por la posible inclusión de influencias cognitivas. Por ejemplo, el reporte verbal no sólo es dirigida por la percepción sino también por el conocimiento previo. Esto podría desviar la medición del proceso perceptual.</p>
+<p>Otro método de medición es la <em>combinación perceptual</em>, en donde los participantes son instruidos para estimar la distancia o el tamaño de un objeto en comparación con la distancia o tamaño de una objeto de referencia. A pesar de que este método está menos influenciado por factores cognitivos también las distancias tienden a ser levemente subestimadas (Loomis y Philbeck, 2008).</p>
+<p>Finalmente, el <em>método de acción</em> directa, el cual es relativamente nuevo, representa una nueva categoría de método de medición para la PVD. Aquí, los participantes ven una objeto a la distancia, luego con cegados (utilizando antifaces) para después realizar algún tipo de acción para estimar la distancia al objeto. La acción más utilizada es caminar hasta la distancia a la que se percibiò el objeto. Las estimaciones con éste método son bastante buenas sin errores sistemáticos hasta los 25 m (Loomis y Andknapp, 2003). Sin embargo, esta precisión depende de diversos factores como por ejemplo de la velocidad del caminar: si los participantes son instruídos en caminar más rápido que lo normal, la precisión empeora (Riesser, 1990). Los participantes podrían usar una simple estrategia como, por ejemplo, el cálculo de pasos necesarios para alcanzar un objetivo, los cuales podrían ser influenciados no solo por la percepción sino también por factores cognitivos. Para evitar esto, se desarrolló la tarea de triangulación: luego de ver el objeto, se les pide a los participantes rotar en un ángulo específico y luego caminar cegado por una distancia corta y fija. A partir del ángulo indicado en dirección del target, visto previamente, se puede calcular la distancia percibida. El método de caminar a ciegas de forma triangulada es considerablemente buena hasta distancias de al menos 20 metros, a pesar de que existe mayor variabilidad que la estimación obtenida mediante la caminata a ciegas sin triangulación (Loomis y Philbeck, 2008).</p>
+<p>Es importante notar que hay una distinción entre extensión percibida y localización percibida (Witt et al., 2007). O sea, algunos métodos de medición podrían, estrictamente hablando, medir la localización percibida, pero no necesariamente la extensión percibida. Por ejemplo, Witt et al.&nbsp;(2007) han mostrado que los resultados pueden diferir entre pedirle a los participantes caminar cegados hasta una distancia para percibir localización del objeto y pedirles que caminen hasta una distancia determinada.</p>
+<p>En resumen, la distancia estimada varía de acuerdo al método de medida utilizado. Sin embargo, en términos generales, los resultados mostraron que los humanos son buenos en percibir distancias en entornos reales por lo menos hasta 20 metros.</p>
+</section>
+<section id="referencias-bibliográficas" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="referencias-bibliográficas"><span class="header-section-number">5.6</span> Referencias bibliográficas</h2>
+<p>Cutting, J. E., y Vishton, P. M. Perceiving layout and knowing distances: The integration, relative potency, and contextual use of different information about depth. In Handbook of Perception and Cognition, Vol 5; Perception of Space and Motion. W. Epstein and S. J. Rogers, Eds., Academic Press, San Diego, CA, 69–117 (1995).</p>
+<p>Cutting, J. E., y Vishton, P. M. Perceiving layout and knowing distances: The integration, relative potency, and contextual use of different information about depth. In Handbook of Perception and Cognition, Vol 5; Perception of Space and Motion. W. Epstein y S. J. Rogers, Eds., Academic Press, San Diego, CA, 69–117 (1995).</p>
+<p>Gibson, J. J. <em>The Perception of the Visual World</em>. Houghton Mifflin, Oxford, England. (1950).</p>
+<p>Goldstein, E. B. <em>Sensation and Perception</em> (7th ed.). Wadsworth-Thomson Learning, Belmont, California (2007).</p>
+<p>He, Z. J., Wu, B., Ooi, T. L., Yarbrough, G., y Wu, J. Judging egocentric distance on theground: Occlusion and surface integration. Perception 33(7),789–806 (2004).</p>
+<p>Indow, T. A critical review of Luneburg’s model with regard to global structure of visual space. Psychological Review 98, 430-453 (1991).</p>
+<p>Lappin, J. S., Shelton, A. L., y Rieser, J. J. Environmental context influences visually perceived distance. Attention Percept. Psychophys. 68 (4), 571–581 (2006).</p>
+<p>Loomis, J. M. Y Philbeck, J. W. Measuring perception with spatial updating and action. In Embodiment, Ego-space, and Action, R. L. Klatzky, B. MacWhinney, and M. Behrman, Eds., Psychology Press, New York, 1–43. (2008).</p>
+<p>Loomis, J. M. y Knapp, J. M. Visual perception of egocentric distance in real and virtual environments. In Virtual and Adaptive Environments, L. J. Hettinger and M. W. Haas, Eds., Erlbaum, Mahwah, NJ, 21–46 (2003).</p>
+<p>Rand, K. M., Tarampi, M. R., Creem-Regehr, S.H., And Thompson, W. B. The importance of a visual horizon for distance judgments under severely degraded vision. Perception 40 (2),143–154 (2011).</p>
+<p>Rieser, J. J., Ashmead, D. H., Talor, C. R. y Youngquist, G. A. Visual perception and the guidance of locomotion without vision to previously seen targets. Perception 19, 675-689 (1990).</p>
+<p>Rieser, J. J., Holman, K., Cummins, P., Weingarten, F., y Ridley, C. Similarities in bipedal, bimanual, and quadripedal locomotion: Evidence for a unified locomotor action system. Abstracts of the Psychonomic Society 9 (5). (2004).</p>
+<p>Rieser, J. J., Pick, H. L., Jr., Ashmead, D. A., y Garing, A. The calibration of human locomotion and models of perceptual–motor organization. Journal of Experimental Psychology: Human Perception &amp; Performance 21, 480-497 (1995).</p>
+<p>Sinai, M. J., Ooi, T. L., y He, Z. J. Terrain influences the accurate judgement of distance. Nature, 395, 497-500 (1998).</p>
+<p>Suppes, P. Some foundational problems in the theory of visual space. In R. D. Luce, M. D’Zmura, D. D. Hoffman, G. J. Iverson, y A. K. Romney (Eds.), Geometric representations of perceptual phenomena: Papers in honor of Tarow Indow on his 70th birthday (37- 45). Hillsdale, NJ: Erlbaum (1995).</p>
+<p>Suppes, P., Krantz, D. M., Luce, R. D., y Tversky, A. Foundations of measurement: Vol. 2. Geometrical, threshold, and probabilistic representations. San Diego: Academic Press (1989).</p>
+<p>Watson, M.R., y Enns, J.T. (in press). Depth perception. On-line data base Neuroscience and Biobehavioral Psychology, Elsevier Ltd, Oxford, UK (2012)</p>
+<p>Witt, J. K., Stefanucci, J. K., Riener, C. R., Y Proffitt, D. R. Seeing beyond the target: Environmental context affects distance perception. Perception 36,12,1752–1768. DOI: http://dx.doi.org/10.1068/p5617 (2007).</p>
+<p>Wu, B., Ooi, T. L., y He, Z. J. Perceiving distance accurately by a directional process of integrating ground information. Nature 428, 73-77 (2004).</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation column-body">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapters/04-distancia-musica.html" class="pagination-link" aria-label="La distancia como dimensión estructural en la música">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">La distancia como dimensión estructural en la música</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapters/06-multisensorial.html" class="pagination-link" aria-label="El proceso multisensorial">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">El proceso multisensorial</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Dr. Ezequiel Abregú
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
