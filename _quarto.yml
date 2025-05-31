@@ -4,6 +4,8 @@ project:
 execute:
   freeze: auto
 
+lang: es
+
 book:
   title: "Percepción de Distancia Aplicada a la Composición Sonora"
   #subtitle: "Auditory Distance Perception and Multisensory Integration"
@@ -55,7 +57,7 @@ format:
   html:
     mermaid: {}
     theme:
-      light: yeti
+      light: cosmo
       dark: slate
     toc: true
     #toc-location: left
