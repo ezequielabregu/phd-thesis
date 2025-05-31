@@ -107,7 +107,7 @@ diseñadas para una escucha espacial. Esta nueva manera de concebir los
 espacios posibilita pensar en las diferentes sensaciones que se pueden
 provocar en el oyente mediante el uso la espacialidad del sonido.
 
-![bild.jpg](/media/image2.jpg){width="5.0in"
+![](/media/image2.jpg){width="5.0in"
 height="3.3333333333333335in"}
 
 **Figura 1.2:** *Karlheinz Stockhausen "Spherical Concert Hall". Diseño

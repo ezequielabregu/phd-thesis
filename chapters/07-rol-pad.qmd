@@ -100,8 +100,7 @@ experimentos. Los voluntarios eran estudiantes de grado y graduados de
 la Licenciatura en Composición con Medios Electroacústicos. El rango de
 las edades fue de los 21 a los 42 años (edad media, 27.68 años).
 
-![Screen Shot 2017-05-11 at 1.11.26
-PM.png](/media/image12.png){width="6.267716535433071in"
+![](/media/image12.png){width="6.267716535433071in"
 height="3.0972222222222223in"}
 
 **Figura 7.1:** *Modelo en tres dimensiones del dispositivo
